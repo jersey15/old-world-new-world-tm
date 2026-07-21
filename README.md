@@ -6,9 +6,11 @@ The following content is covered by this repository:
 * The `data` folder contains the anonymised transcripts
 * `Interview Template.pdf` shows the questions which were asked during each interview
 
-## License and Citation
+## License
 
 This repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. See the `LICENSE` file for more details.
+
+## Citation
 
 If you use this replication package, please cite the associated publication and/or this repository using the citation information provided in `CITATION.cff`.
 
