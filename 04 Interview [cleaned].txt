@@ -1,0 +1,433 @@
+Transcript
+00:00:01 Researcher 1
+OK, it's recording.
+00:00:04 Researcher 1
+So, thank you for your time. First of all, and as I said, we are starting with the pre interview questionnaire.
+00:00:11 Researcher 1
+And it is regarding your back your background. So, what is your role in the company?
+00:00:19 Interviewee
+My role is AI engineer.
+00:00:22 Interviewee
+Do you want me to elaborate on that or what I have done previously?
+00:00:25 Researcher 1
+Yeah. If you want. Yes, sure.
+00:00:30 Interviewee
+So, I have been working previously at a different company as a data scientist, currently now working as an AI engineer here, mostly working. The intention I have. I have been working here for three weeks so not that long time but the intention to do to work mostly.
+00:00:51 Interviewee
+RAG solution. I guess you ask questions if you want me to elaborate on something.
+00:00:54 Researcher 1
+ Yes, exactly. It was just roughly for your background. So, could you summarise like your use of experience roughly? 
+00:01:09 Interviewee
+I mean, I guess it's part of the experience as well I worked at.
+00:01:12 Interviewee
+Sorry, I studied computer science within machine intelligence.
+00:01:17 Interviewee
+At also a [university] and I was working a bit at [company] as a business intelligence. Yeah, with business intelligence and visualising data using Power BI and so on, doing some analysis and so on.
+00:01:36 Interviewee
+Also working at a different company as a software developer with a Microsoft CRM-based system for public entity in [country] and then also at.
+00:01:51 Researcher 1
+OK.
+00:01:53 Interviewee
+At [company], working with time series analysis mostly has also done RAG solutions and then continues here.
+00:02:03 Researcher 1
+Nice.
+00:02:03 Researcher 1
+Thank you. Did you have any experience training or education in machine learning security, or it is also called adversarial machine learning?
+00:02:14 Interviewee
+No, no training.
+00:02:16 Researcher 1
+OK, so also not in the university any subjects or?
+00:02:19 Interviewee
+Anything, as far as I can recall, I don't think so, I mean.
+00:02:26 Interviewee
+I don't think so. No. OK, no, perfect.
+00:02:29 Researcher 1
+Right now, we go over to the to the.
+00:02:30 Researcher 1
+Main part right.
+00:02:32 Researcher 1
+So, could you briefly explain your understanding of the terms machine learning?
+00:02:38 Researcher 1
+And security, ideally with an example, yeah separately.
+00:02:40 Researcher 1
+Respecting.
+00:02:43 Interviewee
+OK, so machine learning a machine or computer learning from patterns of data, making it able to take decisions. I guess something like that.
+00:02:59 Interviewee
+An example as well.
+00:03:01 Interviewee
+Or.
+00:03:01 Researcher 1
+No, it's fine then.
+00:03:03 Interviewee
+Security than in general.
+00:03:08 Interviewee
+Making sure that something is secure is to make sure that not unauthorised persons get access or being able to influence something. I mean I guess it's quite kind of general or vague but.
+00:03:27 Researcher 1
+That there's no right or wrong here. It's just like roughly checking if we're on the same page and could you explain your understanding of machine learning security?
+00:03:28 Interviewee
+No, no.
+00:03:29 Interviewee
+Listening, yeah.
+00:03:36 Interviewee
+Then I guess it goes quite close to related to what I just said, but making sure that not unauthorised persons or people can interact or have influence over uh machine learning models.
+00:03:54 Interviewee
+Secure. I'm not sure I'm. I'm thinking now if making sure that the machine learning models are also trained on relevant data is part of security or not, but such as it shouldn't be biassed in certain. Not sure if that speaks for security.
+00:04:15 Researcher 1
+It goes in the right direction, yeah.
+00:04:20 Researcher 1
+Then which security calls are announced by your company's management regarding machine learning systems?
+00:04:26 Interviewee
+Yeah, I think this is quite hard to for me to answer. I said in the beginning, I've been working here for three weeks, so I haven't been, how do you say?
+00:04:42 Interviewee
+In contact or we haven't talked about it.
+00:04:44 Researcher 1
+Right, right.
+00:04:45 Researcher 1
+The OK then why do you consider security aspects of machine learning components in your machine learning systems? Maybe ideally in in your last project. So, I mean now you didn't have one per se, but maybe in the previous one.
+00:05:05 Interviewee
+You worked, so how do I consider security in my machine learning?
+00:05:08 Researcher 1
+Yes. So, what kind of role does it play in the design phase, for example, the access to data or access to the machine learning model per se and what are the access protocols for example? So, how important was that?
+00:05:15 Interviewee
+Yeah.
+00:05:24 Researcher 1
+Yeah.
+00:05:26 Interviewee
+Yeah.
+00:05:28 Interviewee
+This is also I guess, a bit hard to answer because I haven't really delivered a sort of machine learning solution in production. We have mostly in my previous company delivered proof of concepts (PoC) where of course you have you. You think of the security aspect as that that you need to make sure that it's delivered and fulfilled in the production solution.
+00:06:00 Researcher 2
+So basically, just to clarify, I think my understanding is that. Security is not really important when you're doing the proof of concept. Is that what you are saying?
+00:06:10 Interviewee
+I would say it's not as high priority as if you deliver a solution in production, you still need to address some and this I guess this is also my question, do we want to consider the aspect of making sure that the solution is not biassed is that part of security in your idea? Or is it just? Or is it not?
+00:06:35 Researcher 1
+No, it's. It's also part of it. So basically, biassing a machine learning model in that example has something to do with the training data that is available, right? So, it's just a shard I would say. So, we can either bias the data which can be used for malicious purposes as well or any other like variation of that point. So yes, data quality or the cleanness of data and we would be also interesting.
+00:07:02 Interviewee
+Yeah.
+00:07:04 Interviewee
+Yeah. Yeah. Because I guess because, yeah, for one of my previous projects where we did time series analysis, we went large aspect of the project was to go through various data sources that we would leverage and try and see what could be part of the model. So, for those we so we didn't follow sort of a security protocol, but we really, we wanted to deliver a really robust model. So, we really went into talking a lot of to a lot of businesspeople to really find data sources that would in the business aspect, be useful to the model, so I mean.
+00:07:47 Interviewee
+In in some way you could say that that would ensure that you find relevant data that the model is trained on so, but to also to answer your question. The security aspect is not as important for a PoC solution, but I guess you have it in mind, but you're not following, or we weren't doing a protocol to ensure anything.
+00:08:18 Researcher 1
+OK, so what's more intuitive in the way that you looked at the data sources per se?
+00:08:25 Interviewee
+Yeah. I mean, that's specifically exactly, but other than that, I mean to, to my knowledge of I can't come up with other things we did relate to security in terms of the PoC solution.
+00:08:40 Researcher 1
+So, what kind of models did you use? Like for example in your previous project? What kind of models have you applied?
+00:08:48 Interviewee
+So, I have used so when I worked in my previous employment, we were highly regulated. What models we could use, and the models were. Assessed by the company. So, we used ARIMA and profit, Facebook profit or and another one not as commonly known called BSS, which is a Bayesian structural Time series. I think it stands for those were the thing, those were the ones we used for the latest project.
+00:09:21 Interviewee
+I have also used like for previous projects random forest and like GPM and extra boost and solutions like that.
+00:09:30 Researcher 1
+So, it's a mix of shallow machine learning, deep learning and RAGs also have something in common with large language models, right? So OK, but all right, perfect.
+00:09:37 Interviewee
+Yeah, yeah, of course, of course.
+00:09:41 Interviewee
+And I was thinking about one thing now, what was it?
+00:09:48 Researcher 1
+Yeah, maybe I'll no, it's fine. So OK, maybe I will still ask that question, which role did the machine learning models play in the overall security of your machine learning system? So, you said, OK, you had some protocols. Was there anything else what was also considered? Maybe you were not directly involved, but you know that maybe other roles were involved, for example?
+00:10:21 Interviewee
+Can you give an example or?
+00:10:24 Researcher 1
+That you for example, that you said that models that were used were assessed by the company previously and that you intuitively looked into data sources that they were to confidential to some degree. But do you know if there was some sort of testing team that was trying to maybe, uh, find specific data entries that would make the model behave differently, for example or anything like that? So, was there? Dedicated security team that looked into the topic of machine learning. What? Yeah, OK.
+00:11:06 Interviewee
+I understand.
+00:11:07 Interviewee
+Yeah.
+00:11:09 Interviewee
+No. So we didn't have any, any team looking at the model from a security perspective trying to see if there were, yeah, negative aspects, there's better words but yeah, but looking at the security aspect of the solution, we had a lot of.
+00:11:28 Interviewee
+Businesspeople looking into the performance of the model to ensure that it generated relevant response forecasts.
+00:11:37 Interviewee
+But we didn't have a security team looking into to those aspects so.
+00:11:45 Researcher 1
+Maybe also following up on the data source where the models that you used, did they use reinforcement learning as well or were they updated to, to, to some degree or?
+00:11:58 Interviewee
+No, they were retrained every month.
+00:12:02 Interviewee
+Given that you get, it's a time series forecasting you get newer data every month as it was monthly for monthly forecasts, but there was no reinforcement learning, but they were retrained every month.
+00:12:14 Researcher 1
+OK. All right. And was the data that was used for retraining also screened or anything or just used?
+00:12:22 Interviewee
+No, it was not screened. It wasn't looked at. I mean, it's also it, it was part of a PoC, right? So, we did the initial model training and came up with a set of data points that were going to be used in the model.
+00:12:42 Interviewee
+And though so for the retraining, we didn't add new data to the model, it was just still the sort of subset of the signals or the data points that we have concluded from the initial phase. But the new so the new data points for the given features or signals or yeah, they stay the same. All right.
+00:13:06 Researcher 1
+Thank you. So, for the next question, we distinguish between 2 scenarios and so the first one is.
+00:13:17 Researcher 1
+And it goes more into the threat modelling direction now where we're looking into scenario one where machine learning component is already integrated into a system.
+00:13:29 Researcher 1
+And scenario 2 is that basically a machine learning model or component is planned to be integrated into a production system.
+00:13:40 Researcher 1
+And.
+00:13:43 Researcher 1
+So, this is probably a difficult question for you, but I'll maybe, maybe we will scratch some. Some experience you had maybe not directly but indirectly what is the difference in security aspect assessment of already implemented machine learning system?
+00:13:47 Interviewee
+MHM.
+00:14:02 Researcher 1
+And the planned approach to integrate the machine learning component into system production.
+00:14:10 Researcher 1
+Hmm.
+00:14:11 Interviewee
+So, I understand the question. I guess it you you're also interesting to hear if I have been, I mean what I have done previously if I came to this, but I haven't done so I guess yeah, I can reason.
+00:14:25 Interviewee
+So, you say you say either you have you have a system with integrated ML component Contra system where you the system is already existing, and you want to integrate a component and how you would then apply the different security assessment.
+00:14:47 Researcher 1
+It's fine if you say like OK, you have no experience, then no.
+00:14:50 Interviewee
+I have no experience, so I mean if you after the experience part, yeah.
+00:14:54 Researcher 1
+Unless you have like some sort of, I don't know if you've experienced it in an indirect way.
+00:15:01 Researcher 1
+That you were part of, like a project stage and then you were, it was explained to you that after before happened XYZ that might refer to this question, but if not, that's fine.
+00:15:14 Researcher 1
+Have you ever conducted a risk assessment of a machine learning?
+00:15:19 Researcher 1
+No.
+00:15:33 Researcher 1
+No. OK then if. Yeah. Maybe in your last project.
+00:15:39 Researcher 1
+You know about the risk assessment. Do you know if any people were involved that had that were familiar with machine learning security or were those just security experts?
+00:15:54 Interviewee
+So again, if I had any people in the previous projects that has.
+00:15:57 Researcher 1
+So, if you were aware of the situation that there was a risk assessment of a machine learning system.
+00:16:01 Interviewee
+Yeah, yeah, yeah. OK, yeah. Yeah. So, no, I haven't been. I mean, for the project I haven't delivered. We had there has not hasn't been any sort of yeah risk assessments for the model.
+00:16:13 Researcher 1
+OK. All right.
+00:16:16 Researcher 1
+All right, then we can skip this.
+00:16:20 Researcher 1
+This as well.
+00:16:23 Interviewee
+And alright, I think it also for because maybe this can add some value, maybe not directly to question, but when we have done the sort of, for example PoCs for this time series forecasting or for one of the RAG solutions it it's usually when you deliver the PoC.
+00:16:42 Interviewee
+Comes to the conclusion at the end of the PoC that ok how would these results be leveraged and given how successful the project is looked at.
+00:16:56 Interviewee
+Then you might take different ways. So, for example, if you wanted to be support in decision making or if you should trust the predictions completely and so on, and depending on what you conclude at the end of the PoC, you will then take different ways and move ahead with the. Risk assessment, that sort of stage after the PoC, it is usually how it has been.
+00:17:24 Researcher 1
+Interesting. Yeah. So.
+00:17:28 Researcher 1
+The next part would be about the defence mechanisms, and I would like to stick to what you already reported regarding the data sources, right? So, was there, the case that you identified the data source that was maybe not so trustworthy and what were then the defence mechanisms have you?
+00:17:50 Interviewee
+Yeah, yeah. So, my previous employer, we had sort of a, you could call it a databank, that was that automated, a small step with collecting open-source data and doing some not feature engineering but structuring the data.
+00:18:11 Interviewee
+And saving it, yeah, to our own data bank. You could have like API calls, essentially just storing data.
+00:18:20 Interviewee
+So.
+00:18:23 Interviewee
+When you did feature engineering and assessed what features you wanted to have in your model, you could go to that data bank or whatever you want to call it and look for features that could help in your model or that data. So, there were some assessments on there.
+00:18:42 Interviewee
+That I don't know what they did, but then you had, uh, you could. Yeah, like a set of that. You.
+00:18:51 Interviewee
+But it was open-source data, so in in some way it's not. Yeah, I'm not sure how we phrased it, but not so trustworthy exactly.
+00:19:03 Researcher 1
+So, OK. So just to recap, so you had the database or a data bank that basically you were consulting if you needed data which was open source as you said, but there was no assessment of the trustworthiness of the data source that are then part of the database.
+00:19:26 Interviewee
+There. So, I don't know. I'm not aware of exactly what was done, but you weren't allowed to just ingest whatever's in there. So. But it was a global one. So, my previous employer was a very large global actor. Or yeah. However, you want to anonymize it later, but.
+00:19:45 Interviewee
+And so, it was done on a global level. So, I don't know what they did, but I'm sure that.
+00:19:50 Interviewee
+I know that you weren't allowed to just have anything you want there, but I don't know what they did. But it was open-source data. And it was data sources like, for example, Eurostat. So, it was quite commonly known data sources. But then again, it's open source. So.
+00:19:53 Researcher 1
+Mm-hmm.
+00:20:10 Interviewee
+Not only for security, but you don't have any influence of whether they will stop providing the data source and so on, which is a different risk for machine learning models. If you if you rely on open-source data.
+00:20:24 Researcher 2
+Basically, you are not sure whether you will get the same data with the same quality.
+00:20:28 Interviewee
+Even no or structure, even they might. Yeah, exactly.
+00:20:31 Researcher 2
+Even if the.
+00:20:34 Interviewee
+So that was a that was a sort of a large risk in our project. That's right.
+00:20:42 Researcher 1
+Yeah. So, you were mostly involved, for example, with your last employer in the in the PoCs.
+00:20:48 Researcher 1
+Yes, OK. So, for the PoCs, there were no involvement of threat modelling or any security assessment or what whatsoever not directly, right? 
+00:21:08 Interviewee
+No. And I'm not sure. I mean I don't have much experience in this area but. Not sure if that is something that's usually part of POC because POC is also something where you want to prove a concept, right? So, you I guess you don't want to take.
+00:21:19 Interviewee
+To.
+00:21:22 Interviewee
+Big I mean and take too much work or.
+00:21:26 Researcher 2
+Too much quick and dirty solution just to.
+00:21:29 Researcher 2
+See how that works.
+00:21:29 Interviewee
+Yeah, it is because you don't want to build, I mean this is not a production solution you, but I mean you don't want to do too much work if you realise that it's not something that they're worth proceeding with, right, so yeah.
+00:21:42 Researcher 1
+And what's your opinion of that about that? So, is it, is it the right way to do it or?
+00:21:49 Researcher 1
+Would you think that should be more security involved in the PoC process as well?
+00:21:53 Interviewee
+I guess it also depends on how you use the PoC result later.
+00:21:57 Interviewee
+Because some different companies have different policies when it comes to a PoC and then a production solution, some might think that you want to rebuild the whole solution when you have proof, when the PoC is done, you realise you want to proceed with this, they rebuild the whole solution and some just wants to tweak this.
+00:22:18 Interviewee
+Existing PoC and then move to production.
+00:22:21 Interviewee
+So, I would say it depends on what workflow you have and what policies you have. Moving from POC to production. If you want to rebuild it, I guess it's fine.
+00:22:29 Interviewee
+Having the POC as.
+00:22:30 Interviewee
+It is perhaps if you want to tweak it then yeah, you might need to and take some and consider more things in the PoC such as Security.
+00:22:41 Interviewee
+Yeah, depending on how you how you want to move ahead with it afterwards. But I mean I still think.
+00:22:47 Interviewee
+Because in my opinion it's it. I think PoCs might sometimes tend to grow too large and then you just tweak them and go to production sort of I think better would be maybe to have the PoC, let them be simple and fast and then you.
+00:23:07 Interviewee
+You almost rebuild it when you go with.
+00:23:09 Interviewee
+The production solution.
+00:23:09 Researcher 2
+That's actually a problem that is not generally for machine learning. There was this very nice phrase I read somewhere that.
+00:23:13 Interviewee
+No.
+00:23:20 Researcher 2
+When POCs become products, it's a general problem that you start creating something just to see whether it works or not and then it stays. It becomes the product itself and then the smaller.
+00:23:23 Interviewee
+Hmm.
+00:23:32 Interviewee
+Yeah.
+00:23:37 Interviewee
+Exactly.
+00:23:39 Researcher 2
+Things that you said, OK, we need to. We don't need to consider this.
+00:23:43 Researcher 2
+Because we it's just to show when things work, but then you basically start working on top of that and then it becomes part of that system. I was reading this in a paper regarding technical debt actually that.
+00:24:04 Researcher 2
+Are you aware of technical data?
+00:24:06 Interviewee
+Yeah. I mean in general.
+00:24:08 Interviewee
+Perhaps, but it depends on what.
+00:24:10 Researcher 2
+So basically, when you do quick and dirty solutions, you say I will come and fix it because right now I don't need it either. It's because it can be because of like. Let's say we don't have time, so let's just deliver and then we come back and fix it. Sometimes you don't know, sometimes it's like it's a PoC. We don't need to do this.
+00:24:13 Researcher 1
+Yeah, yeah.
+00:24:17 Interviewee
+Yeah.
+00:24:30 Researcher 2
+Right now, or something like that. So, it's like problems that you're aware of in your system and you promise that I will come back and.
+00:24:37 Researcher 2
+Fix it right?
+00:24:38 Researcher 2
+And this of course extends to anything related to software engineering, security included.
+00:24:43 Interviewee
+Yeah.
+00:24:44 Interviewee
+Yeah.
+00:24:45 Researcher 2
+And I, at least from what I see, the now I can link those two ideas that it's the same problem with the machine learning PoCs as well. So, you don't like we are doing just a PoC and then it ends up becoming the product.
+00:24:53 Researcher 1
+Hmm.
+00:24:55 Researcher 1
+Yeah.
+00:25:01 Interviewee
+Yeah, exactly. Because you mean you invest some money in the from a company's point of view, you invest some money in a PoC, you get to see the product and if you're not a technical person, what you see is what you want, perhaps, and depending on what it has been delivered and you feel like it. But I could just use this right.
+00:25:18 Interviewee
+And then going to a production you want to, yeah, don't wanna rebuild because you have done a lot of work already and the investment would then of course be higher if you can't reuse it. So, I mean, I mean I'm not, I'm not surprised that's how it's been but sometimes.
+00:25:35 Researcher 1
+So, I mean we can stick also to the PoC topic.
+00:25:42 Researcher 1
+Have you noticed or were you aware of your PoC that you built or were part of the team building it that it wasn't used in production because of and risk assessment that happened afterwards?
+00:25:57 Interviewee
+No, I haven't. That hasn't happened during my projects. I mean, I totally understand the question, but no.
+00:26:07 Researcher 1
+Because then it would be interesting to know if that happened, then I mean now. It's conjunctive, right? But to?
+00:26:13 Interviewee
+Yeah, sure.
+00:26:15 Researcher 1
+The question would be then should the person building the PoC also be aware of those security factors? And like before actually building the PoC that could be relevant, right?
+00:26:21 Interviewee
+Yeah.
+00:26:30 Interviewee
+Yeah, I mean.
+00:26:33 Interviewee
+Depends on. Yeah, I mean I can. I can totally see the need or the use of having a risk assessment earlier if I mean if you delivered the PoC you realise you would have needed to do this to I mean if you think of that.
+00:26:52 Interviewee
+For you build the PoC and then you redo it, and you build the production solution with all the necessary risk assessments. You might see that you would have done things differently if you knew that already when you did the PoC. Then of course it would be, uh.
+00:27:05 Researcher 1
+Hmm.
+00:27:08 Interviewee
+Good to have it much earlier and I guess.
+00:27:09 Researcher 1
+Yeah, yeah.
+00:27:13 Interviewee
+Perhaps that always happens? Perhaps not. I don't know. Right, perhaps. Depends on the project, but...
+00:27:18 Researcher 1
+I mean you; you answered it partially as well. So, if the person building the PoC already knows where it is placed and the risk assessment was already done around the component where it should be and the surrounding, then you can also act accordingly on those security assessment results within the PoC.
+00:27:36 Researcher 1
+If there is none, then obviously cannot be done right, but you'll see as a quick and dirty solution. Yeah. No. Perfect. Thank you. Right. So, the last part of the interview is future needs and wishes, and the instructions are easy. So, you just give a.
+00:27:56 Researcher 1
+You just give a number.
+00:27:59 Researcher 1
+So, 1 stands for insufficiently covered in my company. Based on your early entrance to the company, we can just use your previous employer. I think that's. That's fine too, unless you know it for your current employer. And 10 is means very well covered in my company. But you can choose a range in between 1 and 10.
+00:28:19 Researcher 1
+Right. So, the ability to select fit for purpose, machine learning components or models to include in machine learning system and production is?
+00:28:30 Interviewee
+So, the ability, yeah.
+00:28:34 Interviewee
+And do you want me to elaborate on it or should I just pick a number?
+00:28:37 Researcher 1
+You can just pick a number and then elaborate if you want because we have time.
+00:28:41 Interviewee
+Yeah, sure.
+00:28:43 Interviewee
+So now I'm thinking more towards the previous employer, and I would say that maybe a three.
+00:28:50 Interviewee
+And the reason being that I was limited in what models I could use because it had to be assessed by the company before we were allowed to use them. So, we were quite limited in what we could use, right? OK. And they did that assessment involve any form of security or trustworthiness?
+00:29:11 Interviewee
+Also, part of what I don't know what they did for the assessment.
+00:29:14 Researcher 1
+OK.
+00:29:17 Interviewee
+So, we weren't allowed to use any models we were allowed to choose from.
+00:29:21 Interviewee
+A pool of models.
+00:29:22 Researcher 1
+Right, right.
+00:29:25 Researcher 1
+Yeah. All right. No, perfect. Thank you.
+00:29:27 Interviewee
+And not. Yeah. I don't know what risk assessment they did when they discussed the.
+00:29:33 Researcher 1
+Models. But you also don't know if they did a risk assessment.
+00:29:36 Interviewee
+Not specifically a risk assessment, but they did an assessment, so they assessed the models, not sure how.
+00:29:39 Researcher 1
+Right. OK.
+00:29:43 Researcher 1
+OK, alright. No, perfect. The ability to evaluate security concerns, machine learning components to include in your Machine learning system in production.
+00:29:57 Researcher 1
+The ability to evaluate security concerns.
+00:30:00 Interviewee
+The ability to evaluate security concerns.
+00:30:06 Interviewee
+And this is also what was provided by.
+00:30:11 Interviewee
+It's hard to answer.
+00:30:12 Researcher 1
+OK, that's no problem. The ability to maintain the machine learning component in a machine learning system in production is.
+00:30:26 Interviewee
+I would say not harder than.
+00:30:30 Interviewee
+Yeah.
+00:30:34 Interviewee
+Maybe 7?
+00:30:39 Interviewee
+Also, that you get quite a lot of, uh, support if you use for example, cloud providers such as Azure, you have, what do you say start support.
+00:30:54 Interviewee
+And resources for doing that as well.
+00:30:57 Researcher 1
+Thank you. And the last question, any points that should have been mentioned in this interview, we think they were missing.
+00:31:10 Interviewee
+Oh.
+00:31:12 Interviewee
+OK. No, I don't. I don't think so. I mean it's a bit hard, of course haven't had that much experience in this. So, it's hard to add some anything, 
+00:31:30 Researcher 1
+No perfect, then, this is it. Thank you for your time.

@@ -1,0 +1,568 @@
+Transcript
+00:00:04 Researcher 1
+Exactly. So, [interviewee], thank you for your time, first of all. And so, we're going to start with some background questions. So, what is your role in the company?
+00:00:13 Interviewee
+I am a machine learning engineer at [company].
+00:00:16 Researcher 1
+Right. How many years of experience did you collect over your professional career?
+00:00:21 Interviewee
+I would say around 8 years plus two years of postdoc and three years of PhD before that.
+00:00:28 Researcher 1
+OK. Nice. Can you OK, can you elaborate a little bit?
+00:00:35 Interviewee
+So, I did a PhD in [natural sciences] and computer science specialized in image processing, followed up by postdoc in biomedicine.
+00:00:49 Interviewee
+And more particularly on [medical imaging] in giga image and development of a web platform for being able to display those images and those detections.
+00:01:01 Interviewee
+And then I moved as a data scientist in [research institute], in which I moved from data scientist to research leader. So being in charge of a group of data scientists, bioinformaticians, computer scientists, bringing them working together to push the research around AI/Machine Learning in forestry.
+00:01:28 Interviewee
+After that I came back to Sweden, and I worked three years at [another company], which is an e-commerce company during which I specialized actually in data science, not well. I did apply to retailers, but the idea was really to learn more about my own background and develop my own skills. And I did that through learning the whole data engineering process that extraction data transformation but also the word data analytics process throughout visualization. In [another company], Power BI rendering information and insights throughout stakeholder community.
+00:02:06 Interviewee
+Following [another company], I became a freelancer creating my own company, contracting a couple of clients during a bit less than a year, and after that, I decided to join  [company] as a machine learning engineer/data scientist.
+00:02:25 Researcher 1
+OK. Thank you.
+00:02:27 Researcher 1
+Did you have any experience training or education in machine learning security or adversarial machine learning?
+00:02:35 Interviewee
+No, not as a part of my education. Like I kind of mentioned my education started to become quite old.
+00:02:43 Interviewee
+But well, we did talk about security throughout computer science and business logic, but not specifically in terms of AI. Generative AI was really the well infancy or really baby at that time. But we were talking already in term of the potential of AI.
+00:03:04 Interviewee
+In term of being more performant the same way we talk about quantum computing at the time in terms of how fast can we now or in the future we will be able to encrypt or describe information throughout computer science.
+00:03:21 Researcher 1
+Right, right. OK, thank you. Could you briefly explain your understanding of the terms machine learning and security, separately?
+00:03:31 Interviewee
+Yeah, yes. So, machine learning is a concept in which an algorithm or a pipeline learns information from the data. In order to find patterns in the data in a supervised way, that's mean human experts will actually provide some ground truth to the machine to be able for the machine to learn what is from different classes. What is true, what is wrong or what is the range of the information which is the big difference, for example, deep learning.
+00:04:03 Interviewee
+In terms of security and machine learning, while there are different aspects, what came to my mind in terms of security, there is of course bias learning, but also well the use of machine learning to fraud to attack equivalent of DDoS. But throughout machine learning.
+00:04:26 Interviewee
+Credit card transcription. So, there is a lot of potential with machine learning to be able to, well, bridge security I would say.
+00:04:37 Researcher 1
+Right. OK, that's nice. And how would you explain machine learning security?
+00:04:43 Interviewee
+Machine learning security.
+00:04:49 Interviewee
+Well, that would say that how we can use machine learning to improve the security, I suppose so. That would be around. How do we detect from in chat bot that would be fishing? For example, can we detect some of the emails that I've sent and that we're currently trying to fraud people throughout?
+00:05:08 Interviewee
+Templates or similar words similar expression throughout the emails. How can we detect those particular emails?
+00:05:17 Interviewee
+Say, OK, those are phishing emails. Those are not phishing emails, so you should maybe monitor and trigger like security based on those information. So that is for phishing emails. But of course, that can be pushed throughout phone call that can be pushed throughout different way of communication and different methodologies as well.
+00:05:39 Researcher 1
+OK. Just to clarify, so, there is no right or wrong here. So, if you take the fishing example and to use for example machine learning to detect phishing yes, or no? Yeah. Then machine learning security would be that you guarantee that there is no.
+00:05:56 Researcher 1
+So, no signal word, for example, that you could include in the phishing e-mail that that would always force the machine learning that is detecting phishing or not phishing always decides the way you want it right for an attacker. If you write phishing e-mail, include a word or a picture or whatnot.
+00:06:16 Researcher 1
+Yeah, and that tricks the machine learning-based detector to always say, OK, it's benign that would be machine learning security in the context of the study.
+00:06:27 Interviewee
+Well, of course it's not a yes or no. There will be probability behind which will say like. Well, there's a higher chance that this e-mail is fishy. Please have a second look. Don't click on the e-mail or please send that to IT. Security for double checking. Yes.
+00:06:37 Researcher 1
+Yeah, yeah.
+00:06:40 Researcher 1
+Yeah. Yeah, yeah. So. So that was just like to connecting to confirm exactly. So, we're on the same page. So which security goals are announced by your company's management regarding the focus on machine learning security?
+00:07:01 Interviewee
+For our company or for our client?
+00:07:04 Researcher 1
+I mean, if they're.
+00:07:05 Researcher 2
+I would say both in this case.
+00:07:07 Researcher 1
+Yeah, both would be ideal.
+00:07:08 Interviewee
+Yeah. OK.
+00:07:11
+Hmm.
+00:07:12 Researcher 1
+Let's start with your.
+00:07:13 Interviewee
+Company. Yeah. So, for [company]’s perspective, we have well all people have implemented security such as one password of course.
+00:07:24 Interviewee
+Announcement. Never click on the link when you are unsure about the source of the link 1 password for being able to gather multiple passwords. They did say well that we could obviously use the browser equivalent of 1 password which is like auto generated password but that one.
+00:07:44 Interviewee
+This world was a bit more modulable across the company to be uhm.
+00:07:51 Interviewee
+What else in terms of security within [company] I've heard.
+00:07:57 Researcher 1
+Also, of course, we have to focus on machine learning development, so if there's.
+00:07:58
+Hmm.
+00:08:01 Interviewee
+Oh yes. Well, then around that. Yeah, that's a bit technical clients, but there is in term of phishing detection like I did mention, but of course some.
+00:08:02
+Yeah.
+00:08:16 Interviewee
+Behavior. User behavior detection that's also part of the financial institutes client type. We want obviously to develop a better machine learning algorithm for this well financial but also manufacturer or logistic and delivery customers that we have. So, we want to detect, for example, if products have been stolen, if bad behavior from user or from employee has been perform. So, we want to be able to detect those kinds of anomalies in some delivery processes or just normal usage of the product. Is there any behavioral pattern that we can detect throughout machine learning to well again trigger monitor and trigger response?
+00:09:05 Researcher 1
+Right, that was an example for applied to machine learning for security. But if you I mean if we step over to the clients and their security perception. So, for example if.
+00:09:19 Researcher 1
+The logistics company comes to you and wants to develop.
+00:09:23 Researcher 1
+Those fraud detection systems and so on. Are there any security measurements that or something that they are focusing on and saying like, OK, that the data sources need to be checked or verified or the models you're using that they're like from a trusted source?
+00:09:45 Researcher 1
+Hmm.
+00:09:47 Researcher 1
+Any kind of kind of into that direction?
+00:09:51 Interviewee
+Well, in terms of data source, it's more from my side. I will always double check the information I get. There is no 100% clean data obviously. So, one and I can always say one of the first step of any good data science project.
+00:10:06 Interviewee
+Is to explore the data.
+00:10:08 Interviewee
+To do some basic analysis.
+00:10:10 Interviewee
+How much data are we missing? What is the validity of our data? How much can we trust the data? Because you can create any kind of machine learning behind that and have any kind of answer that you may or may not expect. If the data are incorrect. So even if the client were to tell me like oh, you can trust 100% of the data, I will never do that.
+From an ethical perspective, and then from what was your second part of the question machine learning aspect?
+00:10:37 Researcher 1
+Yeah, it was more regarding the goals that are announced now by your company and by now, for example clients, if they have like certain rules that the machine learning needs to stick to.
+00:10:48 Interviewee
+Aye.
+00:10:51 Interviewee
+No, I've never had I know about a colleague did in term of open source and.
+00:10:59 Interviewee
+Yeah, like you said, sticking to some known library or some specific framework, but I didn't hear anything from within the company or any of our clients which were specified in terms of.
+00:11:12 Researcher 1
+OK.
+00:11:13 Researcher 1
+Perfect, then right so.
+00:11:21 Researcher 1
+If security was considered during the development of machine learning component.
+00:11:29 Researcher 1
+What kind of role did machine learning security play for your client for example?
+00:11:40 Interviewee
+I don’t understand the question.
+00:11:40 Interviewee
+Sorry.
+00:11:41 Researcher 1
+OK, no, no worries. So, the question is why do you consider security aspects of machine learning components machine learning models in machine learning systems?
+00:11:56
+Hmm.
+00:12:01 Interviewee
+Well, the main security breach that I know about in terms of machine learning development is around Python libraries and how some libraries in the past have been used to, well ingest. Don't know. I don't know what's the exact word, but equivalent trojan horse to be able to track and create backdoor into systems.
+00:12:22 Interviewee
+I always use. Well, I try to always use classic library.
+00:12:27 Interviewee
+Into my project I never. Well, sometimes you do have to use some wheels and forge  sources, but never had any, you know, consideration around specific danger.
+00:12:47 Researcher 1
+Then what kind of models were applied in the machine learning development phase?
+00:12:55 Interviewee
+Across all my.
+00:12:56 Researcher 1
+Project. Yeah, we're in the last project for example.
+00:13:02 Interviewee
+NumPy, pandas as scikit learn well recently Surprise.
+00:13:09 Interviewee
+UM.
+00:13:11 Researcher 1
+I was more referring to a more superficial level, so was it rather like shallow machine learning like decision trees, random forest? Or was it more deep learning LLMs or GenAI or?
+00:13:25 Interviewee
+No, I haven't worked much with Genai Python library but.
+00:13:31 Interviewee
+Larger deep learning frameworks such as Pytorch or TensorFlow, but also a lot on gradient boosting.
+00:13:41 Interviewee
+Well, decision tree and while you could say the cat boost library for example, there's been a lot of.
+00:13:49 Interviewee
+Talk about this particular library. If you know about it. LightGBM. So yeah, everything around tree decision NLP model Transformers hugging faces.
+00:14:03 Interviewee
+Yeah. And a lot around that wear CoreShell. Like I said, pandas NumPy, scikit.
+00:14:08 Researcher 1
+Alright, large variety. OK. And so, since you already did not experience any security.
+00:14:19 Researcher 1
+Let's say focus in your clients. We can skip this question.
+00:14:26 Researcher 1
+And uhm, well, uh yeah, context wise, now we have 2 scenarios. So, scenario one is looking into machine learning integration, right?
+00:14:35
+Yeah.
+00:14:36 Researcher 1
+And the other one is that a machine learning component is planned to be integrated into a system and production so.
+00:14:46 Researcher 1
+2 scenarios.
+00:14:49 Researcher 1
+And well, I'll ask that question. Uh anyways, so what, what do you think is the difference? Uh, from security assessment for scenario one and scenario 2.
+00:15:06 Interviewee
+OK, so the first one is the integration of machine learning.
+00:15:10 Researcher 1
+Integrate already integrated and the other one is. It is planned to be integrated.
+00:15:11 Interviewee
+OK.
+00:15:16 Interviewee
+OK, so with other security assessment when it's already or when it's planned?
+00:15:20 Researcher 1
+To be OK, if there is, what's the difference? Is it more difficult or?
+00:15:27 Interviewee
+Hmm.
+00:15:29 Researcher 1
+And also, with regard to the security assessment.
+00:15:33 Interviewee
+Yeah.
+00:15:37 Interviewee
+Well, I would guess it's a bit more difficult when it's already implemented, because if there is any well, security breach or reason for concern, then the whole pipeline, which might already be in production already running, need to be modified, change and then you go back to.
+00:15:56 Interviewee
+The second case, which is like OK if we were to do it again or like to fix it, what would be the consideration that we need to tackle?
+00:16:07 Interviewee
+And how do we solve that? So that would be OK. Which model do we use? Which library do we use? What are the risks? What are the potential?
+00:16:15 Researcher 1
+Have you ever conducted the risk assessment or threat modeling for a machine learning system?
+00:16:22 Interviewee
+No.
+00:16:27 Researcher 1
+Do you know about any risk assessment or threat modeling for a particular machine learning system that were was maybe a step after your task or a step before maybe.
+00:16:43
+Hmm.
+00:16:52 Interviewee
+Well, I did implemented it some.
+00:16:56 Interviewee
+At that time, some G Unicorn Python model. So, using fresk KPI to be able to develop a model that will be used in more real time on the platform, both Web and app. And I remember having a discussion after that with front end developers.
+00:17:15 Interviewee
+In term of security, it's not really directly for the machine learning security, but for the overall image content security and how to.
+00:17:26 Interviewee
+Yeah. How? How do we protect that from any external intrusion?
+00:17:31 Researcher 1
+OK, the image content security. Could you elaborate what you mean?
+00:17:34 Interviewee
+We were developing containers application so that is referenced as an image. So, we were using this image to deploy the what we were deploying this image on the Kubernetes airflow.
+Framework afterwards and so they were. They were parts of the Python that were discussed in terms of can that be accessed? Yes, exactly. So, the idea was the user was typing information.
+00:17:56 Interviewee
+Otherwise.
+00:18:11 Interviewee
+Into, well, the system so example the title and my machine learning model was reading the title, so there were risk for concern in terms of what if the user type A whole sequence code to try to hack? How is that going to be read by the Python script and how is that going to be?
+00:18:29 Researcher 1
+Hmm.
+00:18:30 Interviewee
+So, there were some security set up as a front end for to avoid the well, the Python script to read and to and to interpret any type of code, but only short title for example or as a maximum number of lines.
+00:18:46 Researcher 1
+What was the result of that discussion?
+00:18:51 Interviewee
+Well, there was this kind of solution implemented from a front-end perspective, so my code didn't change much in terms of.
+00:18:56 Researcher 1
+Oh, OK so.
+00:18:59 Interviewee
+Reaction. What I remember now that was a couple of years ago, but.
+00:19:02 Researcher 1
+OK, but then there was some form of input validation.
+00:19:05 Interviewee
+Probably yes, exactly. So, we were checking that what was entered was not like a script or code and.
+00:19:10 Researcher 1
+Right. OK. Thank you. Right. And have you known about any form of risk assessment of the machine learning model, maybe how the front-end developer to reuse the example you just explained how they came up with that assessment or with that?
+00:19:32 Researcher 1
+Gut feeling?
+00:19:33 Interviewee
+Uh.
+00:19:35 Interviewee
+I'm not sure. From experience, I guess I was there. OK, I don't.
+00:19:40 Interviewee
+OK. No, I don't have.
+00:19:43 Researcher 1
+OK, so you also don't know about any risk assessment, particularly looking into the machine learning component of the machine learning system in production?
+00:19:54 Interviewee
+No, it wouldn't say so.
+00:19:55 Researcher 1
+OK. And all right.
+00:20:00 Researcher 1
+Right, then we can skip this and this and this is as well.
+00:20:16 Researcher 1
+Did you have to implement any form of defense mechanisms for your machine learning models? I mean, OK one we have which is like input validation right which we talked about now a little bit and then any other form of defense?
+00:20:32 Researcher 1
+Mechanisms that you had to implement because it's like requirements or the result of  threat modeling or risk assessment.
+00:20:42 Interviewee
+UM.
+00:20:44 Interviewee
+Not directly. The only thing I can think about is every time you are doing some kind of again input from the user as a JSON file in your data, how do you confirm that they are valid JSON file or valid text inputs, but otherwise that don't really have any.
+00:21:02 Researcher 1
+But I have an idea maybe which could be interesting is how you validate the data sources. You said that you have like some sort of procedure in mind. Uh, where you double-check it on, on your own. Basically. Yeah. Could you elaborate on that a little bit?
+00:21:22 Interviewee
+Yeah, well, I do.
+00:21:24 Interviewee
+Data exploration in the sense that I will look at the integrity of the data. So, I will look at how much of the data I'm missing, what are the source of the data and sends that OK do we know how they are registered? Is it human input? Is it sensor? Automatic sensor trying to understand.
+00:21:42 Interviewee
+All of the.
+00:21:42 Interviewee
+Is in and out for the data we're coming from and after that in terms of tags validity, what can be input? What is acceptable in terms of text or in terms of image? I haven't worked a lot with sound so I'm not quite sure there should be an equivalent in terms of. Yeah, you don't want to integrate.
+00:22:02 Interviewee
+Everything in anything in your data, but overall, you want your classes to be balanced. You want your data to be normalized, you want your input to not be all nude or be missing. You don't want 10% of your data being missed.
+00:22:18 Interviewee
+Or sorry being there 90% being missing.
+00:22:22 Researcher 1
+So, you basically look at the logs of the data set you are about to use. Basically, what happened to it and right who had access, who was allowed to access it. All right.
+00:22:34 Interviewee
+Yeah.
+00:22:35 Researcher 1
+OK. So, regarding the data sources, do you do similar?
+00:22:39 Researcher 1
+Precautions for, I mean, you already mentioned in the beginning that that you are using trusted libraries, right? And if you are using new libraries, do you have a similar process to evaluate it?
+00:22:56 Interviewee
+Hmm.
+00:23:02 Interviewee
+No to be fair, I never really thought about that from new library.
+00:23:07 Researcher 1
+OK, alright. No, perfect. So, it's alright right then.
+00:23:12 Interviewee
+I mean, I'm reading review and like, yeah, trying to look on official website even for real like trusted website like Source Forge or.
+00:23:23 Interviewee
+I don't go on website which are not pure approved. Yeah, that's my only I would say.
+00:23:31 Researcher 2
+It's mostly based on experience.
+00:23:33 Interviewee
+Based on experience, based on whatever users are using, yeah.
+00:23:37 Researcher 1
+Right, but this is also not purely put on you because of the of the management of your company or by the client or something that is your decision, your protocol.
+00:23:45 Interviewee
+No.
+00:23:50 Interviewee
+Yeah, yeah, absolutely.
+00:23:51 Researcher 1
+So.
+00:23:54 Researcher 1
+And you don't. Also don't have any consequences or anything if you would not do it right? So, if something of some sort of breach or anything happens, then you know.
+00:24:05 Interviewee
+Yeah, I need to check my contract.
+00:24:10 Interviewee
+I don't think so.
+00:24:12 Researcher 1
+So.
+00:24:14 Researcher 1
+Perfect. And do you know maybe about any additional procedures that had to be implemented because of maybe a security breach caused by a machine learning model?
+00:24:35 Interviewee
+Can you repeat that, please?
+00:24:37 Researcher 1
+Yeah, yeah. If there were any additional procedures introduced to one of my projects to one of your projects because of a data breach from your machine learning model or because of the wrong behavior of the machine learning model that it misclassified stuff.
+00:24:46
+OK.
+00:24:55 Interviewee
+Yeah, well, that's usually what I call degeneration in the model. So, the main thing that I usually do is monitoring my models. So, I read through Tableau visualization or dashboard visualization.
+00:25:09 Interviewee
+And being every week to see if my model is behaving not only in terms of response but also in term of sorry not in term of results, but also in terms of response does mean we want of course the results to be good and providing the good prediction or the good recommendation. But we also want the user to use that right.
+00:25:29 Interviewee
+So, if you have a model which is on the website but that's zero click after a week, then you might want to double check if it is a front end. Problem. Is it a user problem? Is there like the model doesn't provide good results so there is this kind of yeah monitoring and being sure that.
+00:25:47 Interviewee
+The model didn't learn is not learning wrong and that did happen. Actually, had model that was well same recommending tag and filter based on an LP. So, the people were well, the drop-down lists was not really good. So, it was a front end mistake.
+00:26:06 Interviewee
+Saying then, but you should highlight the recommendation that they were actually preselecting the recommendation.
+00:26:12 Interviewee
+So, the people were either not changing anything or like changing and not putting anything instead. So, they have a bad user behavior based on the recommendation provided by the system. And so, after a couple of months the system we could see the accuracy dropping on my model. So, we went back to that get back to the Model. Sorry, historical version of the model and yeah, ask front end to change the behavior to make me more easy or easier for the user to use it.
+00:26:46 Researcher 1
+So, first question is whether the models that you're using are they based on reinforcement learning or is it or are you retraining them?
+00:26:55 Interviewee
+Uh.
+00:26:59 Interviewee
+Well, depends which one, but this one in particular was a retraining. It was easier to have a new model every month, but we because the inventory was changing so we couldn't well if you.
+00:27:12 Interviewee
+You just reevaluate every time. Of course you will start forgetting in some kind, but you will still have it in its own learning behavior, so retraining was allowed to clean the data every time to start with a clean, clean start. Kind of or so was my.
+00:27:29 Researcher 1
+OK, so you retrained the model based on the inputs you received from the users?
+00:27:36 Interviewee
+Yes, yes.
+00:27:37 Researcher 1
+OK. And but?
+00:27:39 Interviewee
+That was why we're degenerating.
+00:27:39
+Nothing.
+00:27:42 Researcher 1
+OK, I see. I see. No because then you have like a concept drift for.
+00:27:45 Researcher 1
+Example or yeah.
+00:27:47 Researcher 1
+And then so there is no, I mean it's a form of reinforcement learning, right, that you retrain it yourself, but there is no automatic reinforcement by the model itself.
+00:27:52 Interviewee
+Yeah.
+00:27:56 Interviewee
+Exactly.
+00:27:59 Researcher 1
+You know that's, uh, that's interesting. OK, but also this model monitoring as I would call it is also your own decision or is this also uh something what is expected by the clients or by your company?
+00:28:19 Interviewee
+So, what I.
+00:28:19 Interviewee
+Was expecting of the client was how much money the model was bringing back. And so, by providing this answer I was also able to monitor my own model and to so that was my own decision in terms of I would check that my model is not degenerate.
+00:28:34 Interviewee
+But it was based on requests from the client to be like we would like to see the money coming.
+00:28:42 Researcher 1
+OK. OK. So that was again like your own decision to do that, right? Because there was  a monetary advantage to you. If the model performs well.
+00:28:59 Interviewee
+Exactly. So no, not exactly. I mean to be clear, yes, so this is what I've done, and this is what it's providing for you. So, I'm kind of.
+Push forwards that my model is good, but it's also stay good. It's rubbish.
+00:29:17 Researcher 1
+OK. I just want to clarify what is your decision and what is the decision of your company or the client.
+00:29:19
+Yeah.
+00:29:28 Researcher 1
+Alright, OK. OK, interesting.
+00:29:32 Researcher 1
+Right then we can go over to the last segment of the interview, which is future needs and wishes, and the instructions are simple. So, I'll read the statement and then you'll say a number between one and ten and then one means it's insufficiently covered in my company and 10 means it's very well covered in my company and we're referring here to abilities, right, so.
+00:29:53 Interviewee
+MHM.
+00:30:02 Researcher 1
+The first statement will be the ability to select fit for purpose machine learning components to include in machine learning systems in production.
+00:30:14 Interviewee
+So, 10 is the highest also. Yeah, 10. I'm really free to use any component I want in any project.
+00:30:22 Researcher 1
+OK, you can use what? OK, perfect.
+00:30:25 Researcher 1
+A10 solid 10. So, every degree of freedom perfect, right, the ability to evaluate security concerns.
+00:30:33 Researcher 1
+Of machine learning components to include in machine learning systems and productions is.
+00:30:42
+The ability.
+00:30:45 Interviewee
+Well, that's tricky, but I would say.
+00:30:50 Interviewee
+4.
+00:30:51 Researcher 1
+Four, OK. Why? Why was it tricky?
+00:30:56 Interviewee
+Well, it's tricky because on one hand, I've never really pushed for that, so I can't pray get any kind of information, any kind of to what I want to push that forward, but it's not mandated by the company to learn about it or to be aware of it or to be concerned about it.
+00:31:15 Researcher 1
+OK. But there is no ability within your company to evaluate the security of a of a?
+00:31:26 Researcher 1
+Yeah, of a machine learning component or model or whatnot.
+00:31:31 Interviewee
+Well, like I say, they are probably.
+00:31:33 Interviewee
+Be some tools but I don't.
+00:31:37 Interviewee
+Feel like the if there was an ability, if I would be coming from our group or team like small team of AI engineering or and I don't think we are being asked to do that. So, when I think that's why I say it's tricky in the sense that if the if it's we are talking about ability in terms of knowledge and tool, we probably have that. But are we using that I don't think so.
+00:31:58 Researcher 1
+OK, OK, alright.
+00:31:59
+M.
+00:32:00 Researcher 1
+Then uh next one. The ability to maintain machine learning components in machine learning systems in production is...?
+00:32:13 Interviewee
+8.
+00:32:14 Researcher 1
+Eight maybe to maybe to.
+00:32:19 Researcher 1
+To add a little bit on that. So, you are, since you described it earlier, that you have your own model monitoring system.
+00:32:28 Interviewee
+Hmm.
+00:32:29 Researcher 1
+But that is something you implemented yourself, I presume. OK. And so, it is so for another maybe more junior machine learning engineer that would be probably something he needs to learn on his own or is that is there a knowledge database where he can maybe reuse what you're using for monitoring.
+00:32:53 Interviewee
+Well, that was from a previous time. Like I didn't develop that monitoring for at [company]. So, I didn't bring it with me to [company], but we do have a knowledge Center for things we are doing in [company] for junior machine learning engineers.
+00:33:10 Interviewee
+But The thing is, when I had to do this deployment of well development of dashboard was when I was a data scientist and I got interested in doing that analysis because it's like I've never used Tableau before and was like, well, I need to monitor.
+00:33:26 Interviewee
+My model so to have like a dashboard view every week about what's happening. How can I do that and so the data analysis was like well you should use Tableau and then he taught me how to use Tableau when I developed my own dashboard from that. But like you say it was all on my own initiative. But before [company]. So, I'm pretty sure if we were to do that at [company].
+00:33:45 Interviewee
+We will have, yeah, we will have that in our knowledge center. And if he's not in our team, he will be in the data analyst team as well.
+00:33:53 Researcher 1
+All right. And then the last point is any other points that should have been asked or mentioned during this interview?
+00:34:15 Interviewee
+Your last point regarding machine learning security.
+00:34:23 Interviewee
+You know, I mean, it's not really my specialty. I mean it is I am data scientist and machining is obviously my specialty, but it feels like security is kind of a specific branch of would be a bit like if you were to ask me a lot of questions around AI Ethics.
+00:34:43 Interviewee
+So, I know some from what I read, but not so much for what I deploy or not in myself. So, it's really interesting. It makes me really humble to hear what's questions about a lot of things.
+00:34:54 Interviewee
+I don't know about it.
+00:34:56 Interviewee
+But yeah, I mean a little bit of context about this is what we do, and this is what we.
+00:35:02 Interviewee
+Like maybe I will have a bit more of like respondent and like ideas about what we could be talking in terms of questions because yeah from my perspective security is really important, but we don't, I don't tackle it consciously it's more like from behavior from my ethics and moral not using any kind of trying to trying to not use bias in my models based on where the data are coming, but also where the data representing right, and we have a lot of.
+00:35:34 Interviewee
+Especially nowadays, we hear a lot about generative AI and how the model, or what is the outputs are biased and clearly biased. And how does that influence beyond the development of new models? So, we see that as well. Don't do that.
+00:35:54 Interviewee
+But we don't really in incentive from behind, from the background to be like, oh, you know, you should follow this workshop, listen to this talk that it should be. It's really an own initiative. But I think the whole work is on my own initiative anyway so.
+00:36:09 Researcher 1
+Yeah, exactly. Exactly. No. Yeah. Perfect. There. Thanks.
+00:36:13 Researcher 1
+You.
+00:36:13 Interviewee
+Thank you.
+00:36:14 Researcher 1
+Very much. And yeah, unless you said, do you have another?
+00:36:18 Researcher 2
+No, actually you're the security guys. I'm just listening. But also, just to complement things is just that again, we are aware that there is this state of.
+00:36:32 Researcher 2
+Like the security part of machine learning is actually now becoming highlighted more and more. Now we discussed it before a little bit with the others, especially when there is this, there's two side for it. One is like the.
+00:36:52 Researcher 2
+Yeah.
+00:36:53 Researcher 2
+We are doing it because we have to. There's a GDPR. There is the other things that are coming in and of course now I think the other side is a little bit of the more exciting part that OK now machine learning and AI is becoming from a more like a you know like a future take to more like a practical thing.
+00:37:14 Researcher 2
+And when it translates to this practical part.
+00:37:18 Researcher 2
+That is, when you think about the ethics or like compliance or security and stuff like that. So, the fact that we don't really have, I would say, best practices yet, do we?
+00:37:34 Researcher 1
+So, based on the, I mean should that be still in the recording or?
+00:37:38 Researcher 2
+And I think.
+00:37:39 Researcher 2
+This is the.
+00:37:40 Researcher 2
+Let it be on the record that this is just afterwards discussion. So, let's say I don't.
+00:37:47 Researcher 1
+No, no. But so, to answer your question. So far machine learning is a fast developing.
+00:37:57 Researcher 1
+I would say domain not in a sense from an innovation perspective, but more from an applied perspective.
+00:38:04 Researcher 1
+It's hard to come up with rules, right? So, because people simply don't. So either professionals don't know and the people in management are unaware of it and then how do you find then then the proper like red line for everything, right, so.
+00:38:24 Researcher 1
+You know also like from a security perspective and everything and then there is new stuff coming in, right, like Gen. AI for example, large language models, they're. The problem is that you have attacks on them and there are new ones coming up and you don't have even proper mitigation.
+00:38:43 Researcher 1
+Techniques but society is so amazed by the results of large language models that we're just, like, throw it into production without, you know, evaluating the security perspectives.
+00:38:56
+Yeah.
+00:38:57 Interviewee
+Yeah, but there are multiple point in that as well is about the, well, a lot of people are using these generative AI prompt or chats without having the knowledge that everything that is written is actually used beyond and known by a more powerful company. There was some story about Samsung employee.
+00:39:15 Interviewee
+Who?
+00:39:16 Interviewee
+Well, just.
+00:39:17 Interviewee
+Private and confidential information on chatGPT to have an answer.
+00:39:22 Interviewee
+While giving really strong information, so the next person will ask questions about sensing will all of a sudden see some really private and confidential information about Samsung that nobody should be hearing about. Yeah. And you were also talking about GDPR made me think that there were. There is also an evolution in management regarding GDPR because.
+00:39:41 Interviewee
+Umm.
+00:39:43 Interviewee
+Eight years ago, you could only hear from Bioscience and people were working with medical recorded about how do we hide the information of our patient or customers and nowadays with GDPR there is a really strong will from consumer or clients.
+00:40:02 Interviewee
+Be like, oh, we don't really want our data to go to the US.
+00:40:06 Interviewee
+Because the policy around data is more like a resource rather than a right and a private right like we are in Europe, right. So, the there is now understanding at least that this basic level that well U.S. have a different policy regarding data we in Europe have a different policy around data. So, we don't want.
+00:40:26 Interviewee
+For data to go.
+00:40:27 Interviewee
+Yes. Now the follow up question is like how do we implement, how do we use cloud platform without providing to like the big strong right, AWS, Azure or GCP which are all based in U.S.. So, there have been some European instance like MistralAI or in terms of misandry like Proton.
+00:40:47 Interviewee
+To try to protect the European privacy and the user data. But almost she's heard from the general public. Like if you talk about MistralAI or Proton to anybody in Europe like 
+99% will look at you like I've never heard of that right?
+00:41:03 Researcher 2
+MistralAI is now collaborating with Microsoft.
+00:41:05 Interviewee
+And actually, MistralAI is now cooperating with Microsoft. So yeah, I need to look into that as well. In terms of what are we going to? Yeah. How are we going to defend the right? But yeah, so the idea is how much of the incentive of the well of governments, European governments and.
+00:41:25 Interviewee
+Like you say, manager-like head of companies of the big companies in Europe are pushing towards getting out of US.
+00:41:32 Interviewee
+Yes, well, not that much. If you look at most of the government, we are all using iPhone and Android, which is really frightening when you think about that because that means a lot of governmental information might be non-secured. So, there is a lot of work to be done. There is a lot which is.
+00:41:49 Interviewee
+Known.
+00:41:50 Interviewee
+But the.
+00:41:52 Interviewee
+Policies the national policies regarding data privacy is still like.
+00:41:57 Interviewee
+Oh yeah, we should.
+00:41:58 Interviewee
+Do that. Most likely that's what we feel that.
+00:42:02 Researcher 1
+Yeah, the other problem is that we that's why we're doing this, right? So, we are extracting this, the state of practice so that when we introduce new methodologies for threat assessment for example that it is not something completely new and you need a.
+00:42:18 Researcher 1
+Like a separate PhD, in order to apply it, but so that it just sticks to current practices about before that we need to understand what kind of current practices exist and that's basically the also the context.
+00:42:34 Researcher 1
+Of the study.
+00:42:34 Researcher 2
+This also dimension. There is no.
+00:42:37 Researcher 2
+How do you say best practice? Otherwise, what would you do this right?
+00:42:41 Interviewee
+No.
+00:42:42 Interviewee
+That's true. Are you a simple equivalent of G Unit, but for security perspective it would be. Have you checked that? Have you checked that what happened if that happened?
+00:42:51 Researcher 2
+Yeah, there may be some guidelines, but they are not. I wouldn't call them best practices.
+00:42:56 Researcher 2
+Or like something that is so universal that's kind of like if you're into the machine learning, everybody at least is heard of them or something like that. You.
+00:43:06 Researcher 2
+Know exactly. Great. Thank you.
+00:43:09 Researcher 1
+Thank you. Thank you very much.
+

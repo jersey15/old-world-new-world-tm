@@ -1,0 +1,767 @@
+Transcript
+00:00:05 Researcher 1
+First of all, thank you [Interviewee] for attending this meeting and for your.
+00:00:08 Researcher 1
+Time.
+00:00:09 Researcher 1
+And as I said, first question regarding your background in your company, what is your role in your company?
+00:00:17 Interviewee
+Yeah, right now I'm in the role as the as the leader of the AI engineering team previously as the back-end team, but that back end is in the context of data platform. So, it's data engineering.
+00:00:33 Interviewee
+And then I started here in 2020, August doing different things like data engineering, MLOps and some different software development. Now with some engineering things around large language model applications or.
+00:00:54 Interviewee
+RAG, you can call it.
+00:00:57 Researcher 1
+Right. How many years of experience did you collect over your professional career?
+00:01:03 Interviewee
+I worked one year in [overseas] and in Sweden I was a PhD student at the [university] and then I started to work at [company]. Then it's.
+00:01:18 Interviewee
+Almost four years, then. Yeah. In August it will be almost 4 years, yeah.
+00:01:26 Researcher 1
+OK. And what did you do in in [overseas]? What was your job description there?
+00:01:31 Interviewee
+It was called cloud software engineer, so we were doing by then it's a.
+00:01:40 Interviewee
+Popular topic and the market was cloud computing and big data. So, we I was in company kind of like a startup department in a big organization. They wanted to develop a cloud solution. It's like utilize the open-source open stack.
+00:02:02 Interviewee
+It's kind of like deploy and offer your cloud solution as Microsoft Azure, and IWS. I was mainly doing things with the storage component. The object storage called OpenStack swift.
+00:02:17 Researcher 1
+And the previous station before [company].
+00:02:21 Researcher 1
+Was uh.
+00:02:24 Researcher 1
+What? What did you do before [company]?
+00:02:27 Interviewee
+So, before [company], I was a PhD student.
+00:02:32 Researcher 1
+Yeah.
+00:02:35 Researcher 1
+OK.
+00:02:37 Interviewee
+Yeah.
+00:02:38 Researcher 1
+OK. All right. And which topic?
+00:02:41 Interviewee
+It's health data integration with semantic web.
+00:03:06 Researcher 1
+Did you have any experience training or education and machine learning security or adversarial machine learning?
+00:03:13 Interviewee
+Not specifically machine and security I.
+00:03:18 Interviewee
+Like in education wise, I like education with machine learning is only a few courses in the university. In the university study master in China and Sweden and then during PhDs I.
+00:03:38 Interviewee
+Like it's in the late phase of my PhD study, I started to think about the looking for a job, but then machine learning was the hot topic. So, I started to do some self-study and I took some courses online and also reading different materials and books doing some kaggle  challenges.
+00:03:57 Interviewee
+But if we say, like industrial, real world and machine learning problems, I haven't been really touched with it.
+00:04:06 Interviewee
+It's mostly those like clean or semi clean data and some doing some data analysis and model training and.
+00:04:16 Interviewee
+So on in real world industry, I mostly doing machine learning operations.
+00:04:24 Interviewee
+So, it's not that the training model itself, but this to streamline the whole process from end to end from data to model to production wise in the applications.
+00:04:34 Researcher 1
+MHM.
+00:04:36 Researcher 1
+Right. So also, in your self-studies you didn't stumble over machine learning security or adversarial machine learning?
+00:04:42 Interviewee
+Yeah, but then I think.
+00:04:44 Interviewee
+Like your model bias and the response and also security around machining was not the focus in the area yet, OK.
+00:04:57 Researcher 1
+Perfect. Thanks. Then we go over to the main part of the interview.
+00:05:03 Researcher 1
+And so, the first question would be, could you briefly explain your understanding of the terms machine learning one term and the other term security?
+00:05:15 Interviewee
+Yeah, machine learning is you take some data and try to find the pattern by utilizing optimization algorithms to.
+00:05:25 Interviewee
+To like learn, let the machine learn the process by itself and to minimize the errors according to if we have like labels or not have no labels and security is.
+00:05:41 Interviewee
+OK, to mitigate the potential threat to make the system.
+00:05:49 Interviewee
+To be controlled or be manipulated unexpected expected way.
+00:05:58 Researcher 1
+All right, so.
+00:06:00 Researcher 1
+OK, so you basically answered also partially the question what your understanding of machine learning security is.
+00:06:09 Interviewee
+So, it's to my understanding is to prevent like the model being used by.
+00:06:16 Interviewee
+How to say... and not to the initial purpose, more likely to, for example, sending specific input to the model to get the because for example, in the context of a language model.
+00:06:31 Interviewee
+Then you give some input, then it will give certain output. But like those like question answering fine tune like ChatGPT model. Then you can trigger the model to output on.
+00:06:50 Interviewee
+Inappropriate outputs or expected output by tweaking the prompt.
+00:06:58
+All.
+00:06:59 Researcher 1
+Right. Thank you.
+00:07:00 Researcher 1
+And which security goals are announced by your company's management so.
+00:07:08 Interviewee
+Sorry.
+00:07:09 Researcher 1
+Yeah. Which security goals are announced by your company?
+00:07:14 Interviewee
+Security goals.
+00:07:15 Researcher 1
+Security goals. Yeah, so that if we implement a machine learning service then it needs to fulfill criteria A, B, and, C.
+00:07:26 Interviewee
+Yeah, uh, I think right now our companies, uh service is mostly.
+00:07:32 Interviewee
+Around the infrastructure and also the software to be secure, not like for the model itself. It's mostly we will try to mitigate the security issues by trying to utilize what's the, what's the best of from the market.
+00:07:52 Interviewee
+It's commercial service or it's open source?
+00:07:57 Interviewee
+Libraries to prevent unintended use of the model under the system.
+00:08:03 Researcher 1
+So, security is basically.
+00:08:06 Interviewee
+On the.
+00:08:07 Researcher 1
+Focus on the focus, but provided by a third-party company.
+00:08:17 Interviewee
+Like we are because we are. It's a different tools to ensure it's the system, including the model is secure.
+00:08:26 Researcher 1
+OK, OK. So, you use certain tools and that's?
+00:08:30 Researcher 1
+Also prescribed by your company that you have to use those tools before implementing a machine learning solution.
+00:08:37 Interviewee
+Yeah.
+00:08:38 Researcher 1
+OK. All right. And OK. So, your company is?
+Prescribing that you use those tools before to guarantee a certain level of security in order to also support machine learning security in.
+00:08:58 Researcher 1
+That way.
+00:08:59 Interviewee
+Yeah.
+00:09:00 Researcher 1
+OK. What kind of tools?
+00:09:04 Interviewee
+Uh, for example, in like in the context of a large language model then in Azure or Azure service they have those content filtering prompt protection that you can.
+00:09:19 Researcher 1
+Hmm.
+00:09:22 Interviewee
+When you, even if the user give like a certain prompt to trigger the model, you can still filter out the specific content.
+And other tools like I remember there's another tool like this that is more for the like more classic machine learning models, but it's not really being used in actual project.
+00:09:48 Interviewee
+Right.
+00:09:49 Researcher 1
+What? What do you? Sorry. What do you mean with classic machine learning? Do you mean shallow machine learning so.
+00:09:49 Interviewee
+No, deep learning.
+00:09:57 Researcher 1
+OK. So OK, so decision trees from the forest and so on. OK. And then not for deep learning. OK, alright. Thank you. Sorry. And what, what tool was that?
+00:10:00 Interviewee
+Yeah, yeah, yeah, yeah.
+00:10:09 Interviewee
+I don't have that in my in my memory right now, but we haven't really used the project.
+00:10:16 Researcher 1
+What was the tool the intended use of the tool?
+00:10:21 Interviewee
+I think it's trying to guide the model to it's more around like model bias.
+00:10:31 Interviewee
+So not it's not really part of the security, but more for the model bibas.
+00:10:39 Researcher 1
+OK, so what is a model bias?
+00:10:44 Interviewee
+Yeah. So yeah, like in real world your data is.
+00:10:50 Interviewee
+Why is that? Because for example?
+00:10:58 Interviewee
+Like.
+00:11:00 Interviewee
+Crime rates at certain rates, like if you like the data then you will have like a higher percentage of crime rate on certain ethnic group. But like if you train the model based on this data then it will have a bias against.
+00:11:20 Interviewee
+That ethnic group instead of like.
+00:11:24 Interviewee
+Actual fact, because the data itself is biased, so the model then is trained is become biased. Then you need to find a certain way to mitigate this kind of bias.
+00:11:38 Researcher 1
+All right. Any other tools that come into your mind that are prescribed?
+00:11:44 Researcher 1
+By [company].
+00:11:51 Interviewee
+No, all the tools more around like software security and infrastructure.
+00:11:58 Researcher 2
+Would agree that we have more like a not a specific thing for machine learning, but general security stuff.
+00:12:05 Interviewee
+Yeah, yeah.
+00:12:08 Researcher 1
+OK. Right then.
+00:12:13 Researcher 1
+Why do you consider security aspects of machine learning solutions in?
+00:12:20 Researcher 1
+Systems where those machine learning solutions are embedded.
+00:12:27 Interviewee
+Yeah, I'm not sure if I understand this question.
+00:12:29 Researcher 1
+OK, so basically what kind of so why?
+00:12:34 Researcher 1
+Are you looking at the security of a machine learning model when it is implemented into a system?
+00:12:41 Interviewee
+Yeah, because like the input to the model, it will eventually went through the system, then as input to the model itself, so and then for the output of the model, you still need to, so you have the way to do some.
+00:13:00 Interviewee
+Both the process to control the output but.
+00:13:05 Interviewee
+There's still a potential that unexpected things will happen from the model output, so every step of the system needs to be doing some practice to mitigate the potential issues on security spot.
+00:13:10 Researcher 1
+Hmm.
+00:13:24 Researcher 1
+Thank you. And you partially answered the question already, but what machine learning models or what kind of machine learning models are applied?
+00:13:32 Researcher 1
+In in the systems, you work with.
+00:13:36 Interviewee
+Yeah, there are different. Mostly it's more of I think the traditional classic shallow machine learning models with like trained from tableau data and output with right. We'll be right to.
+00:13:55 Interviewee
+Tables or serve as API.
+00:14:00 Interviewee
+And some with this large language model like the RAG solution.
+00:14:07
+Hmm.
+00:14:08 Researcher 1
+Right and.
+00:14:11 Researcher 1
+You already touched the topic a little bit with the shallow machine learning models, there is no.
+00:14:19 Researcher 1
+No huge security concern, but it's more regarding the large language models because of their own unpredictability and so on and so forth. So, we can also from now focus more on the large language models and.
+00:14:22 Interviewee
+Yeah.
+00:14:29 Interviewee
+Hmm.
+00:14:38 Researcher 1
+Right. And for the large language models?
+00:14:41 Interviewee
+Oh, now I remember some other like. I just looked into like documentation but not really put into practice like it really play it with it, but it's very similar to things like have.
+00:14:44 Researcher 1
+OK please.
+00:15:00 Interviewee
+Control prompt like whatever the model as a user input to it, you have a certain template to prompt to.
+00:15:09 Interviewee
+Control the users' appropriate input and also of post after the models the response used to have a way to do some filtering or guidance around.
+00:15:22 Interviewee
+It.
+00:15:24 Interviewee
+There are libraries like GuidanceAI and also different.
+00:15:29 Interviewee
+Libraries like specially working with the prompt.
+00:15:33 Researcher 1
+Hmm.
+00:15:34 Interviewee
+It's kind of like both working on the model input and the output.
+00:15:42 Researcher 1
+Perfect. Thank you. Now we distinguish between 2 scenarios and again we exclude now the shallow machine learning models since there is no huge security concern about them so far according to your experience.
+00:16:00 Researcher 1
+Then so scenario one is if.
+00:16:04 Researcher 1
+Now let's stay with the large language models. A large language model is already integrated into a system, and then the second scenario is that the large language model is planned to be integrated into a.
+Production system, right? So, we have those two scenarios 1 already integrated loud language model and the other one is planned to be there.
+00:16:27 Researcher 1
+So based on your experience, what is the main difference in a security assessment of those two scenarios?
+00:16:40 Interviewee
+Yeah, like the first case. Then you need to evaluate the entire system. Include the model.
+00:16:53 Interviewee
+And the latter party. So, you only evaluate the model yourself for the model you already integrated into the system. I am not sure, like if does that mean that you cannot fine tune the model like align it to some alignment with it?
+00:17:11 Interviewee
+Then most of the cases to as just mentioned like control the output and input to the model of the model and the latter. Then you can do some fine tuning to help the model to more understand more like what will be the threat.
+00:17:32 Interviewee
+Prompt when the motor sees those inputs.
+00:17:38 Researcher 1
+And have you ever conducted risk assessment of?
+00:17:43 Researcher 1
+Of a machine learning system with an integrated large language model.
+00:17:49 Interviewee
+Risk assessment in a formal way? No.
+00:17:52 Researcher 1
+Or threat modeling in in a way that you were thinking about what kind of threats or what kind of inputs can be put into our large language model so that it changes its behavior.
+00:18:05 Interviewee
+Yes, there are different like techniques online that you put certain tokens in the prompt. Then you can trigger the model to like answer like things that even it was fine-tuned to.
+00:18:21 Interviewee
+Not the output.
+00:18:27 Interviewee
+So, but sorry, it was a question about.
+00:18:30 Researcher 1
+Yeah. So, if you ever have, I mean you, you already said you didn't formally perform any kind of risk assessment or threat modeling. But as you already said that you are you tried some sort of threat modeling approaches based on the stuff we found online.
+00:18:50
+Hmm.
+00:18:50 Researcher 1
+And uh, could you maybe elaborate a little bit what kind of methodologies you found or applied?
+00:19:01 Interviewee
+Yeah, I haven't really done like a bit systematic way to like what are the different approaches, but I think.
+00:19:15 Interviewee
+It's mostly around.
+00:19:19 Interviewee
+Identify certain of it.
+00:19:22 Interviewee
+Trigger tokens or trigger like input.
+00:19:28 Interviewee
+Then filter out or alternate the content with the same meaning or something like that.
+00:19:37 Interviewee
+Try to mitigate.
+00:19:39 Researcher 1
+And what? Why? Why did you start? What was the motivation behind trying it out?
+00:19:48 Interviewee
+Yeah, because like in some of the most of the cases, those large language models, you will expose it directly or indirectly to users. Then you will have no way to control what the input user will in any way to send to your system. So, it's kind of like.
+00:20:07 Interviewee
+Like a SQL injection.
+00:20:10
+MHM.
+00:20:10 Interviewee
+In a similar way that you, you should not never expose directly to the user like let them input a certain query. You have to have a certain process to filter out or control it before it really sends it into the model or to the database.
+00:20:26 Researcher 1
+Exactly. And what was the motivation? Why?
+00:20:30 Researcher 1
+Or did you try it out? Was it based on your experience and your own decision that you said, OK, I have to try it out at least? Or was it motivated by the by the company or a client?
+00:20:42 Researcher 1
+Or why did you start this process?
+00:20:45 Interviewee
+Yeah. So, it's more started from my own thinking and also some readings online. And then because, yeah, this is like a potential issue. And also, we are mostly we are consulting companies. So, the typical clients we work with are big.
+00:21:03 Interviewee
+Yeah. Or middle to big organizations. So, they usually have higher requirements around system security. So, this must be.
+00:21:17 Interviewee
+Sort through before we have a solution there for the clients.
+00:21:26 Researcher 1
+OK. But was this specifically requested by a client?
+00:21:30 Interviewee
+No, I don't. No, no.
+00:21:32 Researcher 1
+No. So it was basically based on.
+00:21:35 Researcher 1
+You're reading up your experience and your gut feeling, basically.
+00:21:41 Interviewee
+Yeah, but like we use, we mostly we utilize like different service provider not much open-source model yet, but so service provider will also.
+00:21:53 Interviewee
+Have in there like a selling material that their solution is secure, secured by different protections, different mitigations so.
+00:22:05
+You.
+00:22:06 Interviewee
+When you start to use those services.
+00:22:09 Interviewee
+You will.
+00:22:10 Interviewee
+Have a mind have something in mind that yeah, something around security needs. Something needs to be.
+00:22:16
+Well.
+00:22:18 Researcher 1
+But OK, so you're using third party models or solutions. And are you so they are providing the security assessment or the say the security thoughts or are you specifically requesting the third parties to include the security assessment as well?
+00:22:38 Interviewee
+No, we are not actively requesting. So yeah, they pre the service provider, they have something with together with the service and then also know that this is something need to be considered. It's kind of both.
+00:23:02 Interviewee
+Not like get any requirements from clients that we need to work very carefully with the model security.
+00:23:11 Researcher 1
+OK, cool. And regarding the third party, are you?
+00:23:17 Researcher 1
+Prescreening or security evaluating the services that a third party provides to you on your own or is it take it as the.
+00:23:26 Researcher 1
+Taken as granted.
+00:23:29 Interviewee
+You mean the security?
+00:23:31 Researcher 1
+Yeah. So, if a third party is providing a machine learning model or an LLM ?
+00:23:31
+Approach.
+00:23:40 Researcher 1
+Do you do some sort of prescreening of the services or the deliverables? A third party is providing to you or do you just?
+00:23:50 Researcher 1
+Take it as granted? It should be fine.
+00:23:54 Interviewee
+Yeah, because it's the in the booming stage of this area. So, we just take the most powerful ones and.
+00:24:06 Interviewee
+And of course, we also look at its capability, its performance and also the ecosystem or like the service around the model, how in general is it like meet all the requirements, it's performing well but.
+Yeah, because it's very obvious, like as they are like as three or four or maybe two is the top performer in this area.
+00:24:37 Interviewee
+So, we don't need to do some screening, yeah.
+00:24:41 Researcher 1
+OK, you don't. OK, no, no, no worries at all, OK.
+00:24:42 Interviewee
+Yeah.
+00:24:46 Researcher 1
+And uh, OK, so we can.
+00:24:50 Researcher 1
+Skip this question because you're probably not. Since you're doing the risk or the threat modeling per se on your own.
+00:25:01 Researcher 1
+There is no other person you probably involved into the process which you did like with the threat modeling, or did you ask somebody else, like, do you have experience? 
+00:25:08 Interviewee 
+No. 
+00:25:09 Researcher 1
+OK, no other roles involved.
+So, there was no interaction. I'm just going like through the questions also for the protocol, right. So, did you document your threat modeling procedure in a way where you like you said you were trying out some tokens and so on. Have you documented this or?
+00:25:36 Interviewee
+And just have in my notes not there like a special document in the solution.
+00:25:44 Researcher 1
+OK. And all right. So, there's probably also no general approach how to document the risks.
+00:25:52 Researcher 1
+Of the of your findings now in in particular.
+00:25:58 Interviewee
+No.
+00:25:58 Interviewee
+Just notes.
+00:26:01 Researcher 1
+OK. And yeah, I'll adjust the questions. So, since you were you said you were doing some sort of threat modeling yourself based on your gut feeling.
+00:26:16 Researcher 1
+You also mentioned that you saw some sort of methodologies online. What they tried out and everything. And do you remember like the what kind of websites you tried or what kind of Method, you used? 
+00:26:37 Interviewee
+I think there's no specific like a source of information. It's different like blog posts from people in the area, either yes, in industry or in the academia background.
+00:26:54 Interviewee
+So, they have different blog posts like. This is some examples that you can.
+00:26:59 Interviewee
+Trying to break through the.
+00:27:05 Interviewee
+This the security gate of the model.
+00:27:07 Researcher 1
+OK, interesting. And so based on.
+00:27:13 Researcher 1
+On your experiences with the blogs and.
+00:27:17 Interviewee
+Also, some documents, like the technical documents of the of the service, also have some example.
+00:27:26 Researcher 1
+OK. And did you stumble upon a methodology that used?
+00:27:32 Researcher 1
+A graphical representation of the system which you were trying out the threads so the data flow diagram or anything or was it simply trying out prompt X or did they use anything like that graphical representation of the model?
+00:27:52 Researcher 1
+Off the system, sorry.
+00:27:52 Interviewee
+No, like there are some graphic tools provided by the service provider, but I'm not using it, it's mostly with like you have some code that.
+00:28:06 Interviewee
+You have some input on pairs like data document, not document data recorded in like in JSON. Then you try out with different examples in your command line with the code that I wrote.
+00:28:24 Researcher 1
+OK. No, I was still.
+00:28:25 Researcher 1
+Referring to the.
+00:28:27 Researcher 1
+This self-guided threat modeling approach where and they're always digging a little bit deeper into what you tried out. So, you said blog post and so on. Did one of those blog posts also used any form of graphical representation to explain?
+What kind of attack you could use.
+00:28:51 Interviewee
+Yeah. I think one of the blog posts say the author has some kind of a graphical explanation.
+00:29:03 Interviewee
+But there's more from like a high level.
+00:29:07 Researcher 1
+But do you think that helped?
+00:29:09 Interviewee
+Yeah, yeah, yes, yeah.
+00:29:10 Researcher 1
+That helped. OK, so, but you all said other blog posts that did not use a graphical representation and just text.
+00:29:15 Interviewee
+It's not in my mind that I got my memory got into my memory that there is such thing that make me had the impression.
+00:29:25 Researcher 1
+OK, so that's sticked into your memory because it used the graphical representation to explain, and the other ones were probably purely text based.
+00:29:30 Interviewee
+Yeah.
+Purely text or the graph is not impressive enough to let me remember.
+00:29:40 Researcher 1
+OK. But there were also graph based explanations. What kind of threats you can maybe identify.
+00:29:53 Researcher 1
+Because I'm heading towards.
+00:29:57 Researcher 1
+Towards if.
+00:30:00 Researcher 1
+If a blog post that was simply only guidelines written in prose in text.
+00:30:08 Researcher 1
+If those were more helpful than the ones that were using some sort of graphical representation to explain where it could happen and.
+00:30:19 Researcher 1
+And the next interesting so that is the first part, right. So, where I'm heading towards and since you said, OK, so the most impressive ones were the ones with nice graphical representations of the system. And you said that basically there also were other graphical representations that were not so impressive.
+00:30:40 Interviewee
+No.
+00:30:41 Researcher 1
+OK. But it was it was a mix, OK, but the graphical presentation was and the graphical representation of what kind of level was it? Was it a component diagram? Was it the data flow diagram or?
+00:30:54 Interviewee
+I think it's.
+00:30:56 Interviewee
+Flow the data flow, yeah.
+00:30:59 Researcher 1
+OK. Thank you. And maybe another question, so and threat modeling there are different perspectives you can choose, right? So, it's either the system oriented perspective attacker-oriented perspective.
+00:31:16 Researcher 1
+Or the asset centric perspective. So, asset centric means.
+00:31:20 Researcher 1
+That basically if I attack a system that I want to protect my assets right. For example, if my large language model is hooked up to a database where an attacker could be interested that you try to protect the database and, but you understand the gist of.
+00:31:37 Interviewee
+Hmm.
+00:31:41 Researcher 1
+The other perspectives, right? Yeah. And do you remember based on your?
+00:31:46 Researcher 1
+Blog post if there was, it's far-fetched but still I'm gonna ask it if there were more system attacker or acid centric explanations for the threats.
+00:32:01 Interviewee
+I think it's more attacker oriented.
+00:32:04 Researcher 1
+Hmm.
+00:32:05 Researcher 1
+Alright, thank you and the.
+00:32:10 Researcher 1
+So, during your self-driven threat modeling approach, were those simply instances of threats or exploits that were described in the blocks you were reading.
+00:32:33 Interviewee
+I think I remember like uh in that in one specific blog post the they categorize the different types of threats but I don't remember like what's the name of each one.
+So, like categorized and but I think like mostly.
+00:33:00 Interviewee
+Different examples that you find on the on the Internet that the people try to go beyond the security guide of the model is fall into one category.
+00:33:17 Researcher 1
+OK, so you did not follow any?
+00:33:20 Researcher 1
+Of the methodologies like STRIDE or PASTA or TARA or anything, no. OK, perfect and have you, have you considered maybe using those methodologies in order to have a systematic approach to?
+00:33:24 Interviewee
+No, no.
+00:33:35 Interviewee
+Yes.
+00:33:36 Interviewee
+I think it would be needed.
+00:33:38 Interviewee
+Like, because like right now, I haven't really started to dig deep into this more the security part of it because we are in the early phase of developing this solution. So, the model security.
+00:33:57
+Hmm.
+00:33:59 Interviewee
+It's the when the high prototypes the features is implemented, then we start to look into this model security part. So, I haven't really started the.
+00:34:12 Interviewee
+More dive deep process yet.
+00:34:15 Researcher 1
+OK. But.
+00:34:17 Interviewee
+So that will be needed to have this like follow certain methodology.
+00:34:22 Researcher 1
+Yeah.
+00:34:23 Researcher 1
+To have like some sort of systematics and methodology that would guide you through the process. Yeah, maybe, maybe, maybe as a follow up question, which you prefer to have, do you have a preferred?
+00:34:37 Researcher 1
+Way how you would like to.
+00:34:40 Researcher 1
+How this methodology should guide you for the through the.
+00:34:43 Researcher 1
+Process.
+00:34:45 Interviewee
+In what way?
+00:34:46 Researcher 1
+OK, I tried to. I try to ask the question in a way, so I don't bias you. So, is it more that you want a questionnaire that will lead you through the methodology or through the methods to apply a proper threat modeling?
+00:34:53 Interviewee
+Yeah.
+00:35:05 Researcher 1
+Threat modeling, sorry. Or do you want more graphic graphics-based approach in order to do the systematic threat modeling?
+00:35:19 Interviewee
+I think both would both would help because in when you started the process then you would have need to have a like a graphical way to have a good view on that and then when you start to like.
+00:35:39 Interviewee
+Finish the implementation around this, then you it's good to have like a checklist. That is everything is.
+00:35:45 Interviewee
+Checked.
+00:35:47 Researcher 1
+Thank you. And during your ecologist self-driven threat modelling approach, uh, did you, I mean you used you used blog posts and so on, but was there also uh in curated uh any created attack repository involved such as Atlas, Mitre?
+00:36:07 Interviewee
+Atlas, uh.
+00:36:09 Researcher 1
+Atlas MITRE.
+00:36:12 Researcher 1
+No. OK, no then no, that's a prominent attack repository. Also, for large language models. 
+00:36:26 Researcher 1
+OK. And so OK, how often do you see the need to conduct threat modeling for large language model applications?
+00:36:40 Interviewee
+Yeah, I think whenever you done you've done like big change to your like application code around the model or the model have the new version to use, and you should.
+00:36:57 Interviewee
+Do this process.
+00:37:01 Interviewee
+Like because then you should have like this. This evaluation in efficient process in place. Then you can do every time when certain big changes happen to the system.
+00:37:18 Researcher 1
+Hmm.
+00:37:20 Researcher 1
+Because otherwise it's too time consuming and if you have to freestyle it so also again based on your experience where you do the self-driven threat methodology, how what, what challenges did you have during that approach?
+00:37:22 Interviewee
+Yeah, yeah.
+00:37:40 Interviewee
+You have a lot of noise information, and you don't have a good, more centralized source like this. Trusted, trusted source of information to follow.
+00:37:59 Interviewee
+And I think this this area as well, like in academic case has been started for some time, but in industry is just start to adopt in a wider user base.
+00:38:13 Interviewee
+So, a lot of things to start to look at.
+00:38:13
+Hmm.
+00:38:23 Researcher 1
+And how did you start the self-driven threat modeling?
+00:38:34 Interviewee
+Yeah, just start with some Google search.
+00:38:37 Researcher 1
+Do you remember which search you used?
+00:38:41 Interviewee
+Don't remember specifically, but there should be around like model, security, large language model attack and security and.
+00:38:53 Interviewee
+From the jailbreak, something like that.
+00:38:57 Researcher 1
+All right, all right. And OK, so one challenge you mentioned is that there is a lot of noise and there is no centralized.
+00:39:08 Researcher 1
+Party or source centralized trusted source.
+00:39:13 Interviewee
+Yeah, there are different like documents in like those models from model provider or service providers think it's not wide enough or good.
+00:39:27 Interviewee
+Not yet.
+00:39:30 Researcher 1
+And if you would, OK, what would you expect from a methodology that supports your guide or guides you from through the threat modeling?
+00:39:45 Interviewee
+I think like in like more traditional software world you have.
+00:39:53 Interviewee
+I cannot like you said. Remember like as a the name is. It is like an organization that they like, or they list the different threads to database to software system that this are the top 20 top 30 security issues.
+00:40:13 Interviewee
+And they will renew this list like a year.
+00:40:17 Interviewee
+Every few years, so it will. Hopefully it will be such kind of like organization to do survey and have published such kind of like a list.
+00:40:29
+Oh.
+00:40:29 Researcher 1
+OK, funnily enough, there is one that's called OWASP top 10 for large language model applications.
+00:40:34 Interviewee
+OK.
+00:40:36 Interviewee
+You know about that?
+00:40:37 Researcher 1
+Yeah. So yeah, no, I can provide you the source afterwards, right? Exactly. No, thank you for that and.
+00:40:41 Interviewee
+Yeah.
+00:40:48 Researcher 1
+But now comes also another part which will be interesting. After your self-driven threat modeling approach, what kind of defense mechanisms that you decide to go for when you like identify threats? So what? What, what did you do then?
+00:41:09 Interviewee
+I think since I haven't really like really looked through all the different potential security issues, but so far what I mostly aware of is the input output part that you need to have a certain way to do some control of filtering or.
+00:41:29 Interviewee
+Detector then you need to put like a 2 steps.
+00:41:30
+Hmm.
+00:41:35 Interviewee
+There.
+00:41:36
+MHM.
+00:41:37 Interviewee
+And then you need to do some like to create a list of like a different, like a thread inputs. Then you run through your experiments with different setup in these two steps to see how it is working, which would be the best location.
+00:41:56 Researcher 1
+OK, so you did, there was also no systematic way that you found to introduce like defense mechanisms to?
+00:42:06 Researcher 1
+Or let's phrase it differently. Did you find based on your self-driven threat modeling approach, any threats that could be could have been exploited?
+00:42:19 Interviewee
+Yes.
+00:42:20 Researcher 1
+Yes, OK. And what kind of what was your approach to identify then defense mechanisms?
+00:42:30 Interviewee
+It's just reading other documents and materials online.
+00:42:35 Researcher 1
+OK. All right. And was it hard for you to find those defense mechanisms?
+00:42:44 Interviewee
+I think it will be easier getting easier and easier because as a more like a more like a focus on this right now.
+00:42:56 Researcher 1
+OK. But I assume you just looked through a search engine with a search engine?
+00:43:01 Interviewee
+Yeah. Yeah. And also, yeah, like a service providers documentation.
+00:43:07 Researcher 1
+Service provider documentation OK.
+00:43:10 Researcher 1
+OK, OK, OK. So, you didn't use the search engine, but documents provide both?
+00:43:13 Interviewee
+No both.
+00:43:15 Interviewee
+Yeah.
+00:43:16 Researcher 1
+And how did that did this search approach work for you? Was it alright or?
+00:43:23 Interviewee
+Yeah, it is alright, yeah.
+00:43:25 Researcher 1
+OK, OK. But probably a centralized.
+00:43:31 Interviewee
+Yeah, would be better.
+00:43:32 Researcher 1
+Yeah, of course. Yeah. To avoid again the information noise. Yeah. OK and.
+00:43:40 Researcher 1
+Alright. And how did you?
+00:43:43 Researcher 1
+So how did you apply the?
+00:43:47 Researcher 1
+The results? So, were there any consequences based on your identification of the threats other than finding a defense mechanism so?
+00:44:00 Researcher 1
+Did you introduce any sort of monitoring of the inputs to identify if a large language model is under attack for example?
+00:44:10 Interviewee
+Yeah. So yeah, not to really implemented anything yet, but will be you would need to lock those input output model and let the user to help you to because you are not able to always tell like what certain.
+00:44:30 Interviewee
+Input output is inappropriate and then you will need the end user to help you to flag certain output is not appropriate or you have a certain logging system that.
+00:44:44 Interviewee
+When certain unexpected things happen. Then you need to have all the locks in place. Then you need to analyze the locks.
+00:44:55 Researcher 1
+OK. So, it's so basically, you're saying also your self-driven threat modeling approach has consequences based on the results you received in in that self-driven approach, right?
+00:45:09 Interviewee
+Sorry?
+00:45:10 Researcher 1
+Yeah. So, so basically you did your self-driven approach for threat modeling and then you identified certain threats you were. And then based on your results, you identified certain threats and then you decided, OK, we need to do something to counter to counter them, right? So, for example, what you described?
+00:45:30 Researcher 1
+So monitoring was there anything else which you also are considering to do?
+00:45:42 Interviewee
+No. Maybe like you have another model to help you to detect if any threat is in the placement.
+00:45:48 Researcher 1
+OK. No, no, there is no right or wrong answer, but OK.
+00:45:53 Researcher 1
+Thank you for that. And then?
+00:45:57 Researcher 1
+Alright. And well basically this answer is also like the additional procedures which were implemented after your self-driven threat modeling approach was.
+00:46:06 Researcher 1
+The monitoring approach with the locks as you said and maybe using another large language model in order to identify, uh yeah, to do the input, the input filtering and output filtering, yes.
+00:46:25 Researcher 1
+Any maybe also for your clients, were they asking for or did you recommend the same to your clients as well so that because you identified now for example?
+00:46:40 Researcher 1
+This threads in the large language model.
+00:46:42 Researcher 1
+And then, did you recommend either that you recommend to your clients similar procedures or alerted them, or were their clients that were asking specifically for the security assessment?
+00:46:58 Interviewee
+It's more we will recommend because when the clients start to request such feature or such application, then they mostly focus on the usage of the feature itself, not the.
+00:47:14 Interviewee
+So, the security medication of the system.
+00:47:19 Researcher 1
+OK, OK. Perfect. Then we come to the last part of the interview, which is titled Future needs and wishes.
+00:47:30 Researcher 1
+So, the instructions are as follows. So, I will read a statement and for that statement you need to decide in a range between one and ten how well this is covered in your company.
+00:47:47 Researcher 1
+And one means it's insufficiently covered in the company, and ten means it's very well covered in in my company.
+00:47:55 Researcher 1
+So, and it refers to abilities that are present in your company. So, the first one is the ability to select fit for purpose machine learning components to include in in systems and productions is.
+00:48:13 Interviewee
+1 to 5 or 1 to 10?
+00:48:16 Researcher 1
+One to ten.
+00:48:16 Researcher 1
+Yeah.
+00:48:17 Interviewee
+Uh, I will say six.
+00:48:21 Researcher 1
+Six. If you want, you can also elaborate.
+00:48:24 Researcher 1
+Yeah.
+00:48:25 Interviewee
+It's fine because like as a consulting company, we supposed to provide the best solution that we think it fits the requirements. But sometimes you need we will collaborate with certain partners then we need to prioritize partners' service.
+00:48:44 Interviewee
+Of course, it.
+00:48:46 Interviewee
+It does not need to be. There's always a better choice, but we still recommend the partner service. That won't be that case. But when something is impaired, then we will prioritize the partners, service or product.
+00:49:02 Researcher 1
+The ability to evaluate security concerns in machine learning components that are about to be included in system and production is.
+00:49:18 Interviewee
+Five, OK.
+00:49:21 Interviewee
+Yeah, because, uh, the prioritization is to deliver the features first.
+00:49:27 Interviewee
+Though of course, certain obvious security threats need to be also developed together with the features.
+00:49:39 Interviewee
+But that won't be the initial focus.
+00:49:43 Researcher 1
+That I see, and therefore the company is also not really providing any supporting services to evaluate the security of the machine learning component because it's simply not in the focus of the clients.
+00:49:55 Interviewee
+Yeah. And also, I think to my own opinion, we, I always suggest that such application to.
+00:50:01 Interviewee
+Be deployed to for internal use first. Then we can have the more have more time to identify certain security issues and then we can develop that before we open up for wide or external users.
+00:50:22 Researcher 1
+Thank you. And then the last one is the ability to maintain the machine learning components in software systems and production.
+00:50:33 Interviewee
+Yes. Is it. Sorry the question is around the model or system.
+00:50:38 Researcher 1
+Yeah, it's, it's around, it's around the models that are embedded in, in the system, in production.
+00:50:45 Interviewee
+4.
+00:50:46 Researcher 1
+Four, OK.
+00:50:48 Researcher 1
+Do you want?
+00:50:49 Interviewee
+And maybe even less than lower than four, because I don't think we have enough knowledge right now to really make it to do it do quite well.
+00:51:02 Researcher 1
+OK.
+00:51:04 Researcher 1
+Then the last question is if there were any aspects or points that should have been asked or mentioned in this interview.
+00:51:19 Interviewee
+No.
+00:51:21 Researcher 1
+Thank you. This this is it.
+00:51:25 Interviewee
+Thank you. Thank you.
