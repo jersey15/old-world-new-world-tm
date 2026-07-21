@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "From the Old World to the New World: An Explanatory Model of Threat Modeling Challenges in LLM-Integrated Industrial Software Systems"
+message: "If you use this replication package, please cite the associated publication."
+type: software
+authors:
+  - family-names: Jedrzejewski
+    given-names: Felix Viktor
+  - family-names: Zieris
+    given-names: Franz
+  - family-names: Gorschek
+    given-names: Tony
+  - family-names: Mendez
+    given-names: Daniel
+  - family-names: Zabardast
+    given-names: Ehsan
+repository-code: "https://github.com/jersey15/old-world-new-world-tm"
+license: "CC-BY-4.0"
