@@ -130,11 +130,11 @@ there is nothing special about them. The thing is that nowadays maybe there are
 there is much more attention to those weak spots. So there are a lot of 
 researchers that show how this weak spots can be exploited. And on the other hand, 
 the point is that the whole world is rushing into adding those ML components to products. 
-So that rushing is to me that the real issue here. So because the proper 
+So, that rushing is to me the real issue here. So, because the proper 
 discussion on how to protect all of this and what it entails to have those components 
 from security perspective, that hasn't been happening in the same way we had 
-other discussions in the past. So it's just that they need providing AI every way in, in 
-every place at every time needs to be understood from a security perspective.
+other discussions in the past. So, it's just that they need providing AI everywhere, in 
+every place at every time, needs to be understood from a security perspective.
  
 Researcher   10:38 
 Before implementing AI in a SIPS or in a software system that is used in production, 
