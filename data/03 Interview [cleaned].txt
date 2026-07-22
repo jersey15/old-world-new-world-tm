@@ -180,7 +180,7 @@ components, so that's the thing. So, the protection is there.
 The question is, [is] what I was doing before having an AI component sufficient? Or should I ask 
 different questions, or should I check different things than before? And that is yet not 
 answered completely because we don't know the capabilities out there of the 
-attackers of exploiting this. This kind of system? We don't know exactly what kind of 
+attackers of exploiting this kind of system. We don't know exactly what kind of 
 what kind of vulnerabilities we have there.
 We don't even know if we should be discussing vulnerabilities within the model itself 
 in terms of having specific response in answering the questions on the natural language 
