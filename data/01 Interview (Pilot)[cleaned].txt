@@ -1,4 +1,4 @@
-Time: 2024-03-27, 12:07
+Time: 2024-03-27, 12:07 UTC
 Interviewee: I01
 Duration: 49m 39s
  
@@ -12,8 +12,8 @@ Could you briefly describe your role please?
 Interviewee   0:28 
 My role is security consultant. I'm working for business units from a central 
 organisational point of view of [company]. I'm supporting business units within 
-[company] with their security processes, in part with a particular focus on products that 
-are subsequently sold to external customers.
+[company] with their security processes, in part with a particular focus on products
+that are subsequently sold to external customers.
  
 Researcher   0:52 
 Thank you. How many years of experience did you collect over your professional 
@@ -64,8 +64,9 @@ Could you explain your understanding of "machine learning security", ideally wit
 example please?
  
 Interviewee   4:05 
-Machine learning security, is actually, terminology-wise a bit hard for me 'cause there is a differentiation
-because you have machine learning for security and you have some machine learning security of machine learning, I suppose.
+Machine learning security, is actually, terminology-wise a bit hard for me 'cause there
+is a differentiation because you have machine learning for security and you have some
+machine learning security of machine learning, I suppose.
 And interpret that you're talking about security for machine learning.
 So talking about products, services or solutions that utilise 
 machine learning to achieve certain goals and the insurance of a secure behaviour of 
@@ -92,8 +93,8 @@ There are no additional security goals mentioned at this point in time.
 Researcher   5:59 
 Alright, so the next question would have been how does your organisation support 
 machine learning security so. 
-Yeah. So I think we're going to skip that, since you explained that we have that you have a rather
-generic approach towards security, unless you derive already some
+Yeah. So I think we're going to skip that, since you explained that we have that
+you have a rather generic approach towards security, unless you derive already some
 machine learning security properties that were part or are part in the product 
 development.
  
@@ -121,12 +122,17 @@ For example, during your last project?
  
 Interviewee   8:17 
 Why or how? 
-Oh, OK. 
-Traditionally you have certain requirements that apply to all products, regardless of where or what 
-particular lead the product does. There are certain things that must be ensured for all 
-products to ensure on the side of the producer in this case, namely [company],
-to ensure certain properties there. 
-Also, to achieve trust, achieve transparency and so on towards the the outside world. 
+
+Researcher   8:20
+Why.
+
+Interviewee   8:21 
+OK.
+Traditionally you have certain requirements that apply to all products, regardless of
+where or what particularly the product does. There are certain things that must
+be ensured for all products to ensure on the side of the producer in this case,
+namely [company], to ensure certain properties there, also, to achieve trust,
+achieve transparency and so on towards the outside world. 
 And therefore there are certain practises that apply to all products to achieve a 
 certain level of quality.
 And however, there are domains where, which are rather new or have been recently
@@ -174,29 +180,28 @@ There is traditionally a change also going through [company] affecting this part
 aspect. And when we look at the product security life cycle of products within 
 [company], there are two central steps that are important for all components that are 
 used. That is first of all, a proper selection of supplier and third-party components. So 
-the step before you even or the step before selecting a certain component and deciding 
+the step before you even or the step for selecting a certain component and deciding 
 in favour of that component. 
 And subsequently the management of this component, including for example 
 vulnerability management, patch management and so on. So before we select 
-something and while we use it and these two processes mainly exist and also affect 
+something and while we use it. And these two processes mainly exist and also affect 
 machine learning components as they are often treated as an component of a bigger 
 system or providing certain services to an entire product so. 
 Rarely, a product consists exclusively of machine learning, but there are other 
 components, including for example, web interfaces or dashboards having data 
 storage and so on. So the machine learning component itself is just one component 
-of many of a typical product that we have, and. However, there is also a change in. 
-So traditionally, how was that treated? [Speaker?]
-And well, it's a third party component. We need to ensure that it's securely 
-developed. It has fulfils our security demands and also the results it produces are 
-we are trustworthy at this point and.
+of many of a typical product that we have, and. However, there is also a change in,
+so, traditionally, how was that treated? Well, as a third party component,
+we need to ensure that it's securely developed, it has, fulfils our security demands
+and also the results it produces are trustworthy at this point.
 However, more and more products are actually consisting mainly of machine learning 
 components or where the main component is machine learning and everything 
 around it just supports this process. 
-In these cases, a deeper look is a required cause. The machine learning itself, and it's 
-tweaking might be the product itself and this for also.
-For example the intellectual property in this is something which is currently a lot
-discussed and how to deal with these systems that are not only,
-where machine learning is not only part of the product but is the product itself.
+In these cases, a deeper look is required, because the machine learning itself and its 
+tweaking might be the product itself and this for also, for example the intellectual
+property. And this is something which is currently a lot discussed and how to deal with
+these systems that are not only, where machine learning is not only part of the product
+but is the product itself.
  
 Researcher   15:09 
 That's perfect. Thank you. 
@@ -255,32 +260,30 @@ database for the same criteria. You would assess a file storage or you would ass
 don't know, a Python library that's not working out. Therefore also machine learning 
 component is treated differently and with respect to the technology because, well, 
 the the protection of certain goals or the protection of security properties just 
-differentiates from
-for machine learning. 
-In this case, once again, so yes, the assessment itself for or against selecting a certain 
-machine learning component differentiates from other from the assessment of other 
-components.
+differentiates from for machine learning. 
+In this case, once again, so yes, the assessment itself for or against selecting a
+certain machine learning component differentiates from other from the assessment of
+other components.
  
 Researcher   19:35 
 And did you, sorry againm another follow up question because I'm curious.
-Since we have also certain evolution probably of risk assessment towards machine learning models, 
-because more and more threats are coming into into play and are discovered. 
+Since we have also certain evolution probably of risk assessment towards machine
+learning models, because more and more threats are coming into into play and are discovered. 
 So did you realise that there are more specific questions or assessment steps that are 
 needed which were then reapplied to already implemented machine? So or to to 
 systems that already implemented machine learning components so that there was a 
 reassessment needed?
  
 Interviewee   20:24 
-And actually there is, it's.
-This is maybe not the case as you would expect it cause within the life cycle you 
-have, you always have regular reassessments of the products just because the the the 
-threat changes. So you have different attackers of different threat landscape and so 
-on. So a regular reassessment of your product. 
-Is absolutely crucial, regardless of whether it has a machine learning component or 
-not. But if there is in subsequent talking about continuous development and if it is 
-decided that there is an add-on of machine learning of machine learning component 
-needed and it shall be implemented, it's also considered in the risk assessment. 
-With a particular set of questions or remarks to this specific component. 
+And actually there is, it's, this is maybe not the case as you would expect it,
+because within the life cycle you have, you always have regular reassessments of the
+products just because the threat changes. So you have different attackers, a different
+threat landscape and so on. So a regular reassessment of your product is absolutely crucial,
+regardless of whether it has a machine learning component or not.
+But if there is in subsequent talking about continuous development and if it is 
+decided that there is an add-on of machine learning, of machine learning component 
+needed and it shall be implemented, it's also considered in the risk assessment 
+with a particular set of questions or remarks to this specific component. 
 So I would suggest, yes, that's indeed the case, but typically it's already part of the 
 regular life cycle because if I continue the development and change something, I need 
 to reassess. If there is a certain time, if a certain time has passed, I need to reassess 
@@ -310,82 +313,73 @@ doing a risk assessment, but you have a group full of technical experts, busines
 representatives, and so on,
 and contributing to a risk assessment, and therefore you also typically have experts 
 in the technology there.
-However, I would, I would say that at a certain level of of knowledge about a technology, highly 
-benefits the assessment process 'cause you get a feeling about
+However, I would, I would say that at a certain level of of knowledge about a technology,
+highly benefits the assessment process because you get a feeling about
 typical problems, typical issues that can be encountered and know where the weak 
-spots of such a system is. So my answer to that question would be I see a certain 
-level of importance.
-But I don't consider it crucial that you're an expert in the technology. In order to do 
-it, risk assessment as security representative or responsible.
+spots of such a system is. So my answer to that question would be, I see a certain 
+level of importance, but I don't consider it crucial that you're an expert in the
+technology in order to do it, risk assessment as security representative or responsible.
  
 Researcher   23:58 
-OK, so you already answered the next question which was which row? No, no, 
-no, no, no, no, it's it's really perfect because I mean my questions are not not not 
-perfect at all. So but it's it's really good that you talk talk a lot because that's the idea 
-of the interview as many information as possible because you were already referring 
-to to roles. I I'm wondering how those roles interact in during the the risk 
-assessment. Are they already part of the development, is it?
- 
-Interviewee   24:03 
-I'm talking too much. I see. [?]
- 
-Researcher   24:32 
-Again. 
-Part of the of the life cycle and how do those roles interact?
+OK, so you already answered the next sub question which was 
+
+Interviewee   24:02 
+I'm talking too much. I see.
+
+Researcher   24:03 
+No, no, no, no, no, no, it's it's really perfect because I mean my questions are not
+perfect at all. So but it's really good that you talk a lot because that's the idea 
+of the interview as many information as possible. Because you were already referring 
+to roles. I'm wondering how those roles interact during the risk assessment.
+Are they already part of the development, is it again part of the of the life cycle
+and how do those roles interact?
  
 Interviewee   24:40 
 In a development project for a product or particular product with with a lot of 
-software in it and a lot of different roles, continuously collaborate as major roles, I 
-would see technical experts. Or when when we're talking about a security point of 
-view and you obviously have have experts from from a security domain and they are 
-experts on different levels. So you might be an expert for security in general and 
-have no clue about. 
-Or might be an expert for risk management and have no clue about the technology 
-itself. 
-On the other hand, you might be a security expert for certain technology. I don't know certain 
-programming language for example, but have not the slightest clue about risk 
-management. So when we're talking about roles, these collaborate all the time, I I 
+software in it and a lot of different roles, continuously collaborate as major roles,
+I would see technical experts, or when we're talking about a security point of 
+view, and you obviously have experts from a security domain and they are experts on
+different levels. So you might be an expert for security in general and 
+have no clue about, or might be an expert for risk management and have no clue
+about the technology itself. 
+On the other hand, you might be a security expert for certain technology, I don't know,
+a certain programming language, for example, but have not the slightest clue about risk 
+management. So when we're talking about roles, these collaborate all the time, I 
 would say. However, for certain activities in the life cycle you might need experts for 
-that particular,
-for that particular expertise, especially if you have a non-experienced group. 
-What I see a lot is that,
-especially when you're trying to to to to, to build excellence in developers and and 
-try to try to build them up yourselves and teach them, and you typically need to 
-support them security wise
-by somebody that can guide them that can help them and and well support them in 
-general. 
-So what I would would say is. 
-And most of these roles regularly collaborate and some roles only collaborate on 
-certain activities. 
-And when we're talking about business representatives, these rules mainly 
-collaborate during activities where business relevant decisions have to be taken. So 
+that particular expertise, especially if you have a non-experienced group. 
+What I see a lot is that, especially when you're trying to build excellence in developers
+and try to build them up yourselves and teach them, and you typically need to 
+support them security-wise by somebody that can guide them that can help them and,
+well, support them in general. 
+So what I would would say is, most of these roles regularly collaborate and some roles
+only collaborate on certain activities. 
+And when we're talking about business representatives, these roles mainly 
+collaborate during activities where business-relevant decisions have to be taken. So 
 can a risk be accepted or not? What is the impact of a certain attack scenario for the 
-business? 
-And how, how can certain investments be conducted in these cases? The business must be 
-included. 
+business? And how can certain investments be conducted? In these cases the business
+must be included. 
 For a day-to-day work, when we're talking really about product development and 
 hands-on development, I would rather see technical security experts for the 
-respective domain and practitioners. So architects, developers. 
-Project managers and so on, collaborating with each other.
+respective domain and practitioners, so architects, developers, project managers and
+so on, collaborating with each other.
  
 Researcher   27:19 
-OK, sounds like a lot of a lot of communication, but I think that's that's key. 
-The the next part is how did you document the risk assessment results in, for 
-example, your your last project? How?
+OK, sounds like a lot of communication, but I think that's that's key. 
+The next part is how did you document the risk assessment results in, for 
+example, your last project? How?
  
 Interviewee   27:40 
 There are two, so there are multiple techniques that can be used and it has to 
-differentiate in the preference of the participants. So there are. 
-Localised tools in particular sheets, so so excel sheets that can be used for the risk 
-assessment and there is also
-a system, an application that can be used for the risk assessment. 
-So if you can theoretically also do them on
-on whiteboards and then subsequently document them accordingly. So it it highly 
-depends on what you prefer to use. In the end it is represented by
-the remaining risk, accompanied by the documentation you decided for. 
-Because somebody's taking the risk, typically a business representative and the way 
-they need to track their risk as part of the project risk management or even enterprise risk 
-management depends on them, so it's it's not possible to say there is only one way. 
+differentiate in the preference of the participants. So there are localised tools
+in particular sheets, so Excel sheets that can be used for the risk assessment
+and there is also a system, an application that can be used for the risk assessment. 
+So if you can theoretically also do them on whiteboards and then subsequently
+document them accordingly. So it highly depends on what you prefer to use.
+In the end it is represented by the remaining risk, accompanied by the documentation
+you decided for. Because somebody's taking the risk, typically a business
+representative and the way they need to track their risk as part of the project risk
+management or even enterprise risk management depends on them. So it's not
+possible to say there is only one way. 
 The preferred way is the Excel sheet because most people are familiar with it. 
 And it's extremely simple to use, because it's quite straightforward on how to do that. 
 But there are many approaches on how to document these things in place and also used.
@@ -401,8 +395,8 @@ Interviewee   29:43
 Could you give an example? What do you mean by that?
  
 Researcher   29:46 
-For example, do you usedata flow diagrams, for example, in order to conduct the as as a as a foundation for 
-the next risk or threat modelling, threat modelling steps?
+For example, do you use data flow diagrams, for example, in order to conduct the,
+as a foundation for the next risk or threat modelling, threat modelling steps?
  
 Interviewee   30:03 
 Typically what is done is a separation of the entire system into assets,
@@ -432,10 +426,10 @@ assessment? Is it STRIDE, PASTA, TARA, or something completely different?
 A mix of all of them or?
  
 Interviewee   31:59 
-It's it's a [company] mix, no, [company] has a dedicated technology for or dedicated 
+It's a [company] mix, no, [company] has a dedicated technology for, or dedicated 
 strategy for the risk assessment, which as far as I know has also already been 
-published in on an international conference. So I think it's not not a big secret and 
-you can find out about it. It's threatened risk analysis.
+published on an international conference. So I think it's not not a big secret and 
+you can find out about it. It's threat and risk analysis.
  
 Researcher   32:18 
 Yeah. 
@@ -617,56 +611,58 @@ However, before anything is ever deployed, or or delivered to to customers.
 Researcher   45:39 
 Mm hmm. OK. 
 Thank you. Then the last four or questions will have a a different
-different style of answering. So it's a little bit easy to to cool off The Jets now after 
-the interview phase. [?]
-So the the title of the section is future needs and wishes and
+different style of answering. So it's a little bit easy to to cool off the jets now after 
+the interview phase.
+So the title of the section is "future needs and wishes" and
 so basically the instructions for those,
 yeah, not particularly questions, but statements which you then give a rating 
 between one and 10. So 1 stands for "insufficiently covered in my company" and 10 
 "very well covered in my company". 
  
 Interviewee   46:25 
-Before we start really important, this is a completely subjective personal opinion by 
-myself, so I at this point in time this is the only a non-objective answer I can give if it's 
-if. If that's fine with you, OK.
+Before we start, really important, this is a completely subjective personal opinion by 
+myself, so I, at this point in time this is the only a non-objective answer I can give,
+if that's fine with you, OK.
  
 Researcher   46:37 
 OK. 
 Perfect. 
 Yep. Perfect. Yep. It's fine, right? So. 
-First one, the ability to select fit for purpose machine learning components to include 
-in your software systems is.
+First one, the ability to select fit-for-purpose machine learning components to include 
+in your software systems is ...
  
 Interviewee   47:03 
 I would propose a 7. 
-So that ten was. Could you repeat the scale? I hope I got it right.
+So that, 10 was? Could you repeat the scale? I hope I got it right.
  
 Researcher   47:12 
-Yes, so one is insufficiently covered in my company and 10 is very well covered in my 
-company.
+Yes, so 1 is "insufficiently covered in my company" and 10 is "very well covered in my 
+company".
  
 Interviewee   47:16 
 OK. 
-OK, in that case my seven was correct, yes.
-
-[Who said what?]
+OK, in that case my 7 was correct, yes.
 
 Researcher   47:23 
 The ability to evaluate security concerns regarding ML components to include in your 
-SIPS is very good. 
-And the ability to maintain the machine learning components in sips is?
+SIPS is ...
+
+Interviewee   47:28
+An 8.
+
+Researcher   47:33
+Very good. 
+And the ability to maintain the machine learning components in SIPS is ...
  
 Interviewee   47:45 
-To maintain the machine learning components in.
+To maintain the machine learning components in ...?
  
 Researcher   47:49 
-In in your software systems.
-
-[/Who said what?]
+In your software systems.
  
 Interviewee   47:51 
 OK. 
-Probably a 6 or. 
+Probably a 6 or 5. 
 Maintenance is a challenge.
  
 Researcher   48:02 
@@ -678,8 +674,8 @@ interview that we can like have in our recording.
  
 Interviewee   48:27 
 Actually, I think most of the parts have been quite good. 
-And I actually have the feeling that that that most of the questions have also been 
-sufficiently general. So. So I like the interview. It was extremely good to me. It was 
+And I actually have the feeling that most of the questions have also been 
+sufficiently general. So I like the interview. It was extremely good. To me, it was 
 also well explained what you were actually talking about, which is rarely the case with 
 scientific interviews because often enough, you just have a certain scope.
 No, I think everything was fine.
@@ -687,7 +683,7 @@ No, I think everything was fine.
 Researcher   48:58 
 Perfect. 
 Alright, thank you for that already. 
-Right then we can a big stop here because we have like 5-4 minutes left for this 
+Right then we can I think stop here because we have like 5-4 minutes left for this 
 scheduled time slots and so I'll finish up with stop the transcript.
  
 Researcher stopped transcription
