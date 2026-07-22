@@ -1,4 +1,4 @@
-Time: 2024-04-10, 08:26
+Time: 2024-04-10, 08:26 UTC
 Interviewee: I02
 Duration: 1h 2m 46s
  
@@ -182,7 +182,7 @@ Interviewee   13:12
 Actually it is a very broad mix of everything if you want so, so yes, generative AI is 
 one of the new things. But [company] is in the field for, I think, decades and we have 
 already something called industrial grade AI where you have machine learning 
-models based on simple things like you know Bayesian filtres. We have e-mail, 
+models based on simple things like you know Bayesian filters. We have e-mail, 
 e-mail filtering. It is as simple as that. But we have also when I'm looking at the 
 cybersecurity self-developed models all along. 
 Threat detection, you know and these are not based on generative AI.
@@ -629,89 +629,88 @@ Interviewee   44:02
 There is a meta process if you want so that this is what I would try to explain. 
 
 I mean first of all you have a threat. The first thing for a threat is to evaluate in your 
-environment. Is that threat imminent for me or not? So, does it make sense in my 
+environment, is that threat imminent for me or not? So, does it make sense in my 
 environment and under which circumstances? This is basically what you usually do 
-with threat modeling. So you think about likelihood, exploitability, and impact, 
+with threat modeling. So you think about likelihood, exploitability, and impact.
 This is the first thing.
-The second part that comes with the criticality of it.
+The second part that comes with the criticality of it, okay?
 So that this is the first part we just evaluate, OK, how relevant and how severe is 
-that for me. This is a meta process.
+that for me.
 
-It is a little bit formalized but not perfectly because you just need to have
-subject matter expertise for the topics you're looking at. At the 
+This is a meta process. It is a little bit formalized but not perfectly because
+you just need to have subject matter expertise for the topics you're looking at. At the 
 same time, on the other side, we create a rating for the things you're doing there.
-For instance, just to give you an idea, if you create an insulin pump for at 
-[company]. There's a totally different criticality to it.
-If we would create some kind of Light detector. OK, which might try to take
+For instance, just to give you an idea, if you create, you know, an insulin pump for at 
+[company], just to give you an idea, there's a totally different criticality to it
+if we would create, you know, some kind of a light detector. OK, which might try to take
 into account date times, and intensity of whatsoever. So you see already the
-criticality to it is very important and derived from, let's say, the impact you
+criticality to it is very very important and derived from, let's say, the impact you
 see there and the criticality of the product you're going there.
-This is, first of all, describing your risk profile. Based on that 
-thing, you just need to think about what compensating controls are. Let's stay on 
+This is, first of all, describing your risk profile, okay? Based on that 
+thing, you just need to think about what are compensating controls? Let's stay on 
 that meta level where you say, I can compensate to some level that I lower 
-the risk of impact or likelihood. When I say OK, it can still happen.
-But I'm confident I pushed a bar so high that it's very unlikely to 
-happen. That's one of the ways to address the risk. These are the controls to implement. 
+the risk of impact or likelihood, okay? When I say OK, it can still happen.
+But I'm confident, you know, I pushed a bar that high that it's very unlikely to 
+happen. That's one of the ways to address the risk, which would be to say, yeah,
+these are the controls to implement. 
 
 There are sometimes also hard requirements coming from internal and external 
 regulations telling you just need to implement XYZ. 
 Like doing the part, and there might be even the point where I say, OK, it's nice that 
-you want to do it, but no. This is also not very often, but there is an outcome to that thing.
-When you say taking that insulin pump to stay in that example, it's not now machine
-learning, but putting the TELNET interface of an insulin pump to the Internet. It's a 
-clear No. I mean, you don't need to talk about that. It's very, very clear. That 
+you want to do it, but no. This is also not very often, but there is an outcome to that
+thing, when you say taking that insulin pump to stay in that example, it's not now machine
+learning, but putting, you know, the TELNET interface of an insulin pump to the Internet,
+it's a clear No. I mean, you don't need to talk about that. It's very, very clear. That 
 means the thing that needs to be done on network access needs to be facilitated if 
 there's no user management and you just need to confine it into a segregated 
-network that only has a jump host. So, these are exactly the compensating controls.
+network which only has a jump host. So, these are exactly the compensating controls.
  
-And this is no different to machine learning. Honestly speaking. I mean, this is the 
-same thing when you think about it because we've stayed with that adversarial 
-training, for instance, you just need to go there, and you just need to 
-describe your model and try to find out in which boundaries it is and say 
+And this is no different to machine learning, honestly speaking. I mean, this is the 
+same thing when you think about it, because we've stayed with that adversarial 
+training, for instance, yeah, you just need to go there, and you just need to 
+describe your model and try to find out, you know, in which boundaries it is and say, OK 
 this is that far if I deploy that way, I restrict access to it I'm putting all the things 
 in there, and I can just go there and say you have still got that thing and
 say OK, addressed or limited point.
- 
 And in the end, and this is now exactly what I was talking about, criticality,
 the business needs to decide this is a risk we can accept. 
 Because there's nothing you do without risk, that's also one of the things 
-which are quite crucial to understand. Whatever you do has a risk.
+which are quite crucial to understand. Whatever you do, it has a risk.
 
-[Who is the speaker?]
-
-To find meta steps that a company that decides to implement machine 
-learning into their software systems and what should they do.
+Researcher 47:55
+So the idea of the study is to find meta-steps that a company that decides to implement
+machine learning into their software systems and what should they do.
 So they went through the whole threat modeling part. They identified the threats. 
-They gave it a score. It's critical, and now? 
-The security expert needs to find mitigations. 
-So you are saying that they need to find mitigations kind of themselves?
+They gave it a score, it's critical, and now, the security expert needs to find mitigations
+for it.
+So you are saying that you need to find mitigations kind of yourself?
  
 Interviewee   48:42 
-Yes and also no that's a careful part. I mean, we're not reinventing the wheel. They have 
-different ways. Sometimes you have solutions out in the field, but let's 
+Yes and also no. That's a careful part. I mean, we're not reinventing the wheel. They have 
+different ways. Sometimes you have solutions out in the field, you know, but let's 
 shortly step a little bit back because we have in our traditional IT, it's easier to explain. 
 It depends a little bit where we are but if you think of Web application firewall is a 
-is a solution or a solution concept you have there you can go there and buy 
+is a solution or a solution concept you have there. You can go there and buy 
 something and put it in there. You don't, you don't need to reinvent the wheel. 
 Someone thought about that part, and it's a well-known concept how to restrict attacks to it.
-
 On API level, or sometimes even on application layer, OK, that it is as simple as that.
-It's not perfect. You still have some ways to bypass it, but it is a way to secure it. 
-That means you well-known concepts and apply them to that thing and say I know already of 
-the effectiveness and can tell you the likelihood is going to be less. 
+It's not perfect. You still have, you know, some ways to bypass it, but it is a way to secure it. 
+That means you know well-known concepts and apply to that thing and say, OK, I know already of 
+the effectiveness and can tell you, OK, the likelihood is going to be less. 
 
-Getting back to a prompt injection. Are there any known ways to do it? 
-Currently, not really. So they are coming up, you know. 
-Providers and solutions to do that. You see some scientific papers propose some
-different things, but in the end, there's no solution or no concept yet known how to prevent it. 
-That ends up with we just need to way to solve that problem somehow. 
-And even if the mitigation means to give it just to only people you know and monitor
-the behaviour of that thing. 
-Search for omit or add the rules or change rules, and the prompts to at least be able
+Sometimes, getting back to a prompt injection. Are there any known ways to do it? 
+Currently, not really. So they are coming up, you know, providers and solutions to do that.
+You see some scientific papers propose some different things, but in the end,
+there's no solution or no concept yet known how to prevent it. 
+That ends up with, OK, we just need to way to solve that problem somehow. 
+And even if the mitigation means to, OK, give it just to only people you know and monitor,
+you know, the behaviour of that thing. 
+Search for, you know, omit or add the rules or change rules, and the prompts to at least be able
 to detect that stuff. 
 That would be a very clumsy way to do it. It's still better than not doing anything, 
 but you know, you see, then we just need to find a solution to it. 
-And this is exactly where the security expert needs to also understand environment sometimes.
+And this is exactly where the security expert needs to also understand, you know,
+the environment sometimes.
 It's just saying, OK, I know that put it in there. Let the people configure it.
 We're going through the configuration and check. So it's really that variety.
  
@@ -749,18 +748,12 @@ That means we don't add additional things in terms of additional steps to it, bu
 there are additional, let's see machine learning specifics in there. For instance, when 
 we look at the GenAI this is exactly what we're working on to increase the processes 
 with additional risk model threats and also questions to guide them already in that
-process through the things.
-
-[Who is the speaker?]
-
-Interviewee   53:42 
-Does that make sense to you?
+process through the things. Does that make sense to you?
  
 Researcher   53:44 
 It makes sense. However, since machine learning and machine learning security are still 
 a new topics, right? So you don't have proper rules, requirements, or regulations for 
 it.
-
 So, as an example: You want to implement a machine learning component into your
 software system and there might be attempts of data poisoning or statistical drift,
 for example. 
@@ -774,74 +767,74 @@ So, I, now you're hitting exactly the way why we do that on a use-case basis. So
 think about a machine learning model which has an input not only for inference, but 
 also for changing the model itself, right? This is what you just described. 
 If you're looking at something like, that is exactly where you start with a threat 
-modelling and ask of the interfaces and ask what's happening with the thing. OK, 
-if your input is just to take the e-mail and get the score out of it. 
+modelling and ask of the interfaces and ask what's happening with the thing, okay? 
+If your input is just, you know, take the e-mail, because Bayesian filters we have forever,
+take the e-mail and get a score out of it, the risk profile looks totally different.
+You might need to think about, you know, that there's a jailbreak in that thing, if you want so,
+you know, finding IT vulnerabilities, but there's no problem to it. One point.
 
-[Where are the breaks in utterances?]
-
-The risk profile looks totally different. You might need to think about, you know that 
-there's a jailbreak in that thing if you want so finding IT vulnerabilities,
-but there's no problem with it.
-
-One point. If you come up with the point you have inputs to that thing which are
-being processed to adapt your spam filters. 
-That is a totally different part because you need to think at least and handle and
-state what do I need to take care of that input validation. 
-From a cybersecurity point of view this is exactly what we talk about input validation.
-If you can't input validate, what are the measures to detect those things or at
+If you come up with the point that you say, OK, you have inputs to that thing which are
+getting processed now to adapt your filters, your spam filters, this is a totally different
+part because you just need to think at least and handle and state, OK, what do I need to
+take care of that input validation. 
+From a cybersecurity point of view this is exactly what we talk about: Input validation,
+and if you can't input validate, what are the measures to detect those things or at
 least to have a kill switch to it?
 But this is exactly where you get into the details of that component and user thingy which 
-you already see. 
-I'm still able to drill it down back to the IT environment because it is basically similar. 
-I mean Bayesian Filters are not categorised as machine learning, but you know we have that
-already in place. There's nothing new to it. Yes, it gets difficult with the new models
-or when we have multimodal things that we currently I mean if you talk about talk about
-GenAI and self-adapting [AI]. 
-That's simply a new environment. Usually, people ask, how should I do that? 
-And currently, my answer is, honestly speaking, I don't have a clue yet. 
-I guess you follow, you know also the academia and also the attacks on that part if
-you look at that adversarial training, you know at the Black Hat last year was simply
-awesome. It's great that you know that you can do something 
+you already see, I'm still able to drill it down back to the IT environment because it
+is basically similar. 
+I mean Bayesian filters is not, you can categorise it, if you want so, as machine learning,
+but basically, you know, we have that already in place so that there's nothing new to it.
+Yes, it gets difficult with the new models or when we have multimodal things which we currently,
+I mean, if you talk about talk about GenAI and self-adapting [AI],
+that's simply a new environment, which, usually, people ask, how should I do that? 
+And currently, my answer is, honestly speaking, I don't have a clue yet. I mean,
+I guess you follow, you know, also the academia and also the attacks on that part if
+you look at that adversarial training, you know, at the Black Hat last year was simply
+awesome. It's great that, you know, that you can do something 
 like that, or you know, even a really secluded chatbot which gets with the masking 
-and asking arts that it is simply awesome how you can circumvent that 
-part. Find a way how to prevent it. I don't know any. 
+and ASCII arts that it is simply awesome how you can circumvent that part.
+Find a way how to prevent it. I don't know any. If you know some, maybe you want to start
+with us, you know?
  
 Researcher   57:45 
-Future needs and wishes is the title of the The last section and
+We will talk about it a little after the interview.
+"Future needs and wishes" is the title of the last section and
 there are instructions for the next part of the interview: 
-So, you will answer the following questions based on the scale. 1 means this is 
-insufficiently covered in my company, and 10 means it's very well covered in my 
-company.
+So, you will answer the following questions based on a scale. 1 means "this is 
+insufficiently covered in my company", and 10 means "it's very well covered in my 
+company".
  
-So the ability to select fit-for-purpose machine learning components to include in our 
+So, the ability to select fit-for-purpose machine learning components to include in our 
 software systems is ...
  
 Interviewee   58:26 
 Can you repeat that? Slowly.
  
 Researcher   58:34 
-To select fit-for-purpose machine learning components to include in your software systems is ...
+The ability to select fit-for-purpose machine learning components to include in
+your software systems is ...
  
 Interviewee   58:49 
-1 to 10, I would say. 
+[laughs] 1 to 10, I would say. 
 No, but I selecting and creating one of the things, that's exactly what we do there is 
 so. 
 Most of the time I would go over something 5, 6, 7 somewhere all around that. It's a 
-little bit difficult to really go for a real number, but this is actually our business, you 
-know.
+little bit difficult to really go for a real number, but this is actually our business,
+you know.
  
 Researcher   59:11 
-Mm hmm, So what you say 6?
+Mm hmm, so would you say 6?
  
 Interviewee   59:13 
-Yeah, let's put a six there. Yes.
+Yeah, let's put a 6 there. Yes.
  
 Researcher   59:17 
 The ability to evaluate security concerns machine learning components to include in 
 your software system ...
  
 Interviewee   59:27 
-At present, I would go for a 2 to a 3.
+At the present, I would go for a 2 to a 3.
  
 Researcher   59:33 
 The ability to maintain the machine learning components in our software system ...
@@ -855,35 +848,44 @@ So, the ability to maintain the machine learning components in software systems 
 not answerable.
  
 Interviewee   59:59 
-No, I mean you can put everything in there from none because they just bought 
+Not really, no. I mean you can put everything in there from none because they just bought 
 it to really self-trained with selling that as a [company] own product. Then I would put
-a 10 so.
+a 10 so. There is no slider.
  
 Researcher   1:00:16 
-Last question. 
+OK, thank you. Right, last question. 
 Any other points that should have been asked or mentioned during this interview?
  
 Interviewee   1:00:28 
-I love that one. [?]
-I would need to know exactly what you're up to tell you that thing. 
+[laughs] I love that one.
+Actually, I would need to know exactly what you're up to tell you that thing. 
  
 Researcher   1:00:40 
 Right. So the, the idea is to extract the state of practice. So, what are companies doing 
-so far to assess the security of machine learning components? How to react to them. 
-So decide which kind of defence mechanisms should they use so that with the results 
-of the study. One can have like some sort of guideline to follow 
-in order to to reapply it if they're like completely new to the security assessment of 
-machine learning components.
+so far to assess the security of machine learning components? How to react to them,
+so decide which kind of defence mechanisms should they use, so that with the results 
+of the study, one can have like some sort of guideline to follow in order to reapply
+it if they're like completely new to the security assessment of machine learning components.
  
 Interviewee   1:01:18 
-I mean you ask that kind of a sideways, but the involvement in, let's say, 
-Certification standardisation bodies is, I guess, because the state of practise comes 
-also with it. If you have a company that just says OK, let's wait for something, that's 
-OK, if you see people trying to drive standardization, I mean, I know this can be also 
+I mean you ask that kind of sideways, but the involvement in, let's say, standardisation
+bodies, okay, certification standardisation bodies is, I guess, because the state of
+practise comes also with it, if you have a company that just says OK, let's wait for
+something, that's OK.
+If you see people trying to drive standardization, I mean, I know this can be also 
 two-sided sword but standardising things and creating, let's say, some kind of a 
-certification label as you had, for instance, with Wi-Fi and Bluetooth stuff. 
-It's very, very important to understand which kind of maturity level you have, you know. 
-I mean, this is more or less the acknowledgment. OK am I aware that there is 
+certification label like you had, for instance, with Wi-Fi and Bluetooth stuff. 
+It's very, very important to understand which kind of maturity level you are, you know. 
+I mean, this is more or less the acknowledgment, OK, am I aware that there is 
 something I just need to do and how much I'm investing on that thing?
- 
+
+Researcher   1:02:16
+Thank you. Anything else?
+
+Interviewee   1:02:20
+No.
+
+Researcher   1:02:22
+OK. Thank you. Thank you for your time and your input. Then I'll stop the recording.
+
 Researcher stopped transcription
