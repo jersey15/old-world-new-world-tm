@@ -80,95 +80,85 @@ whole process from end to end, from data to model to production-wise in
 the applications.
 
 00:04:34 Researcher 1
-Right. So also, in your self-studies you didn't stumble over machine learning security or adversarial machine learning?
+Right. So also, in your self-studies you didn't stumble over machine learning
+security or adversarial machine learning?
 
 00:04:42 Interviewee
-Yeah, but then I think.
-00:04:44 Interviewee
-Like your model bias and the response and also security around machining was not the focus in the area yet, OK.
+Yeah, but then I think, like model bias and the responsible AI, also security
+around machine learning was not the focus in the area yet.
 
 00:04:57 Researcher 1
-Perfect. Thanks. Then we go over to the main part of the interview.
-00:05:03 Researcher 1
-And so, the first question would be, could you briefly explain your understanding of the terms machine learning one term and the other term security?
+OK. Perfect. Thanks. Then we go over to the main part of the interview.
+And so, the first question would be, could you briefly explain your understanding
+of the terms "machine learning", one term, and the other term "security"?
 
 00:05:15 Interviewee
-Yeah, machine learning is you take some data and try to find the pattern by utilizing optimization algorithms to.
-00:05:25 Interviewee
-To like learn, let the machine learn the process by itself and to minimize the errors according to if we have like labels or not have no labels and security is.
-00:05:41 Interviewee
-OK, to mitigate the potential threat to make the system.
-00:05:49 Interviewee
-To be controlled or be manipulated unexpected expected way.
+Yeah, machine learning is you take some data and try to find the pattern
+by utilizing optimization algorithms to like learn, let the machine learn the
+process by itself and to minimize the errors according to, if we have like labels
+or not have no labels. And security is, OK, to mitigate the potential threat
+to make the system to be controlled or be manipulated unexpected expected way.
 
 00:05:58 Researcher 1
-All right, so.
-00:06:00 Researcher 1
-OK, so you basically answered also partially the question what your understanding of machine learning security is.
+All right, so. OK, so you basically answered also partially the question what
+your understanding of machine learning security is.
 
 00:06:09 Interviewee
-So, it's to my understanding is to prevent like the model being used by.
-00:06:16 Interviewee
-How to say... and not to the initial purpose, more likely to, for example, sending specific input to the model to get the because for example, in the context of a language model.
-00:06:31 Interviewee
-Then you give some input, then it will give certain output. But like those like question answering fine tune like ChatGPT model. Then you can trigger the model to output on.
-00:06:50 Interviewee
-Inappropriate outputs or expected output by tweaking the prompt.
-00:06:58
-All.
+So, it's to my understanding is to prevent like the model being used by, how to say,
+and not to the initial purpose, more likely to, for example, sending specific
+input to the model to get the. Because, for example, in the context of a language model,
+then you give some input, then it will give certain output.
+But like those like question answering, like fine-tuned like ChatGPT model,
+then you can trigger the model to output on inappropriate outputs or expected
+output by tweaking the prompt.
 
 00:06:59 Researcher 1
-Right. Thank you.
-00:07:00 Researcher 1
-And which security goals are announced by your company's management so.
+Right. Thank you. And which security goals are announced by your company's management?
 
 00:07:08 Interviewee
-Sorry.
+Sorry?
 
 00:07:09 Researcher 1
 Yeah. Which security goals are announced by your company?
 
 00:07:14 Interviewee
-Security goals.
+Security goals?
 
 00:07:15 Researcher 1
-Security goals. Yeah, so that if we implement a machine learning service then it needs to fulfill criteria A, B, and, C.
+Security goals. Yeah, so that if we implement a machine learning service
+then it needs to fulfill criteria A, B, and, C.
 
 00:07:26 Interviewee
-Yeah, uh, I think right now our companies, uh service is mostly.
-00:07:32 Interviewee
-Around the infrastructure and also the software to be secure, not like for the model itself. It's mostly we will try to mitigate the security issues by trying to utilize what's the, what's the best of from the market.
-00:07:52 Interviewee
-It's commercial service or it's open source?
-00:07:57 Interviewee
-Libraries to prevent unintended use of the model under the system.
+Yeah, uh, I think right now our company's service is mostly around the infrastructure
+and also the software to be secure. Bot like for the model itself, it's mostly we will
+try to mitigate the security issues by trying to utilize what's the best of from the market,
+either it's commercial service or it's open source libraries to prevent unintended
+use of the model under the system.
 
 00:08:03 Researcher 1
-So, security is basically.
+So, security is basically?
 
 00:08:06 Interviewee
-On the.
+On the focus.
 
 00:08:07 Researcher 1
-Focus on the focus, but provided by a third-party company.
+On the focus, but provided by a third-party company?
 
 00:08:17 Interviewee
-Like we are because we are. It's a different tools to ensure it's the system, including the model is secure.
+Like, we are, because we are. It's a different tools to ensure it's the system,
+including the model is secure.
 
 00:08:26 Researcher 1
-OK, OK. So, you use certain tools and that's?
-00:08:30 Researcher 1
-Also prescribed by your company that you have to use those tools before implementing a machine learning solution.
+Ah, OK. So, you use certain tools and that's also prescribed by your company
+that you have to use those tools before implementing a machine learning solution?
 
 00:08:37 Interviewee
 Yeah.
 
 00:08:38 Researcher 1
-OK. All right. And OK. So, your company is?
-Prescribing that you use those tools before to guarantee a certain level of security in order to also support machine learning security in.
-
-00:08:58 Researcher 1
-That way.
+OK. All right. And OK. So, your company then is prescribing that you use those tools
+before, to guarantee a certain level of security in order to also support machine learning security
+in that way?
 
 00:08:59 Interviewee
 Yeah.
@@ -177,77 +167,67 @@ Yeah.
 OK. What kind of tools?
 
 00:09:04 Interviewee
-Uh, for example, in like in the context of a large language model then in Azure or Azure service they have those content filtering prompt protection that you can.
-
-00:09:19 Researcher 1
-Hmm.
-
-00:09:22 Interviewee
-When you, even if the user give like a certain prompt to trigger the model, you can still filter out the specific content.
-And other tools like I remember there's another tool like this that is more for the like more classic machine learning models, but it's not really being used in actual project.
-00:09:48 Interviewee
-Right.
+Uh, for example, in like in the context of a large language model then in Azure AI or
+Azure AI service they have those content filtering prompt protection that you can, how to say,
+when you, even if the user give like a certain prompt to trigger the model, you can
+still filter out the specific content. And other tools? Like, I remember there's another tool
+like this that is more for the like more classic machine learning models,
+but it's not really being used in actual project.
 
 00:09:49 Researcher 1
-What? What do you? Sorry. What do you mean with classic machine learning? Do you mean shallow machine learning so.
+What? What do you? Sorry. What do you mean with classic machine learning?
+Do you mean shallow machine learning?
 
 00:09:49 Interviewee
-No, deep learning.
+Non-deep learning.
 
 00:09:57 Researcher 1
-OK. So OK, so decision trees from the forest and so on. OK. And then not for deep learning. OK, alright. Thank you. Sorry. And what, what tool was that?
+OK. So OK, so decision trees, random forest and so on.
+OK. And then not for deep learning. OK, alright. Thank you. Sorry.
+And what, what tool was that?
 
-00:10:00 Interviewee
-Yeah, yeah, yeah, yeah.
 00:10:09 Interviewee
-I don't have that in my in my memory right now, but we haven't really used the project.
+I don't have that in my in my memory right now, but we haven't really used in project.
 
 00:10:16 Researcher 1
-What was the tool the intended use of the tool?
+What was the intended use of the tool?
 
 00:10:21 Interviewee
-I think it's trying to guide the model to it's more around like model bias.
-00:10:31 Interviewee
-So not it's not really part of the security, but more for the model bibas.
+I think it's trying to guide the model to, it's more around like model bias.
+So, not it's not really part of the security, but more for the model bias.
 
 00:10:39 Researcher 1
 OK, so what is a model bias?
 
 00:10:44 Interviewee
-Yeah. So yeah, like in real world your data is.
-00:10:50 Interviewee
-Why is that? Because for example?
-00:10:58 Interviewee
-Like.
-00:11:00 Interviewee
-Crime rates at certain rates, like if you like the data then you will have like a higher percentage of crime rate on certain ethnic group. But like if you train the model based on this data then it will have a bias against.
-00:11:20 Interviewee
-That ethnic group instead of like.
-00:11:24 Interviewee
-Actual fact, because the data itself is biased, so the model then is trained is become biased. Then you need to find a certain way to mitigate this kind of bias.
+Yeah. So yeah, like in real world your data is biased, because, for example, like:
+Crime rates at certain rates, like if you like the data then you will have like a
+higher percentage of crime rate on certain ethnic group. But like if you train
+the model based on this data then it will have a bias against that ethnic group
+instead of like actual fact, because the data itself is biased, so the model then
+is trained is become biased. Then you need to find a certain way to mitigate this
+kind of bias.
 
 00:11:38 Researcher 1
-All right. Any other tools that come into your mind that are prescribed?
-00:11:44 Researcher 1
-By [company].
+All right. Any other tools that come into your mind that are prescribed by [company]?
 
 00:11:51 Interviewee
 No, all the tools more around like software security and infrastructure.
 
 00:11:58 Researcher 2
-Would agree that we have more like a not a specific thing for machine learning, but general security stuff.
+Would agree that we have more like a not a specific thing for machine learning,
+but general security stuff?
 
 00:12:05 Interviewee
 Yeah, yeah.
 
 00:12:08 Researcher 1
-OK. Right then.
-00:12:13 Researcher 1
-Why do you consider security aspects of machine learning solutions in?
-00:12:20 Researcher 1
-Systems where those machine learning solutions are embedded.
+OK. Right then. Why do you consider security aspects of machine learning solutions in
+systems where those machine learning solutions are embedded?
+
 00:12:27 Interviewee
 Yeah, I'm not sure if I understand this question.
+
 00:12:29 Researcher 1
 OK, so basically what kind of so why?
 00:12:34 Researcher 1
