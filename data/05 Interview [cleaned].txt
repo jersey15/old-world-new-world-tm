@@ -1,656 +1,669 @@
 Time: 2024-05-06, 13:03 UTC
 Interviewee: I05
+Interviewer: Researcher 1, Researcher 2
 Duration: 28m 41s
 
-00:00:01 Researcher 1
-OK, this one, this one. OK, it's running.
-So, [interviewee], first of all, thank you for your time.
-And we start with the first background question.
+[00:00:01 Researcher 1]
+OK, this one, this one. OK, it's running. So, [I05], first of all, thank you for
+your time. And we start with the first background question.
+[Question 1]
 What is your role in the company?
 
-00:00:17 Interviewee
-Well, my main role in the company is AI engineer, also I do data engineering.
-It is my main daily task. So those are the main things that I do.
-I have been supporting within AI but mainly modeling and providing business
-solution within the data engineering field.
+[00:00:17 I05]
+Well, my main role in the company is AI engineer, also I do data engineering. It
+is my main daily task. So those are the main things that I do. I have been
+supporting within AI but mainly modeling and providing business solution within
+the data engineering field.
 
-00:00:37 Researcher 1
-Right, perfect. So how many years of experience did you collect over
-your professional career?
+[00:00:37 Researcher 1]
+Right, perfect.
+[Question 2]
+So how many years of experience did you collect over your professional career?
 
-00:00:42 Interviewee
+[00:00:42 I05]
 Around a bit more than three years. [inaudible]
 
-00:00:46 Researcher 1
+[00:00:46 Researcher 1]
 OK. Did you have different stations, or was it all in one company, or?
 
-00:00:51 Interviewee
-I started in a [country] company, working not in the cloud, mainly
-in local software like [software], for example. And then I moved to [company].
+[00:00:51 I05]
+I started in a [country] company, working not in the cloud, mainly in local
+software like [software], for example. And then I moved to [company].
 
-00:01:05 Researcher 1
+[00:01:05 Researcher 1]
 Right. Thank you.
+[Question 3]
 Then did you have any experience, training or education in machine learning
 security or adversarial machine learning?
 
-00:01:15 Interviewee
-I have been within machine learning, not that much, but yeah,
-I have been practicing with it.
+[00:01:15 I05]
+I have been within machine learning, not that much, but yeah, I have been
+practicing with it.
 
-00:01:21 Researcher 1
-OK. So, can you elaborate a little bit on it? So, was it part
-of a university course, on your own, or given by the company, or?
+[00:01:21 Researcher 1]
+OK. So, can you elaborate a little bit on it? So, was it part of a university
+course, on your own, or given by the company, or?
 
-00:01:29 Interviewee
-It was mainly on my own and by the university course.
-With my master thesis what we did was analysis of non-probabilistic
-samples based on probabilistic samples.
-So, we were interacting, calculating weights for the non-probabilistic
-sample so that we can reduce the bias of the survey.
+[00:01:29 I05]
+It was mainly on my own and by the university course. With my master thesis what
+we did was analysis of non-probabilistic samples based on probabilistic samples.
+So, we were interacting, calculating weights for the non-probabilistic sample so
+that we can reduce the bias of the survey.
 
-00:01:52 Researcher 1
-OK. And so, your master thesis. Tthen you said you educated yourself
-on your own as well? In what way?
+[00:01:52 Researcher 1]
+OK. And so, your master thesis. Then you said you educated yourself on your own
+as well? In what way?
 
-00:02:00 Interviewee
+[00:02:00 I05]
 The way mainly was through courses in data science, teaching myself in Python.
 And how to build models and how to program those models.
 
-00:02:11 Researcher 1
-OK and also in the context of machine learning, security and
-adversarial machine learning?
+[00:02:11 Researcher 1]
+OK and also in the context of machine learning, security and adversarial machine
+learning?
 
-00:02:16 Interviewee
+[00:02:16 I05]
 Not security, mainly just machine learning.
 
-00:02:20 Researcher 1
-OK, OK. Yes, the questions were referred to specifically
-machine learning security. If you had courses there?
+[00:02:20 Researcher 1]
+OK, OK. Yes, the questions were referred to specifically machine learning
+security. If you had courses there?
 
-00:02:27 Interviewee
+[00:02:27 I05]
 Not in security.
 
-00:02:28 Researcher 1
+[00:02:28 Researcher 1]
 No, also OK. So no, no attacking models, no defending model.
 
-00:02:34 Interviewee
+[00:02:34 I05]
 No.
 
-00:02:34 Researcher 1
+[00:02:34 Researcher 1]
 OK, alright. Perfect. Thank you.
-Then, now we go over to the main part of the interview and the
-first question is if you can briefly explain the terms "machine learning"
-and "security" separately.
+[Question 4]
+Then, now we go over to the main part of the interview and the first question is
+if you can briefly explain the terms "machine learning" and "security",
+separately.
 
-00:02:53 Interviewee
-Yeah, well, what I understand is a machine learning is a model that
-is able to forecast data based on an input of data and more importantly,
-the model has been trained previously with some data, in order to do the
-forecast.
+[00:02:53 I05]
+Yeah, well, what I understand is a machine learning is a model that is able to
+forecast data based on an input of data and more importantly, the model has been
+trained previously with some data, in order to do the forecast.
 
-00:03:10 Researcher 1
+[00:03:10 Researcher 1]
 Alright.
 
-00:03:12 Interviewee
-And in terms of security, well, what I understand is something that
-cannot be, that is compliant against attacks, whatever kind of attack.
+[00:03:12 I05]
+And in terms of security, well, what I understand is something that cannot be,
+that is compliant against attacks, whatever kind of attack. 
 
-00:03:27 Researcher 1
+[00:03:27 Researcher 1]
 Yeah. OK.
 
-00:03:28 Interviewee
+[00:03:28 I05]
 Mainly security of course, mainly programming, coding, or informatical ...
 
-00:03:32 Researcher 1
-Right, right, right, right. So, do you have an example of an
-attack on machine learning?
+[00:03:32 Researcher 1]
+Right, right, right, right. So, do you have an example of an attack on machine
+learning?
 
-00:03:39 Interviewee
+[00:03:39 I05]
 Not really.
 
-00:03:40 Researcher 1
+[00:03:40 Researcher 1]
 Not really. OK. Alright then. OK then this question. Let's see.
+[Question 5]
 Could you explain your understanding of machine learning security?
 
-00:03:52 Interviewee
+[00:03:52 I05]
 Not really, as I mentioned, I haven't worked with security that much.
 
-00:03:55 Researcher 1
-Right, right. Right, right. OK, then, which security goals are
-announced by your company's management?
+[00:03:55 Researcher 1]
+Right, right. Right, right.
+[Question 6]
+OK, then, which security goals are announced by your company's management?
 
-00:04:04 Interviewee
-Well, if with security you refer to be fair and don't introduce bias in the model?
+[00:04:04 I05]
+Well, if with security you refer to be fair and don't introduce bias in the
+model?
 
-00:04:15 Researcher 1
+[00:04:15 Researcher 1]
 Right.
 
-00:04:15 Interviewee
-Then, that's some of the things that we have been discussing.
-But as of now, we haven't touched on what we can implement in the model
-to be security compliant.
+[00:04:15 I05]
+Then, that's some of the things that we have been discussing. But as of now, we
+haven't touched on what we can implement in the model to be security compliant.
 
-00:04:25 Researcher 1
+[00:04:25 Researcher 1]
 OK, so far you were discussing fairness?
 
-00:04:30 Interviewee
+[00:04:30 I05]
 Yes.
 
-00:04:31 Researcher 1 
+[00:04:31 Researcher 1 ]
 Ok, and maybe to some degree, how to introduce security into the models, right?
 
-00:04:38 Interviewee
+[00:04:38 I05]
 Yes.
 
-00:04:38 Researcher 1
+[00:04:38 Researcher 1]
 But this is not, nothing set in stone by the management.
 
-00:04:41 Interviewee
+[00:04:41 I05]
 No, let's say that that we consider that as a second phase within the
 development.
 
-00:04:46 Researcher 1
+[00:04:46 Researcher 1]
 OK. A second phase in development. OK, that's interesting.
-OK, so there is no explicit support by your company regarding
-machine learning security.
+[Question 6a]
+OK, so there is no explicit support by your company regarding machine learning
+security?
 
-00:04:59 Interviewee
+[00:04:59 I05]
 I would say so.
 
-00:05:00 Researcher 1
+[00:05:00 Researcher 1]
 OK. All right.
-Then, why do you consider security aspects of machine learning components
-in your machine learning systems in production?
+[Question 7]
+Then, why do you consider security aspects of machine learning components in
+your machine learning systems in production?
 
-00:05:16 Interviewee
-Well, I guess that the, everything comes to the same point of having a
-fair model that this, that the output of the model is going to be reliable
-for everyone. So, if the model is weak enough so that it can support or
-is able to receive attacks, it will just not be able to be in production.
+[00:05:16 I05]
+Well, I guess that the, everything comes to the same point of having a fair
+model that this, that the output of the model is going to be reliable for
+everyone. So, if the model is weak enough so that it can support or is able to
+receive attacks, it will just not be able to be in production.
 
-00:05:38 Researcher 1
+[00:05:38 Researcher 1]
 Right, OK. And how would you maybe clarify the term "fairness"?
 
-00:05:45 Interviewee
-When it comes to fairness, as my statistical background, it mainly
-refers to that we reduce the bias based on gender, country of origin,
-or things referring to that matter.
+[00:05:45 I05]
+When it comes to fairness, as my statistical background, it mainly refers to
+that we reduce the bias based on gender, country of origin, or things referring
+to that matter.
 
-00:06:00 Researcher 1
-OK then, uh, what models do you apply in your projects?
-Is it more shallow machine learning, like random forest, or is it more deep learning?
+[00:06:00 Researcher 1]
+[Question 8]
+OK then, uh, what models do you apply in your projects? Is it more shallow
+machine learning, like random forest, or is it more deep learning?
 
-00:06:14 Interviewee
-Random Forest will be the most common, but as mentioned, I don't have
-that many experience in the company because maybe I work as an engineer
-so it's difficult for me to answer that kind of question, really.
+[00:06:14 I05]
+Random Forest will be the most common, but as mentioned, I don't have that many
+experience in the company because maybe I work as an engineer so it's difficult
+for me to answer that kind of question, really.
 
-00:06:24 Researcher 1
-OK. But as a data engineer, you're not deciding what kind of models are
-used in order to build the PoC, for example?
+[00:06:24 Researcher 1]
+OK. But as a data engineer, you're not deciding what kind of models are used in
+order to build the PoC, for example?
 
-00:06:36 Interviewee
+[00:06:36 I05]
 I mean, I'm able to, but let's say that the state hasn't arrived yet.
 
-00:06:40 Researcher 1
-OK. All right. So, any particular touch points to security within
-your role in the company? Are there any?
+[00:06:40 Researcher 1]
+[Question 9]
+OK. All right. So, any particular touch points to security within your role in
+the company? Are there any?
 
-00:06:55 Interviewee
-When we come to ML, not really. But when it comes to engineering, mainly we
-try to be GDPR compliant.
+[00:06:55 I05]
+When we come to ML, not really. But when it comes to engineering, mainly we try
+to be GDPR compliant.
 
-00:07:03 Researcher 1
+[00:07:03 Researcher 1]
 Right.
 
-00:07:03 Interviewee
-So, we mainly with my clients, we try to implement GDPR techniques so that
-data is anonymized or is not possible to query, to be queried by the users.
+[00:07:03 I05]
+So, we mainly with my clients, we try to implement GDPR techniques so that data
+is anonymized or is not possible to query, to be queried by the users.
 
-00:07:14 Researcher 2
+[00:07:14 Researcher 2]
 Yeah, but that is, so when we, I think discuss security and machine learning,
 of course, it also involves the data engineering part. So, it's not just the
-last bit of training or something. So the whole process is involved.
-So, now you can think about it in that way as well.
-So, it's not just like very limited to that very specific ...
+last bit of training or something. So the whole process is involved. So, now you
+can think about it in that way as well.So, it's not just like very limited to
+that very specific ...
 
-00:07:37 Interviewee
+[00:07:37 I05]
 That's good to know. [laughs]
 
-00:07:38 Researcher 1
+[00:07:38 Researcher 1]
 Yeah. Yeah. So, so basically the idea of security is, there is like a concept
 that is called CIA. So, it's confidentiality, integrity, availability, right?
-And privacy falls under confidentiality, right?
-So that people cannot read your data, for example. And right, yeah.
-So, given that context [laughs], yeah, would you change one of your answers?
-So, for example, which goals are announced by your company's management, for example.
+And privacy falls under confidentiality, right? So that people cannot read your
+data, for example. And right, yeah. So, given that context [laughs], yeah, would
+you change one of your answers?
+[Question 6]
+So, for example, which goals are announced by your company's management, for
+example?
 
-00:08:12 Interviewee
-I will say that, I mean, announced is kind of the same thing.
-We only try to be compliant in terms of with what data from the user query
-but there is nothing written in stone about how to handle data,
-mainly because it's very diverse and it depends on the use case.
+[00:08:12 I05]
+I will say that, I mean, announced is kind of the same thing. We only try to be
+compliant in terms of with what data from the user query but there is nothing
+written in stone about how to handle data, mainly because it's very diverse and
+it depends on the use case.
 
-00:08:27 Researcher 1
+[00:08:27 Researcher 1]
 Right, right, right.
-OK. So, and how? OK, so there is nothing written or set in stone and,
-but you try to be compliant with GDPR, so ...
+OK. So, and how? OK, so there is nothing written or set in stone and, but you
+try to be compliant with GDPR, so ...
 
-00:08:40 Interviewee
-But just to add there, it usually when we come to work on a project.
-It's not us who defines what they consider as if they are GDPR compliant.
-It really is the client and who they want to treat the data and how they
-want to analyze the data. So, it's not ourselves who can say to the client,
-we can provide good practices, but we cannot say what has to be done. 
+[00:08:40 I05]
+But just to add there, it usually when we come to work on a project. It's not us
+who defines what they consider as if they are GDPR compliant. It really is the
+client and who they want to treat the data and how they want to analyze the
+data. So, it's not ourselves who can say to the client, we can provide good
+practices, but we cannot say what has to be done. 
 
-00:09:09 Researcher 1
-OK, so. So also, the understanding and the attitude towards security is
-not set by your management or upper management by the management of the
-clients.
+[00:09:09 Researcher 1]
+OK, so. So also, the understanding and the attitude towards security is not set
+by your management or upper management by the management of the clients.
 
-00:09:15 Interviewee
+[00:09:15 I05]
 Let's say so.
 
-00:09:18 Researcher 1
-OK. Alight. Then, ok. Did you have like for example with your last client,
-how did the security of data, how was it considered?
+[00:09:18 Researcher 1]
+[Question 11]
+OK. Alight. Then, ok. Did you have like for example with your last client, how
+did the security of data, how was it considered?
 
-00:09:35 Interviewee
-That is still up to discussion on our side. They have their own legal 
-team that handles that and that provide us the information of what they
-consider as GDPR[-compliant] or not, because every company is different.
-But when we come into the implementation, what we usually do is to,
-before ingesting data into our platform, a meeting that the source team
-has to handle their personal information on their way as they go.
-We usually try to split that flow into two different tables, two different flows.
-And in one flow is, it doesn't have any further stuff. All the data,
-all the PII information, remain there.
-In the second flow, there is no PII information. Everything goes to the
-business users, so they can query that table.
-And their request, they can query the other table, but it is forbidden from
-the beginning.
+[00:09:35 I05]
+That is still up to discussion on our side. They have their own legal team that
+handles that and that provide us the information of what they consider as
+GDPR[-compliant] or not, because every company is different. But when we come
+into the implementation, what we usually do is to, before ingesting data into
+our platform, a meeting that the source team has to handle their personal
+information on their way as they go. We usually try to split that flow into two
+different tables, two different flows. And in one flow is, it doesn't have any
+further stuff. All the data, all the PII information, remain there. In the
+second flow, there is no PII information. Everything goes to the business users,
+so they can query that table. And their request, they can query the other table,
+but it is forbidden from the beginning.
 
-00:10:26 Researcher 1
+[00:10:26 Researcher 1]
 OK. Interesting. Mm-hmm.
 
-00:10:28 Researcher 2
-And just for the context: "PII", I think it's something that we use:
-"Personally Identifiable Information"
+[00:10:28 Researcher 2]
+And just for the context: "PII", I think it's something that we use: "Personally
+Identifiable Information"
 
-00:10:35 Researcher 1
-Yeah, no, I know that from a privacy perspective.
-Yeah. OK, then that's interesting to know. Are there any other examples?
-Because you work, like, with a bunch of clients, probably, where it's ...
-Or it goes in the similar direction you described, now, that you have
-those different streams or the two streams where you handle privacy?
-Or do you have also other approaches?
+[00:10:35 Researcher 1]
+Yeah, no, I know that from a privacy perspective. Yeah. OK, then that's
+interesting to know. Are there any other examples? Because you work, like, with
+a bunch of clients, probably, where it's ... Or it goes in the similar direction
+you described, now, that you have those different streams or the two streams
+where you handle privacy? Or do you have also other approaches?
 
-00:10:59 Interviewee
-There are, I mean it's not, in the client that I work with, we use this
-approach that is called cellular anonymization.
-But in other clients, it's up to them because usually they don't want
-to split the data in two, they decide to anonymize directly. So, it depends.
+[00:10:59 I05]
+There are, I mean it's not, in the client that I work with, we use this approach
+that is called cellular anonymization. But in other clients, it's up to them
+because usually they don't want to split the data in two, they decide to
+anonymize directly. So, it depends.
 
-00:11:20 Researcher 1
-OK. And uh, is there a different, OK, so you described it now, it
-really depends, right? So, does it depend on the model which is used or
-is it more dependent on the data that is used?
+[00:11:20 Researcher 1]
+OK. And uh, is there a different, OK, so you described it now, it really
+depends, right? So, does it depend on the model which is used or is it more
+dependent on the data that is used?
 
-00:11:31 Interviewee
+[00:11:31 I05]
 Mainly in the users that are going to use the data.
 
-00:11:34 Researcher 1
+[00:11:34 Researcher 1]
 OK, and ...
 
-00:11:35 Interviewee
+[00:11:35 I05]
 Of course, they usually don't want to anonymize the data from the beginning,
-because then you lose the value. Then you don't have anything to analyze,
-but there are some other techniques that don't involve hashing but refers to
-anonymization in terms of, I want to know how many customers I have, but
-I don't want to know their ID. Then I can transform that ID into a value that
-is security compliant, but it's possible to perform analysis on that.
+because then you lose the value. Then you don't have anything to analyze, but
+there are some other techniques that don't involve hashing but refers to
+anonymization in terms of, I want to know how many customers I have, but I don't
+want to know their ID. Then I can transform that ID into a value that is
+security compliant, but it's possible to perform analysis on that.
 
-00:12:03 Researcher 1
-OK. And are there different procedures for shallow machine learning,
-like random forests, decision tree or whatnot in comparison to deep learning
-or large language models, for example?
+[00:12:03 Researcher 1]
+OK. And are there different procedures for shallow machine learning, like random
+forests, decision tree or whatnot in comparison to deep learning or large
+language models, for example?
 
-00:12:16 Interviewee
+[00:12:16 I05]
 I have no idea in that sense.
 
-00:12:18 Researcher 1
+[00:12:18 Researcher 1]
 OK. So you haven't experienced it?
 
-00:12:20 Interviewee
+[00:12:20 I05]
 No, I haven't experienced with that. I, let's say that my scope ends in providing
 the data to the business users. Let's say that I provide the data to the data
 scientist, and they implement their own models. 
 
-00:12:31 Researcher 1
+[00:12:31 Researcher 1]
 OK. All right, so you don't know to which models the data is fueled?
 
-00:12:35 Interviewee
+[00:12:35 I05]
 Yeah.
 
-00:12:37 Researcher 1
-Alright, no, perfect.
-So, we have now, let's see if we can adjust the questions to your context.
-So, we are looking now into two different scenarios. So, the first scenario is
-that a company decides to implement machine learning model into their system
-in production. And then the other scenario is that it is already implemented
-the machine learning component.
-And the first question is, and it's alright if you say, well, I don't know,
-is that, the security assessment, so what is more difficult to assess:
-The security of a planned machine learning model or is it more difficult to
-assess the security of an already implemented machine learning system?
-You can also answer from a data perspective.
+[00:12:37 Researcher 1]
+Alright, no, perfect. So, we have now, let's see if we can adjust the questions
+to your context. So, we are looking now into two different scenarios. So, the
+first scenario is that a company decides to implement machine learning model
+into their system in production. And then the other scenario is that it is
+already implemented the machine learning component.
+[Question 10]
+And the first question is, and it's alright if you say, well, I don't know, is
+that, the security assessment, so what is more difficult to assess: The security
+of a planned machine learning model or is it more difficult to assess the
+security of an already implemented machine learning system? You can also answer
+from a data perspective.
 
-00:13:39 Interviewee
+[00:13:39 I05]
 From a data perspective, I will say that it's easier to implement it in a non,
 in a model that is not yet in production. Mainly because there will be changes
 and there will be changes in the data that will affect the performance of the
-model most probably and that will involve new development and will affect the model.
+model most probably and that will involve new development and will affect the
+model.
 
-00:14:01 Researcher 1
+[00:14:01 Researcher 1]
 OK. And can you, have you experienced this sort of scenario or where this was
 the case as you described it?
 
-00:14:11 Interviewee
+[00:14:11 I05]
 It's mainly just, it just comes to my mind because from data experience.
 
-00:14:17 Researcher 1
-All right. And have you conducted some sort of risk assessment from, again,
-from a data perspective where you were doing a risk assessment on data for
-a machine learning system that is in production?
+[00:14:17 Researcher 1]
+All right.
+[Question 11]
+And have you conducted some sort of risk assessment from, again, from a data
+perspective where you were doing a risk assessment on data for a machine
+learning system that is in production?
 
-00:14:34 Interviewee
+[00:14:34 I05]
 No, no. I haven’t been the person in the team that has been doing that.
 
-00:14:39 Researcher 1
-OK. But all right, right. No, perfect. And since you know that there was
-a person doing it [laughs], do you know how familiar that person was with
-machine learning security per se?
+[00:14:39 Researcher 1]
+OK. But all right, right. No, perfect.
+[Question 11a]
+And since you know that there was a person doing it [laughs], do you know how
+familiar that person was with machine learning security per se?
 
-00:14:55 Interviewee
-Not that much.
-I mean, he's not from our company, he's from the client company.
+[00:14:55 I05]
+Not that much. I mean, he's not from our company, he's from the client company.
 But I will say that: Not that much.
 
-00:15:02 Researcher 1
+[00:15:02 Researcher 1]
 Not that much, OK.
 
-00:15:06 Researcher 2
-Typically, maybe again an experience of mine, not to deviate from the topic,
-but generally security, until maybe last year or so, was not really the main
-focus, and of course, AI engineering and machine learning, we have discussed
-this before, of course. And then the turning point was I think after ChatGPT
-that everybody kind of like [laughs] "OK, we have to do something about it".
+[00:15:06 Researcher 2]
+Typically, maybe again an experience of mine, not to deviate from the topic, but
+generally security, until maybe last year or so, was not really the main focus,
+and of course, AI engineering and machine learning, we have discussed this
+before, of course. And then the turning point was I think after ChatGPT that
+everybody kind of like [laughs] "OK, we have to do something about it".
 
-00:15:35 Interviewee
+[00:15:35 I05]
 Yes.
 
-00:15:35 Researcher 1
+[00:15:35 Researcher 1]
 Yeah. No, absolutely. Yeah. So. OK, And have you also from a data perspective,
 did it affect you in a way that a risk assessment or a threat modeling was
-conducted where you needed to take several factors into account during the
-data preparation, for example?
+conducted where you needed to take several factors into account during the data
+preparation, for example?
 
-00:16:03 Interviewee
-Hmm. I mean, you always have to adapt things when the security became to be
-a hot topic within the area. Of course you have to make changes in the flow.
-You have to adapt. Companies aren’t updated with that, are not up-to-date,
-so they have to introduce that kind of logic and that the whole teams and
-the whole development, the whole ...
+[00:16:03 I05]
+Hmm. I mean, you always have to adapt things when the security became to be a
+hot topic within the area. Of course you have to make changes in the flow. You
+have to adapt. Companies aren’t updated with that, are not up-to-date, so they
+have to introduce that kind of logic and that the whole teams and the whole
+development, the whole ...
 
-00:16:26 Researcher 1
+[00:16:26 Researcher 1]
 Right. Do you have any examples, maybe?
 
-00:16:29 Interviewee
+[00:16:29 I05]
 Introducing being GDPR-compliant.
 
-00:16:32 Researcher 1
-OK. And OK and we talked about the different flows and whatnot.
-OK, right. We can skip this.
-And then, what kind of defense mechanisms were introduced to?
-I mean, yes, you mentioned already hashing.
-Are there any more defense mechanisms that were introduced from
-a data perspective?
+[00:16:32 Researcher 1]
+OK. And OK and we talked about the different flows and whatnot. OK, right. We
+can skip this.
+[Question 13]
+And then, what kind of defense mechanisms were introduced to? I mean, yes, you
+mentioned already hashing. Are there any more defense mechanisms that were
+introduced from a data perspective?
 
-00:16:59 Interviewee
-I know that there are more, but I haven't implemented them,
-or I haven't worked with them.
+[00:16:59 I05]
+I know that there are more, but I haven't implemented them, or I haven't worked
+with them.
 
-00:17:05 Researcher 1
+[00:17:05 Researcher 1]
 OK, then, right. We can skip this.
 OK. And were there any, so ...
-Since ChatGPT was introduced, were there any additional processes that
-were included in your in your day-to-day business to guarantee security
-from a data perspective?
+[Question 15]
+Since ChatGPT was introduced, were there any additional processes that were
+included in your in your day-to-day business to guarantee security from a data
+perspective?
 
-00:17:35 Interviewee
-Not really. Everything has been evolving in the same sense.
-It's true that company has been more aware of that,
-but it's still ongoing and I don't think that will come soon.
+[00:17:35 I05]
+Not really. Everything has been evolving in the same sense. It's true that
+company has been more aware of that, but it's still ongoing and I don't think
+that will come soon.
 
-00:17:44 Researcher 1
+[00:17:44 Researcher 1]
 OK, so their awareness increased?
 
-00:17:47 Interviewee
+[00:17:47 I05]
 Yeah.
 
-00:17:47 Researcher 1
+[00:17:47 Researcher 1]
 But there were no altered processes or anything?
 
-00:17:52 Interviewee
-I will say that the companies have priorities and as of now until
-something comes up within the GDPR statements, it will not be that.
+[00:17:52 I05]
+I will say that the companies have priorities and as of now until something
+comes up within the GDPR statements, it will not be that.
 
-00:17:59 Researcher 2
+[00:17:59 Researcher 2]
 So, it's mostly reactive rather than proactive?
 
-00:18:03 Interviewee
+[00:18:03 I05]
 Yeah.
 
-00:18:04 Researcher 2
-And maybe one more question, a little bit relevant to this:
-Has there been a client that we have actively used LLMs for them?
+[00:18:04 Researcher 2]
+And maybe one more question, a little bit relevant to this: Has there been a
+client that we have actively used LLMs for them?
 
-00:18:16 Interviewee
+[00:18:16 I05]
 Not really.
 
-00:18:17 Researcher 2
+[00:18:17 Researcher 2]
 Not really. Not so far.
 
-00:18:19 Interviewee
-OK, I know that my client is using OpenAI in that sense.
-But they are not wondering about security. [laughs]
+[00:18:19 I05]
+OK, I know that my client is using OpenAI in that sense. But they are not
+wondering about security. [laughs]
 
-00:18:28 Researcher 2
-Yeah, exactly. But that's actually an important point.
-This is not that we are not really forcing people to lie about this,
-but being aware of this, that OK, there are multiple companies that are
-using these, but security is kind of like pushed aside, it's good to know.
+[00:18:28 Researcher 2]
+Yeah, exactly. But that's actually an important point. This is not that we are
+not really forcing people to lie about this, but being aware of this, that OK,
+there are multiple companies that are using these, but security is kind of like
+pushed aside, it's good to know.
 
-00:18:47 Interviewee
+[00:18:47 I05]
 It also depends on, because in this case, Azure is promising or ensures that
 their OpenAI model is not the same one that you use when you use them.
 
-00:19:00 Researcher 2
-So, it's basically the they kind of take it granted that, OK, we are
-getting it from Microsoft, it should be secure.
+[00:19:00 Researcher 2]
+So, it's basically the they kind of take it granted that, OK, we are getting it
+from Microsoft, it should be secure.
 
-00:19:10 Interviewee
+[00:19:10 I05]
 Yeah.
 
-00:19:11 Researcher 1
-OK, OK, alright. Yeah, trusting the third parties in that sense, OK.
-Right. So, what else do we have here? That I asked.
-OK, then we are already in the in the last part of the interview.
-So, it's called "future needs and wishes".
-And the idea is that you give a number which 1 stands for
-"insufficiently covered in my company" and 10 is "very well covered
-in my company", right? So, it's a statement and you just say the number,
-if you wish, so, you can elaborate.
+[00:19:11 Researcher 1]
+OK, OK, alright. Yeah, trusting the third parties in that sense, OK. Right. So,
+what else do we have here? That I asked.
+OK, then we are already in the in the last part of the interview. So, it's
+called "future needs and wishes". And the idea is that you give a number which 1
+stands for "insufficiently covered in my company" and 10 is "very well covered
+in my company", right? So, it's a statement and you just say the number, if you
+wish, so, you can elaborate.
 
-00:19:50 Interviewee
+[00:19:50 I05]
 One of them?
 
-00:19:51 Researcher 1
+[00:19:51 Researcher 1]
 Between 1 and 10, right? Yes, you can. Of course you can choose in between.
-The ability to select fit-for-purpose machine learning components with
-models to include in machine learning system in production is ...?
+[Question 16]
+The ability to select fit-for-purpose machine learning components with models to
+include in machine learning system in production is ...?
 
-00:20:10 Interviewee
+[00:20:10 I05]
 8.
 
-00:20:12 Researcher 1
+[00:20:12 Researcher 1]
 OK. Do you want to elaborate or is it rather gut feeling? You don't have to!
 
-00:20:18 Interviewee
-I mean, I guess that it is good for the developer to be able to
-freely choose whatever you want to implement.
+[00:20:18 I05]
+I mean, I guess that it is good for the developer to be able to freely choose
+whatever you want to implement.
 
-00:20:26 Researcher 1
-The ability to evaluate security concerns concerning machine learning
-components to include in your software system in production is ...?
+[00:20:26 Researcher 1]
+[Question 17]
+The ability to evaluate security concerns concerning machine learning components
+to include in your software system in production is ...?
 
-00:20:36 Interviewee
+[00:20:36 I05]
 That would be a 10.
 
-00:20:37 Researcher 1
+[00:20:37 Researcher 1]
 So, the ability to evaluate security concerns is a 10?
 
-00:20:43 Interviewee
+[00:20:43 I05]
 Yeah. So that is high.
 
-00:20:47 Researcher 1
-Then the ability to maintain the machine learning component in running
-machine learning system in production ...?
+[00:20:47 Researcher 1]
+[Question 18]
+Then the ability to maintain the machine learning component in running machine
+learning system in production ...?
 
-00:20:57 Interviewee
+[00:20:57 I05]
 It should be around 8. I mean the model has to perform properly so.
 
-00:21:04 Researcher 1
-All right. Then, one question I might be curious about is regarding the
-concept drift, so of a machine learning model. However, you're not involved
-in the machine learning model development, only you are focusing on the 
-data, that's why we can scratch this question off. Right, now, then there was
-another question out of curiosity. 
+[00:21:04 Researcher 1]
+All right. Then, one question I might be curious about is regarding the concept
+drift, so of a machine learning model. However, you're not involved in the
+machine learning model development, only you are focusing on the data, that's
+why we can scratch this question off. Right, now, then there was another
+question out of curiosity.
+[Question 19]
 And the last point is, do you have any other points that should have been
 mentioned in the interview here?
 
-00:21:42 Interviewee
-Hmm, not sure. I mean, I would say that there is not that much to say.
-Security is important and should be treated for any other client as a high
-pri[ority]. It's not something to leave at the end of a development because
-then come problems and sometimes redo the development.
+[00:21:42 I05]
+Hmm, not sure. I mean, I would say that there is not that much to say. Security
+is important and should be treated for any other client as a high pri[ority].
+It's not something to leave at the end of a development because then come
+problems and sometimes redo the development.
 
-00:22:05 Researcher 1
-OK. So, you're saying that basically security should have been involved
-and considered way earlier
+[00:22:05 Researcher 1]
+OK. So, you're saying that basically security should have been involved and
+considered way earlier
 
-00:22:14 Interviewee
+[00:22:14 I05]
 Yes.
 
-00:22:14 Researcher 1
-In the development than it is currently.
-But you also observed the shift after the introduction of GDPR, right?
-OK, that's also good and there is also changes how data is handled, right?
-And that's also important. Do you know about any assessment of data sources,
-maybe, that are used?
-Or do you usually receive data from the client and then you basically do the
-anonymization, and that's it, you don't have to assess the origin of the data?
+[00:22:14 Researcher 1]
+In the development than it is currently. But you also observed the shift after
+the introduction of GDPR, right? OK, that's also good and there is also changes
+how data is handled, right? And that's also important. Do you know about any
+assessment of data sources, maybe, that are used? Or do you usually receive data
+from the client and then you basically do the anonymization, and that's it, you
+don't have to assess the origin of the data?
 
-00:22:54 Interviewee
-Not really, because usually in my case it comes from different teams.
-So each teams has their own duties, so we have to trust them in some way.
-I mean we have some communication with them in terms of what they do.
-And based on that, we implement our own logic.
-But we don't ensure that they are applying their own logic properly or
-things like that.
+[00:22:54 I05]
+Not really, because usually in my case it comes from different teams. So each
+teams has their own duties, so we have to trust them in some way. I mean we have
+some communication with them in terms of what they do. And based on that, we
+implement our own logic. But we don't ensure that they are applying their own
+logic properly or things like that.
 
-00:23:18 Researcher 1
+[00:23:18 Researcher 1]
 OK. So OK and what do you mean with your own logic?
 
-00:23:26 Interviewee
-With this pseudo-anonymization for example.
-In this case, for example, if we receive customers information on a daily
-basis and a customer request to be forgotten, for us is OK, but we have to ensure
-that the customer that the source team that is providing us the data is compliant
-in the sense that are we going to keep receiving information from that customer, or not?
-Because if so, we have to implement a different logic.
-But if they have received that notification of this customer doesn't want to
-appear and we are not going to receive it, then we are fine. We don't need to worry anymore.
+[00:23:26 I05]
+With this pseudo-anonymization for example. In this case, for example, if we
+receive customers information on a daily basis and a customer request to be
+forgotten, for us is OK, but we have to ensure that the customer that the source
+team that is providing us the data is compliant in the sense that are we going
+to keep receiving information from that customer, or not? Because if so, we have
+to implement a different logic. But if they have received that notification of
+this customer doesn't want to appear and we are not going to receive it, then we
+are fine. We don't need to worry anymore.
 
-00:24:08 Researcher 1
+[00:24:08 Researcher 1]
 OK. OK. So alright then. Then I think that's it.
 
-00:24:15 Researcher 2
-Maybe just some complimentary questions from my side, based on, of course, what we had
-discussed with [an interviewee]. We discussed a little bit on these proof of concepts,
-the PoCs that we are doing and usually we don't consider security for the proof of concept
-because it's something that is, OK, it's probably a proof of concept you just want to make
-sure that it works. Just stick something together and then let's see how it goes.
-And there are sometimes cases that that proof of concept it ends up being the product.
-And then you will have all of a sudden problems of security or any other problems
-because you didn't think that, or at least you thought maybe we will have the chance
-to improve it, but not. So, in this context, I think security is really, like, missing.
+[00:24:15 Researcher 2]
+Maybe just some complimentary questions from my side, based on, of course, what
+we had discussed with [an other interviewee]. We discussed a little bit on these
+proof of concepts, the PoCs that we are doing and usually we don't consider
+security for the proof of concept because it's something that is, OK, it's
+probably a proof of concept you just want to make sure that it works. Just stick
+something together and then let's see how it goes. And there are sometimes cases
+that that proof of concept it ends up being the product. And then you will have
+all of a sudden problems of security or any other problems because you didn't
+think that, or at least you thought maybe we will have the chance to improve it,
+but not. So, in this context, I think security is really, like, missing.
 
-00:25:18 Interviewee
+[00:25:18 I05]
 I would say that, when we going to a PoC, one thing is selling, and one thing is
-delivering. When we refer to selling, a PoC is enough for the client to see what we
-can do. But we have to include, at least in the background, that for this product to
-be in their system in production, it has to involve some extra development.
-That will mean the security will be included.
-Of course, from the beginning is not needed because it's a development that in
-a PoC we have to do, and it will cost us money. But to sell the product, we don't
-need it. We will need it when the system is in production.
+delivering. When we refer to selling, a PoC is enough for the client to see what
+we can do. But we have to include, at least in the background, that for this
+product to be in their system in production, it has to involve some extra
+development. That will mean the security will be included. Of course, from the
+beginning is not needed because it's a development that in a PoC we have to do,
+and it will cost us money. But to sell the product, we don't need it. We will
+need it when the system is in production.
 
-00:25:56 Researcher 2
-OK, so when you're going for the production, yeah.
-But in general, I think again, my perception is that, generally, everybody takes
-security, not particularly for machine learning components, but as, it's kind of granted
-that, "OK, we have to have security overall, but not particularly for machine learning".
-I think that's something that is a little bit clouding the, like, the discussion when
-it comes to exactly machine learning security.
+[00:25:56 Researcher 2]
+OK, so when you're going for the production, yeah. But in general, I think
+again, my perception is that, generally, everybody takes security, not
+particularly for machine learning components, but as, it's kind of granted that,
+"OK, we have to have security overall, but not particularly for machine
+learning". I think that's something that is a little bit clouding the, like, the
+discussion when it comes to exactly machine learning security.
 
-00:26:35 Researcher 1
+[00:26:35 Researcher 1]
 Yeah.
 
-00:26:36 Interviewee
-But I will say that the GDPR is a hot topic that allows, in our case,
-data engineers to anonymize data, make it not that available for everyone.
-But most of the people, I mean, this is by law, but most of the people are
-like, "We have a firewall that is enough. Our data is secure enough, when we
-come into a DDoS attack or things like that".
+[00:26:36 I05]
+But I will say that the GDPR is a hot topic that allows, in our case, data
+engineers to anonymize data, make it not that available for everyone. But most
+of the people, I mean, this is by law, but most of the people are like, "We have
+a firewall that is enough. Our data is secure enough, when we come into a DDoS
+attack or things like that".
 
-00:26:59 Researcher 2
-So, It's a kind of sense of security, that's, "OK, if you have everything
-in place in the big picture, we will be hopefully safe in our own bubble as well".
+[00:26:59 Researcher 2]
+So, It's a kind of sense of security, that's, "OK, if you have everything in
+place in the big picture, we will be hopefully safe in our own bubble as well".
 
-00:27:13 Interviewee
-The problems that different companies do not consider that there are
-different layers. One is open to Internet, I mean [inaudible] and that kind of
-stuff and when it's OK and one that they pass the [inaudible] how we protect
-our data that is another thing. And that is something that companies they will
-say that they worry about mainly because of GDPR, but if GDPR wouldn't be there,
-there are no complaints about that, there are no worries about that.
+[00:27:13 I05]
+The problems that different companies do not consider that there are different
+layers. One is open to Internet, I mean [inaudible] and that kind of stuff and
+when it's OK and one that they pass the [inaudible] how we protect our data that
+is another thing. And that is something that companies they will say that they
+worry about mainly because of GDPR, but if GDPR wouldn't be there, there are no
+complaints about that, there are no worries about that.
 
-00:27:40 Researcher 1
+[00:27:40 Researcher 1]
 Other issues are that basically, especially when you're using large language
 models that you that you encode data in a network, basically. So as soon as the
 data faces a large language model, or a transformer, or whatnot, then you're
 basically encoding that data into the neurons that are present. And so that's a
 fact and there's no proper mitigation techniques yet. So, but that has to like
-evolve. Right now comes the hype and we check how well it performs. And then
-then we all have probably the security issues and that companies need to pay fines.
+evolve. Right now comes the hype and we check how well it performs. And then we
+all have probably the security issues and that companies need to pay fines.
 We'll see about that. Hopefully it goes well. Right. Oh, perfect. Yes.
 
-00:28:29 Researcher 2
+[00:28:29 Researcher 2]
 Great. No more comments from my side.
 
-00:28:33 Researcher 1
+[00:28:33 Researcher 1]
 OK. Thank you then.
 
-00:28:35 Interviewee
+[00:28:35 I05]
 You're welcome.
