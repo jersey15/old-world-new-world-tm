@@ -1,5 +1,6 @@
 Time: 2024-05-06, 15:06 UTC
-I07: I07
+Interviewee: I07
+Interviewers: Researcher 1, Researcher 2
 Duration: 51m 31s
 
 [00:00:05 Researcher 1]
