@@ -11,7 +11,7 @@ What is your role in your company?
 
 [00:00:17 I07]
 Yeah, right now I'm in the role as the leader of the AI engineering team,
-previously as the back-end team, but that back.end is in the context of data
+previously as the back-end team, but that back-end is in the context of data
 platform. So, it's data engineering.
 And then I started here in 2020, August, doing different things like data
 engineering, MLOps and some different software development. Now with some AI
