@@ -27,13 +27,13 @@ you want me to elaborate on something?
 [00:00:54 Researcher 1]
 Yes, exactly. It was just roughly for your background.
 [Question 2]
-So, could you summarise like your experience roughly? 
+So, could you summarize like your experience roughly?
 
 [00:01:09 I04]
 Yes, sure. I have, I mean, I guess it's part of the experience as well, I worked
 at ... Sorry, I studied computer science within machine intelligence, at also a
 technical university and I was working a bit at [company] as a business
-intelligence, yeah, with business intelligence and visualising data using Power
+intelligence, yeah, with business intelligence and visualizing data using Power
 BI and so on, doing some analysis and so on. Also working at a different company
 as a software developer with a Microsoft CRM-based system for public entity in
 [country] and then also at [company], working with time series analysis mostly,
@@ -69,7 +69,7 @@ No, it's fine.
 
 [00:03:03 I04]
 Then, security then. In general, making sure that something is secure as to make
-sure that not unauthorised persons get access or being able to influence
+sure that not unauthorized persons get access or being able to influence
 something. I mean, I guess it's quite kind of general or vague, but.
 
 [00:03:27 Researcher 1]
@@ -80,7 +80,7 @@ And could you explain your understanding of machine learning security?
 
 [00:03:36 I04]
 Then, I guess it goes quite close to related to what I just said, but making
-sure that not unauthorised persons or people can interact or have influence over
+sure that not unauthorized persons or people can interact or have influence over
 machine learning models. "Secure", I'm not sure, I'm thinking now if making sure
 that the machine learning models are also trained on relevant data is part of
 security or not, but, such as: It shouldn't be biassed in certain, not sure if
@@ -149,7 +149,7 @@ we did time series analysis, we went, [a] large aspect of the project was to go
 through various data sources that we would leverage then and try and see what
 could be part of the model. So, for those we, so, we didn't follow sort of a
 security protocol, but we really, we wanted to deliver a really robust model.
-So, we really went into talking to a lot of businesspeople to really find data
+So, we really went into talking to a lot of business people to really find data
 sources that would, in the business aspect, be useful to the model. So, I mean,
 in some way you could say that would ensure that you find relevant data that the
 model is trained on so.
@@ -182,7 +182,7 @@ like GBM and XGBoost and solutions like that.
 
 [00:09:30 Researcher 1]
 So, it's a mix of shallow machine learning, deep learning, and RAGs also have
-something in common with large language models, right? 
+something in common with large language models, right?
 
 [00:09:37 I04]
 Yeah, yeah, of course, of course.
@@ -222,7 +222,7 @@ dedicated security team that looked into the topic of machine learning?
 I understand. No, so we didn't have any, any team looking at the model from a
 security perspective trying to see if there were, yeah, negative aspects.
 There's better words, but, yeah. But looking at the security aspect of the
-solution, we had a lot of businesspeople looking into the performance of the
+solution, we had a lot of business people looking into the performance of the
 model to ensure that it generated relevant responses, uh, forecasts. But we
 didn't have a security team looking into to those aspects, so.
 
@@ -323,10 +323,10 @@ after the PoC. It is usually how it has been.
 
 [00:17:24 Researcher 1]
 [Question 13]
-Interesting. Yeah. So, the next part would be about the defence mechanisms, and
+Interesting. Yeah. So, the next part would be about the defense mechanisms, and
 I would like to stick to what you already reported regarding the data sources,
 right? So, was there the case that you identified the data source that was maybe
-not so trustworthy and what were then the defence mechanisms? Have you?
+not so trustworthy and what were then the defense mechanisms? Have you?
 
 [00:17:50 I04]
 Yeah, yeah. So, my previous employer, we had sort of a, you could call it a
@@ -383,7 +383,7 @@ Yes.
 
 [00:20:48 Researcher 1]
 OK. So, for the PoCs, there were no involvement of threat modelling or any
-security assessment or whatsoever, not directly, right? 
+security assessment or whatsoever, not directly, right?
 
 [00:21:08 I04]
 No. And I'm not sure, I mean, I don't have much experience in this area, but,
@@ -396,7 +396,7 @@ It's a quick and dirty solution just to see how that works.
 
 [00:21:29 I04]
 Yeah, it is because you don't want to build, I mean this is not a production
-solution. You, but I mean, you don't want to do too much work if you realise
+solution. You, but I mean, you don't want to do too much work if you realize
 that it's not something that they're worth proceeding with, right? So, yeah.
 
 [00:21:42 Researcher 1]
@@ -407,7 +407,7 @@ you think that should be more security involved in the PoC process as well?
 I guess it also depends on how you use the PoC result later. Because some
 different companies have different policies when it comes to a PoC and then a
 production solution. Some might think that you want to rebuild the whole
-solution when you have proof, when the PoC is done, you realise you want to
+solution when you have proof, when the PoC is done, you realize you want to
 proceed with this, they rebuild the whole solution. And some just wants to tweak
 this existing PoC and then move to production. So, I would say it depends on
 what workflow you have and what policies you have, moving from a PoC to
@@ -490,7 +490,7 @@ actually building the PoC. That could be relevant, right?
 [00:26:30 I04]
 Yeah, I mean, depends on, yeah, I mean, I can totally see the need or the use of
 having a risk assessment earlier. If, I mean, if you delivered the PoC you
-realise you would have needed to do this to, I mean, if you think of that for
+realism you would have needed to do this to, I mean, if you think of that for
 you build the PoC and then you redo it, and you build the production solution
 with all the necessary risk assessments, you might see that you would have done
 things differently if you knew that already when you did the PoC. Then of course

@@ -95,7 +95,7 @@ Alright.
 
 [00:03:12 I05]
 And in terms of security, well, what I understand is something that cannot be,
-that is compliant against attacks, whatever kind of attack. 
+that is compliant against attacks, whatever kind of attack.
 
 [00:03:27 Researcher 1]
 Yeah. OK.
@@ -251,7 +251,7 @@ But just to add there, it usually when we come to work on a project. It's not us
 who defines what they consider as if they are GDPR compliant. It really is the
 client and who they want to treat the data and how they want to analyze the
 data. So, it's not ourselves who can say to the client, we can provide good
-practices, but we cannot say what has to be done. 
+practices, but we cannot say what has to be done.
 
 [00:09:09 Researcher 1]
 OK, so. So also, the understanding and the attitude towards security is not set
@@ -331,7 +331,7 @@ OK. So you haven't experienced it?
 [00:12:20 I05]
 No, I haven't experienced with that. I, let's say that my scope ends in providing
 the data to the business users. Let's say that I provide the data to the data
-scientist, and they implement their own models. 
+scientist, and they implement their own models.
 
 [00:12:31 Researcher 1]
 OK. All right, so you don't know to which models the data is fueled?

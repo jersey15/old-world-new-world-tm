@@ -1,9 +1,9 @@
 Time: 2024-03-27, 12:07 UTC
 Interviewee: I01
-Interviewer: Researcher
+Interviewer: Researcher 1
 Duration: 49m 39s
 
-[0:00:09 Researcher]
+[0:00:09 Researcher 1]
 Thank you, [I01], first of all, that you are participating in this pilot
 interview. And we'll start with some backgrounds into the questions.
 [Question 1]
@@ -12,11 +12,11 @@ your role, please?
 
 [0:00:28 I01]
 My role is security consultant. I'm working for business units from a central
-organisational point of view of [company]. I'm supporting business units within
+organizational point of view of [company]. I'm supporting business units within
 [company] with their security processes, in part with a particular focus on
 products that are subsequently sold to external customers.
 
-[0:00:52 Researcher]
+[0:00:52 Researcher 1]
 Thank you.
 [Question 2]
 How many years of experience did you collect over your professional career, in
@@ -28,17 +28,17 @@ working in a similar domain for four years now as an [company] employee.
 Formerly more focused on [company]-internal services, the last four years more
 focus on [company] products.
 
-[0:01:25 Researcher]
+[0:01:25 Researcher 1]
 Perfect. Thank you.
 [Question 3]
-Did you have any experience, training or education in machine learning security
+Did you have any experience, training, or education in machine learning security
 or adversarial machine learning?
 
 [0:01:35 I01]
 Training, except for university studies, where this was a course back then, no
 additional trainings.
 
-[0:01:44 Researcher]
+[0:01:44 Researcher 1]
 OK, perfect. Thank you.
 And this was the pre-questions regarding your backgrounds. Thank you so much for
 answering that. Now we're gonna go over to the main interview questions.
@@ -61,7 +61,7 @@ to protect a certain product, but also processes for the entire life cycle of
 these products in order to, in the end, achieve a product that fulfils our
 initially designed properties.
 
-[0:03:39 Researcher]
+[0:03:39 Researcher 1]
 Was the textbook answer and that's really nice. So this question is not,
 the main purpose of this question is not to quiz you in any way, but just like
 to see if we are on the on the same page regarding the terminologies. So thank
@@ -71,18 +71,18 @@ Could you explain your understanding of "machine learning security", ideally
 with an example, please?
 
 [0:04:05 I01]
-Machine learning security, is actually, terminology-wise,. a bit hard for me.
+Machine learning security, is actually, terminology-wise, a bit hard for me.
 Because there is a differentiation. Because you have machine learning for
 security and you have some machine learning, security of machine learning. I
 suppose and interpret that you're talking about security for machine learning.
-So talking about products, services or solutions that utilise machine learning
-to achieve certain goals and the insurance of a secure behaviour of this
+So talking about products, services or solutions that utilize machine learning
+to achieve certain goals and the insurance of a secure behavior of this
 component or entire product, yeah, in the context of security, so once again,
 certain properties like confidentiality, integrity and availability for machine
 learning. This might even be extended to additional properties, depending on the
 use case.
 
-[0:04:57 Researcher]
+[0:04:57 Researcher 1]
 Thanks. Thank you.
 [Question 6]
 Which security goals are announced by your company's management regarding
@@ -98,7 +98,7 @@ aspects like non-reputation [sic], non-replayability and so on, authenticity,
 obviously. So, a lot of additional ones. For machine learning in particular,
 there are no additional security goals mentioned at this point in time.
 
-[0:05:59 Researcher]
+[0:05:59 Researcher 1]
 [Question 6a]
 Alright, so the next question would have been how does your organisation support
 machine learning security. So, yeah, so I think we're going to skip that, since
@@ -112,13 +112,13 @@ machine learning, AI and so on in particular. And this for example covers threat
 scenarios which are exclusively applicable to machine learning systems, or
 particularly important for these type of systems.
 
-[0:06:56 Researcher]
+[0:06:56 Researcher 1]
 [Question 7]
 But that's actually almost a perfect bridge to the next question. So here comes
 a short explanation from my side because we are looking at Software Intensive
 Products and Services and this term follows, looks at software systems that
 fulfil the following requirements: So one it is large and complex; it's subject
-to numerous engineering practises; and the software system of that kind is
+to numerous engineering practices; and the software system of that kind is
 placed in a dynamic environment, a lot of users, a lot of requirements and
 regulations that the system is subject to. So one example for such a system is
 for example a Spotify app. Any sort of industrial controller. And not a Software
@@ -131,7 +131,7 @@ components in your SIPS? For example, during your last project?
 [0:08:17 I01]
 "Why" or "how"?
 
-[0:08:20 Researcher]
+[0:08:20 Researcher 1]
 Why.
 
 [0:08:21 I01]
@@ -140,7 +140,7 @@ regardless of where or what particularly the product does. There are certain
 things that must be ensured for all products to ensure, on the side of the
 producer, in this case, namely [company], to ensure certain properties there,
 also, to achieve trust, achieve transparency and so on towards the outside
-world. And therefore there are certain practises that apply to all products to
+world. And therefore there are certain practices that apply to all products to
 achieve a certain level of quality.
 
 [0:09:05 I01]
@@ -158,7 +158,7 @@ And big data was another big and important topic. And whenever you encounter
 such a topic, even experienced developers with dozens of years of experience
 might have not the necessary experience to securely deal with these
 technologies. Therefore, experts are required to guide these developers in their
-day-to-day work and in their practise, with, well, additional guidance on how to
+day-to-day work and in their practice, with, well, additional guidance on how to
 securely manage that. And for these type of products and projects, we have
 experts that focus on researching and also focus on supporting the product
 development. Therefore, this is the reason why also, whenever we're dealing with
@@ -166,7 +166,7 @@ novel technologies, there is an expert for that topic, and with respect to
 security as well, to ensure that the same level of quality can be delivered by
 [company].
 
-[0:11:16 Researcher]
+[0:11:16 Researcher 1]
 Thank you.
 [Question 8]
 And what kind of machine learning models are applied in your systems?
@@ -179,25 +179,25 @@ different models applied and I can only tell you about the models that we have
 been recently using and that is mostly the area of Generative AI. So this is
 something that's used a lot nowadays, I would say.
 
-[0:12:06 Researcher]
+[0:12:06 Researcher 1]
 Mm hmm. OK, perfect. So I mean, I wanted to specify the the question a little
 bit, what you work with, or what your last project involved in in that matter.
-But  since you already answered, it's generative AI I understand. OK. Perfect.
-Thank you. 
+But  since you already answered, it's generative AI, I understand. OK. Perfect.
+Thank you.
 [Question 9]
 And next question is: What role does the security of your machine learning
 models play for the overall security in your systems?
- 
+
 [0:12:38 I01]
 There is traditionally a change also going through [company] affecting this
 particular aspect. When we look at the product security life cycle of products
 within [company], there are two central steps that are important for all
 components that are used. That is first of all, a proper selection of supplier
-and third-party components. So the step before you even, or the step for 
+and third-party components. So the step before you even, or the step for
 selecting a certain component and deciding in favour of that component. And
 subsequently, the management of this component, including for example
 vulnerability management, patch management and so on. So before we select
-something and while we use it. These two processes mainly exist and also affect 
+something and while we use it. These two processes mainly exist and also affect
 machine learning components as they are often treated as a component of a bigger
 system or providing certain services to an entire product. So, rarely, a product
 consists exclusively of machine learning, but there are other components,
@@ -217,19 +217,19 @@ tweaking might be the product itself and this for also, for example, the
 intellectual property. And this is something which is currently a lot discussed
 and how to deal with these systems that are not only, where machine learning is
 not only part of the product, but is the product itself.
- 
-[0:15:09 Researcher]
-That's perfect. Thank you. 
+
+[0:15:09 Researcher 1]
+That's perfect. Thank you.
 [Question 10]
 And next question, so a little bit of context for you. We are looking here. It's
 two scenarios. Scenario 1 is if a machine learning integration or a component is
 already implemented into the system. And then Scenario 2 is that a machine
 learning component is planned to be included within industrial software system
-or SIPS. As I explained earlier. And question #10 builds upon that context.
+or "SIPS", as I explained earlier. And question #10 builds upon that context.
 Which is what is the difference in security aspect assessment of already
-implemented machine learning intensive software systems and a planned machine
+implemented machine-learning-intensive software systems and a planned machine
 learning integration into industrial software system?
- 
+
 [0:16:03 I01]
 OK. And, once again, a little bit of background: Traditionally, we do not
 encounter systems that are have suddenly machine learning implemented. But if
@@ -245,30 +245,30 @@ that far. First of all, we in our process typically before we even add machine
 learning and have it planned, we do a regular assessment of that component,
 which means we look into the supplier over the model and the component itself,
 ensure the security properties of these components. Then it is implemented. And,
-traditionally, after it is implemented and we need to have a look again for 
+traditionally, after it is implemented and we need to have a look again for
 verification and validation and integration tests, for example. And for these
 things also, again, multiple activities are conducted, including threat and
 risk analysis, penetration tests, if you go into the practical direction and so
 on. So a lot of subsequent theoretical and practical testing and risk
 assessments.
- 
-[0:17:53 Researcher]
+
+[0:17:53 Researcher 1]
 Maybe one follow-up questions to that. Did you experience already some add-on
 steps regarding machine learning components during the assessment of the
 security of software that includes machine learning components in [company]?
- 
+
 [0:18:25 I01]
 But the question, again, does that affect the 1st or the 2nd step? So before it
 was implemented, or if it's already implemented? Which of the two assessments
 are you referring to?
- 
-[0:18:37 Researcher]
+
+[0:18:37 Researcher 1]
 Now. OK, I need to clarify that. OK, so we are looking at the planned machine
 learning integration.
- 
+
 [0:18:47 I01]
 Obviously this highly depends on the components. You cannot assess a database
-for the same criteria you would assess a file storage or you would assess, I 
+for the same criteria you would assess a file storage or you would assess, I
 don't know, a Python library. That's not working out. Therefore, also machine
 learning component is treated differently and with respect to the technology,
 because, well, the protection of certain goals or the protection of security
@@ -276,16 +276,16 @@ properties just differentiates for machine learning, in this case, once again.
 So, yes, the assessment itself for or against selecting a certain machine
 learning component differentiates from other, from the assessment of other
 components.
- 
-[0:19:35 Researcher]
+
+[0:19:35 Researcher 1]
 And did you, sorry again, another follow-up question, because I'm curious. Since
 we have also certain evolution, probably, of risk assessment towards machine
 learning models, because more and more threats are coming into play and are
-discovered. So, did you realise that there are more specific questions or
+discovered. So, did you realize that there are more specific questions or
 assessment steps that are needed which were then reapplied to already
 implemented machine, so to systems that already implemented machine learning
 components, so that there was a reassessment needed?
- 
+
 [0:20:24 I01]
 And actually there is [laughs], it's, this is maybe not the case as you would
 expect it. Because within the life cycle you have, you always have regular
@@ -302,8 +302,8 @@ cycle, because if I continue the development and change something, I need to
 reassess; if there is a certain time, if a certain time has passed, I need to
 reassess just because the world is changing. And so, we, as security, have to
 [laughs].
- 
-[0:21:24 Researcher]
+
+[0:21:24 Researcher 1]
 Yeah, yeah, absolutely. Perfect. Because the last question would then be
 irrelevant to ask. And based on this, this answer of yours.
 [Question 11a]
@@ -312,14 +312,14 @@ start with: How relevant was the familiarity with machine learning, security and
 the domain system under consideration before conducting risk assessment of a
 software system that includes a machine learning component, in your last
 project?
- 
+
 [0:22:21 I01]
 So, to rephrase it to the importance that somebody is familiar, or is familiar
 with the technology itself, in order to do a risk assessment on the technology?
- 
-[0:22:33 Researcher]
+
+[0:22:33 Researcher 1]
 Exactly.
- 
+
 [0:22:35 I01]
 OK, in this case, answer once again: As security experts, it's hard to be an
 expert in every domain, so as part of the risk assessment, you always have
@@ -333,18 +333,18 @@ experts in the technology there.
 However, I would say that at a certain level of of knowledge about a technology
 highly benefits the assessment process because you get a feeling about typical
 problems, typical issues that can be encountered and know where the weak spots
-of such a system is. So my answer to that question would be: I see a certain 
+of such a system is. So my answer to that question would be: I see a certain
 level of importance, but I don't consider it crucial that you're an expert in
 the technology in order to do a risk assessment as security representative or
 responsible.
- 
-[0:23:58 Researcher]
+
+[0:23:58 Researcher 1]
 OK, so you already answered the next sub-question which was ...
 
 [0:24:02 I01]
 I'm talking too much. I see. [laughs]
 
-[0:24:03 Researcher]
+[0:24:03 Researcher 1]
 No, no, no, no, no, no, it's it's really perfect because I mean my questions are
 not perfect at all. So but it's really good that you talk a lot because that's
 the idea of the interview: As many information as possible.
@@ -352,9 +352,9 @@ the idea of the interview: As many information as possible.
 Because you were already referring to roles. I'm wondering how those roles
 interact during the risk assessment? Are they already part of the development,
 is it, again part, of the life cycle? And how do those roles interact?
- 
+
 [0:24:40 I01]
-Within a development project for a product or particular product with a lot of 
+Within a development project for a product or particular product with a lot of
 software in it, a lot of different roles continuously collaborate. As major
 roles, I would see technical experts, or when we're talking about a security
 point of view, and you obviously have experts from a security domain and they
@@ -364,7 +364,7 @@ have no clue about the technology itself. On the other hand, you might be a
 security expert for certain technology, I don't know, a certain programming
 language, for example, but have not the slightest clue about risk management.
 So when we're talking about roles, these collaborate all the time, I would say.
-However, for certain activities in the life cycle, you might need experts for 
+However, for certain activities in the life cycle, you might need experts for
 that particular expertise, especially if you have an unexperienced group. What I
 see a lot is that, especially when you're trying to build excellence in
 developers and try to build them up yourselves and teach them, you typically
@@ -380,16 +380,16 @@ talking really about product development and hands-on development, I would
 rather see technical security experts for the respective domain and
 practitioners, so architects, developers, project managers and so on,
 collaborating with each other.
- 
-[0:27:19 Researcher]
-OK, sounds like a lot of communication, but I think that's key. 
+
+[0:27:19 Researcher 1]
+OK, sounds like a lot of communication, but I think that's key.
 [Question 11b]
 The next part is: How did you document the risk assessment results in, for
 example, your last project? How?
- 
+
 [0:27:40 I01]
-There are two, so there are multiple techniques that can be used and it has a 
-differentiates in the preference of the participants. So there are localised
+There are two, so there are multiple techniques that can be used and it has a
+differentiates in the preference of the participants. So there are localized
 tools, in particular sheets, so Excel sheets that can be used for the risk
 assessment. And there is also a system, an application that can be used for the
 risk assessment. So, you can theoretically also do them on whiteboards and then
@@ -402,22 +402,22 @@ So it's not possible to say there is only one way. The preferred way is the
 Excel sheet because most people are familiar with it and it's extremely simple
 to use, because it's quite straightforward on how to do that. But there are many
 approaches on how to document these things in place and also used.
- 
-[0:29:13 Researcher]
-Mm hmm. Perfect. Thank you. 
+
+[0:29:13 Researcher 1]
+Mm hmm. Perfect. Thank you.
 [Question 12a]
-So the next block goes a little bit deeper into into the risk assessments and I 
+So the next block goes a little bit deeper into into the risk assessments and I
 think you're the perfect candidate to talk about it. So: Which system modelling
 types are applied to conduct risk assessment of machine-learning-based
-industrial systems? 
- 
+industrial systems?
+
 [0:29:43 I01]
 Could you give an example? What do you mean by that?
- 
-[0:29:46 Researcher]
+
+[0:29:46 Researcher 1]
 For example, do you use data flow diagrams, for example, in order to conduct
 the, as a foundation for the next risk or threat modelling steps?
- 
+
 [0:30:03 I01]
 Typically, what is done is a separation of the entire system into assets, so all
 data, all core functionalities of the system. And those are collected usage of,
@@ -429,35 +429,35 @@ the main focus are component diagrams, because this is structural-wise, you
 would look at components and think about how this particular component could
 infringe the protection goal, that is associated with a certain asset within the
 application, which can, once again, be data, can be functionality, whatever.
- 
-[0:31:21 Researcher]
+
+[0:31:21 Researcher 1]
 [Question 12b]
 OK, so you already answered answered sub-question B, which is about the
 perspective view you usually select: Is it system-, attack- or asset-centric? So
 based on your previous answer, I presume it is asset-centric usually. Or are
 there exceptions?
- 
+
 [0:31:39 I01]
 I would rather say it is asset-centric, yes.
- 
-[0:31:42 Researcher]
+
+[0:31:42 Researcher 1]
 Mm hmm. Perfect.
 [Question 12c]
 Which methodologies are you using during the risk assessment? Is it STRIDE,
 PASTA, TARA, or something completely different? A mix of all of them, or ...?
- 
+
 [0:31:59 I01]
-It's a [company] mix. No, [company] has a dedicated technology for, or dedicated 
-strategy for the risk assessment, which as far as I know has also already been 
-published in an international conference. So I think it's not a big secret and 
+It's a [company] mix. No, [company] has a dedicated technology for, or dedicated
+strategy for the risk assessment, which as far as I know has also already been
+published in an international conference. So I think it's not a big secret and
 you can find out about it. It's threat and risk analysis.
- 
-[0:32:18 Researcher]
-Yeah. OK, perfect. Alright. 
+
+[0:32:18 Researcher 1]
+Yeah. OK, perfect. Alright.
 [Question 12d]
 But during the threat modelling/risk assessment, did you apply any curated
-attack repositories such as ATLAS MITRE,for example?
- 
+attack repositories such as ATLAS MITRE, for example?
+
 [0:32:43 I01]
 And what you use as part of the threat and risk analysis is a catalogue of
 questions, which might support you in your work. And in these cases, attack
@@ -466,10 +466,10 @@ traditionally everything you get from OWASP, what you get from NIST, and so on,
 is already curated into this one questionnaire, which tries to focus, or tries
 to support moderators and experts during the threat and risk analysis in order
 to identify and, potential attack vectors. So there is a guidance which however
-summarises a lot of them. Which one exactly are included, I would need to look
+summarizes a lot of them. Which one exactly are included, I would need to look
 up because the list is quite long.
- 
-[0:33:40 Researcher]
+
+[0:33:40 Researcher 1]
 Oh, no worries.
 [Question 12e]
 So just for for protocol and documentation reasons, you already answered
@@ -477,17 +477,17 @@ sub-question E with: How often do you see the need to conduct threat
 modelling/risk assessment for a machine-learning-based software system and why?
 I mean, based on the security life cycle, you'd prefer the continuous because
 it's part of your company culture?
- 
+
 [0:34:10 I01]
 Yeah.
- 
-[0:34:10 Researcher]
-Right. 
+
+[0:34:10 Researcher 1]
+Right.
 [Question 12f]
 Then, the next question, and we'll almost at the end: Which challenges occur
 during threat modelling or risk assessment of machine learning based industrial
 systems?
- 
+
 [0:34:32 I01]
 [laughs] Actually, I would suppose one of the biggest challenges is the lack of
 transparency, how the models really work and a lot of knowledge that is
@@ -507,22 +507,22 @@ new technologies due to the fact that they just are not, they just don't know
 exactly what the technology's doing, how the technology is doing it and so on.
 So they lack the experience with that. And to me that's similar with machine
 learning.
- 
-[0:36:23 Researcher]
-Mm hmm. I see. Yeah. So you would say that the main difference of 
-non-machine-learning-based and machine-learning-based software systems is the 
+
+[0:36:23 Researcher 1]
+Mm hmm. I see. Yeah. So you would say that the main difference of
+non-machine-learning-based and machine-learning-based software systems is the
 familiarity with the technology probably?
- 
+
 [0:36:36 I01]
 I would say that this is actually the biggest challenge, yes.
- 
-[0:36:36 Researcher]
-OK. 
+
+[0:36:36 Researcher 1]
+OK.
 [Question 13]
-How do you select the appropriate defence mechanisms to protect
+How do you select the appropriate defense mechanisms to protect
 machine-learning-based software systems based on your threats modelling or risk
 assessment results?
- 
+
 [0:36:56 I01]
 So, basically, one of the results you get from our risk assessment is a
 definition of risk based on, traditionally, likelihood and impact. While
@@ -538,12 +538,12 @@ wouldn't say refactoring, but some different design decisions, these attacks can
 be entirely avoided. But, in most cases you try to affect the exploitability,
 therefore the effort that's necessary to conduct the attack and to actually
 trigger the threat scenario.
- 
-[0:38:31 Researcher]
+
+[0:38:31 Researcher 1]
 A follow-up question to that, out of curiosity. When you expose a threat and you
 need a mitigation technique for it, do you decide to go for a code-based
 solution or rather for a design-based solution?
- 
+
 [0:38:56 I01]
 [laughs] That depends on what is possible. Traditionally, if there is a change
 in configuration or code that can be applied, obviously this is the first choice
@@ -555,53 +555,53 @@ for your buck. If it's just one threat you need to solve and it's done with few
 lines of code, why not use that approach? Everything else would waste resources.
 And if we notice that the issue is something on a deeper level and actually is
 due to design choices, then, obviously, a design refactoring is necessary.
- 
-[0:39:59 Researcher]
-So, also another follow-up question because that's an interesting and I was 
+
+[0:39:59 Researcher 1]
+So, also another follow-up question because that's an interesting and I was
 wondering if you faced that decision already: Machine learning, most companies
 are very focused on the performance, so that it performs well. And to some
-degree, there are code-based solutions that, for example, to protect machine 
+degree, there are code-based solutions that, for example, to protect machine
 learning models against adversarial examples. And that involves adversarial
 training, for example, and where you feed the machine learning model with
 adversarial examples, so that it is not prone to those examples anymore.
 However, that reduces, many times, the performance of the model. Did you occur,
 have you faced that kind of decision where you then said, OK, the code-based
 solution is is not not possible then we go for the design-based solution?
- 
+
 [0:41:01 I01]
 And exactly this answer, or this scenario, I never encountered, so vaccinating
-my machine learning was nothing we ever thought about, or ever had the issue 
-behind it. However, in general what you refer to is just a balancing act between 
+my machine learning was nothing we ever thought about, or ever had the issue
+behind it. However, in general what you refer to is just a balancing act between
 business goals and security at this point in time. So it depends in the end on
 how important the performance of the system is. And to answer that, at some
 points, yes, the impact on the final product of a simple solution would be that
 significant that a design-based solution was taken and some additional
-defence-in-depth mechanisms have been applied which have been, security-wise,
+defense-in-depth mechanisms have been applied which have been, security-wise,
 more of an effort but contributed more to the business goals. So answer is yes,
 we had that, but not in particular with that scenario.
- 
-[0:42:03 Researcher]
-Mm hmm. OK, interesting. Thank you. 
+
+[0:42:03 Researcher 1]
+Mm hmm. OK, interesting. Thank you.
 [Question 15]
-Which additional procedures had to be implemented after the initial security 
+Which additional procedures had to be implemented after the initial security
 evaluation of the planned ML integration in your company before the planned
 machine learning integration was executed?
- 
+
 [0:42:29 I01]
 So you mean between assessing the model and integrating it?
- 
-[0:42:34 Researcher]
-Yes, if there, so for example, you were planning to integrate a machine learning 
-component into a software system and then you realise there are certain threats
+
+[0:42:34 Researcher 1]
+Yes, if there, so for example, you were planning to integrate a machine learning
+component into a software system and then you realize there are certain threats
 that can occur and you are countering those threats with additional measurements
 or procedures that need to be introduced to the security life cycle, for
 example, or additional measurements need to be done like for example set up of a
 monitoring tool for the machine learning model or et cetera.
- 
+
 [0:43:09 I01]
 Technical or process requirements in that case. That wholly depends on the
 product itself and its current state in the life cycle. When you're looking at
-project management, you have different phases that exist and it depends on 
+project management, you have different phases that exist and it depends on
 whether I'm implementing machine learning component into a product that has
 already been released and it's just an add-on to something that's already
 existent, or whether I'm still in the development phase of that respective
@@ -615,8 +615,8 @@ but that's not the case. There are certain circumstances where it might actually
 be the case that part of the mitigations or parts of the measures that should
 mitigate the risks that are introduced by the machine learning models are
 introduced after the machine learning model due to project management decisions,
-for example. For example, I don't know, monitoring solution should anyway be in 
-place and, but this is intended for a later stage, therefore also the monitoring 
+for example. For example, I don't know, monitoring solution should anyway be in
+place and, but this is intended for a later stage, therefore also the monitoring
 solution for the machine learning model itself is introduced in the later stage.
 But normally, the measures, security measures and the machine learning component
 itself are introduced in the same time frame or in the same time. Because often
@@ -625,9 +625,9 @@ or risk component. So, typically, identifying them, trying to start with the
 mitigations, what can be started and then introducing the model and then
 introducing also any measure or mitigations, however, before anything is ever
 deployed, or delivered to to customers.
- 
-[0:45:39 Researcher]
-Mm hmm. OK. 
+
+[0:45:39 Researcher 1]
+Mm hmm. OK.
 [Question 16]
 Thank you. Then the last four questions will have a a different different style
 of answering. So it's a little bit easy to to cool off the jets now after the
@@ -641,7 +641,7 @@ Before we start, really important, this is a completely subjective personal
 opinion by myself, so I, at this point in time, this is the only a non-objective
 answer I can give, if that's fine with you, OK.
 
-[0:46:37 Researcher]
+[0:46:37 Researcher 1]
 OK. Perfect. Yep. Perfect. Yep. It's fine, right? So. First one:
 The ability to select fit-for-purpose machine learning components to include in
 your software systems is ...?
@@ -650,14 +650,14 @@ your software systems is ...?
 I would propose a 7. So that, 10 was? Could you repeat the scale? I hope I got
 it right.
 
-[0:47:12 Researcher]
+[0:47:12 Researcher 1]
 Yes, so 1 is "insufficiently covered in my company" and 10 is "very well covered
 in my company".
 
 [0:47:16 I01]
 OK. OK, in that case my 7 was correct, yes.
 
-[0:47:23 Researcher]
+[0:47:23 Researcher 1]
 [Question 17]
 The ability to evaluate security concerns regarding ML components to include in
 your SIPS is ...?
@@ -665,7 +665,7 @@ your SIPS is ...?
 [0:47:28 I01]
 An 8.
 
-[0:47:33 Researcher]
+[0:47:33 Researcher 1]
 [Question 18]
 Very good. And the ability to maintain the machine learning components in SIPS
 is ...
@@ -673,13 +673,13 @@ is ...
 [0:47:45 I01]
 "To maintain the machine learning components in" ...?
 
-[0:47:49 Researcher]
+[0:47:49 Researcher 1]
 In your software systems.
 
 [0:47:51 I01]
 OK. Probably a 6 or 5. Maintenance is a challenge.
 
-[0:48:02 Researcher]
+[0:48:02 Researcher 1]
 [Question 19]
 Last one. So this is now regardless of the scale. It's more regarding other
 points that should have been mentioned during the interview. What you thought
@@ -694,7 +694,7 @@ what you were actually talking about, which is rarely the case with scientific
 interviews because often enough, you just have a certain scope. No, I think
 everything was fine.
 
-[0:48:58 Researcher]
+[0:48:58 Researcher 1]
 Perfect. Alright, thank you for that already. Right then we can I think stop
 here because we have like 5-4 minutes left for this scheduled time slots and so
 I'll finish up with stop the transcript.

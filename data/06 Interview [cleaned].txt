@@ -291,10 +291,10 @@ And also, with regard to the security assessment.
 Well, I would guess it's a bit more difficult when it's already implemented,
 because if there is any well, security breach or reason for concern, then the
 whole pipeline, which might already be in production already running, need to be
-modified, changed. 
+modified, changed.
 And then you go back to the second case, which is like, OK, if we were to do it
 again or like to fix it, what would be the consideration that we need to tackle,
-and how do we solve that? So that would be, OK, which model do we use? Which 
+and how do we solve that? So that would be, OK, which model do we use? Which
 library do we use? What are the risks? What are the potential?
 
 [00:16:15 Researcher 1]
@@ -560,7 +560,7 @@ understand it correctly, there was also bringing a monetary advantage to you, if
 the model performs well?
 
 [00:28:59 I06]
-Exactly. 
+Exactly.
 
 [00:29:00 Researcher 1]
 OK. Or the company.
@@ -687,7 +687,7 @@ initiative. But I think the whole work is on my own initiative anyway so.
 Yeah, exactly. Exactly. No. Yeah. Perfect. Thank you.
 
 [00:36:13 I06]
-Thank you very much. 
+Thank you very much.
 
 [00:36:14 Researcher 1]
 And yeah, unless you said, do you have another?
@@ -738,7 +738,7 @@ about Samsung will all of a sudden see some really private and confidential
 information about Samsung that nobody should be hearing about.
 
 [00:39:32 Researcher 2]
-Yeah. 
+Yeah.
 
 [00:39:33 I06]
 And you were also talking about GDPR made me think that there were, there is

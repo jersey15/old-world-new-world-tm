@@ -3,7 +3,7 @@ Interviewee: I03
 Interviewer: Researcher 1
 Duration: 1h 1m 29s
 
-[0:00:13 Researcher]
+[0:00:13 Researcher 1]
 So. So the first questions I'll ask you will be regarding your backgrounds.
 [Question 1][Question 2]
 So could you briefly describe what is your role in your company?
@@ -23,7 +23,7 @@ role of AI in cybersecurity was. And since basically a year, I am the one doing
 this, trying to collect all the feedback from the colleagues and trying to build
 up a story for our technology field.
 
-[0:01:50 Researcher]
+[0:01:50 Researcher 1]
 OK. Thank you. Then we can already skip the second question. I do this for the
 protocol so that when I will clean up everything that I can follow up on it.
 [Question 3]
@@ -37,7 +37,7 @@ it came to anomaly-based intrusion detection. But at that point I would say this
 is not training anymore. This is more like studying but just one course at the
 university. That was basically it.
 
-[0:02:47 Researcher]
+[0:02:47 Researcher 1]
 Mm hmm, and nothing from [company] in particular that prepared you into the
 direction of machine learning security, or adversarial machine learning?
 
@@ -48,7 +48,7 @@ colleagues on LLMs and so on and so forth. So that is part of training. I mean
 it is claimed so actually within [company] as well. So yes in that regard a lot
 of presentations, but no formal course or anything like this.
 
-[0:03:36 Researcher]
+[0:03:36 Researcher 1]
 Now we're gonna go over to the main part of the interview. So the background is
 needed in order to do a candidate profiling and now we go over to the core
 content of the interview.
@@ -59,18 +59,18 @@ and "security", ideally with an example, please.
 [0:04:01 I03]
 So machine learning and security together you mean?
 
-[0:04:08 Researcher]
+[0:04:08 Researcher 1]
 Separately, no, no. Let's start separately.
 
 [0:04:11 I03]
-Oh, what is cybersecurity and what is machine learning? 
+Oh, what is cybersecurity and what is machine learning?
 OK, so machine learning is to me like the process of automating knowledge
 acquisition for a machine. So a machine storing and structuring information to
 be later used that is what machine learning is.
 And cybersecurity as a whole is the field of computer science looking into how
 threats are done, are implemented in the field of information technology.
 
-[0:05:03 Researcher]
+[0:05:03 Researcher 1]
 Right, this is this is not a test. It's just like to see if we're on the same
 page. And yeah, exactly. Thank you.
 [Question 5]
@@ -82,7 +82,7 @@ OK, machine learning security to me is then the process of understanding what
 threats are specific to ML and AI. And understanding how to mitigate those
 threats.
 
-[0:05:42 Researcher]
+[0:05:42 Researcher 1]
 [Question 6]
 Which security goals are announced by your company's management and more
 specifically for machine learning security?
@@ -100,23 +100,23 @@ that are AI-powered to some extent. On the other hand, we have the goal of
 protecting [company] internally. That means that we are using AI at the moment
 within [company] and we must do it in a proper way.
 
-[0:07:02 Researcher]
-Alright, so to summarise, [company] tries to stay on top of things so it
+[0:07:02 Researcher 1]
+Alright, so to summarize, [company] tries to stay on top of things so it
 develops, machine learning security properties that will be done later, as soon
-as they're standardised and properly prepared, a standardised process for future
+as they're standardized and properly prepared, a standardized process for future
 products used within [company]?
 
 [0:07:22 I03]
 More than properties: Processes and approaches to secure products and this is
 what we are doing in terms of research. And then the operational part will be to
-put all of this into practise and to make sure that the whole [company] is
+put all of this into practice and to make sure that the whole [company] is
 behind and then really complying with those.
 
-[0:07:44 Researcher]
+[0:07:44 Researcher 1]
 Now, a short explanation. So we're looking at software intensive products and
 services, also called SIPS as an abbreviation, and those software systems fulfil
 certain requirements. So they're large and complex, usually also subject to
-numerous engineering practises, and there are parts of a dynamic environment.
+numerous engineering practices, and there are parts of a dynamic environment.
 So an example for SIPS would be the Spotify app, right, you have a lot of users.
 It's under the subject of many regulations and restrictions. And what's not a
 SIPS is a toy example that was implemented for specific scientific experiments
@@ -145,7 +145,7 @@ happening in the same way we had other discussions in the past. So, it's just
 that they need providing AI everywhere, in every place at every time, needs to
 be understood from a security perspective.
 
-[0:10:38 Researcher]
+[0:10:38 Researcher 1]
 Before implementing AI in a SIPS or in a software system that is used in
 production, is that is that correct?
 
@@ -159,7 +159,7 @@ else that goes in a direction of protecting your supply chain. Or it has an
 external service because many companies will not provide internal service for
 that. So of course it has a lot of complexity there or some more complexity.
 
-[0:11:39 Researcher]
+[0:11:39 Researcher 1]
 So a follow-up question. Do you see that AI as a new technology is developing
 faster or is forced faster into production than other technologies?
 
@@ -171,7 +171,7 @@ the computing power to actually process all the data. So the development is not
 in a rush. The need of using those components, yes, that is to me in a rush, so
 it's like if you don't have an AI component, so you are lagging behind.
 
-[0:12:40 Researcher]
+[0:12:40 Researcher 1]
 OK, so if I understood you correctly, we're implementing AI components or
 machine learning components into products although they're not properly
 evaluated from a security perspective.
@@ -193,7 +193,7 @@ having specific response in answering the questions on the natural language
 domain, so these are the things that needs to be asked and researched at the
 moment.
 
-[0:14:21 Researcher]
+[0:14:21 Researcher 1]
 I didn't mean that the components are not protected, but the certainty about the
 entire full protection is not there yet because we were doing research on it and
 still we're implementing those components then in products.
@@ -204,7 +204,7 @@ that we used to do before LLM becoming a thing was sufficient to protect LLMs as
 well because they were just the software. Might be. So, might be that we were
 all protected all along without any problem. I doubt, but, yeah.
 
-[0:15:03 Researcher]
+[0:15:03 Researcher 1]
 OK. Thank you. Thank you very much. Very interesting.
 [Question 8]
 Next question: what machine learning models are applied in your systems, the
@@ -214,7 +214,7 @@ systems at [company]?
 So you mean like what kind of model? Like if we are using GPT4 versus whatever
 other model or?
 
-[0:15:24 Researcher]
+[0:15:24 Researcher 1]
 Large language, yeah. Large, large, or is it generative AI, or, or, yeah?
 
 [0:15:30 I03]
@@ -240,7 +240,7 @@ domain. So, probably, in that case, some generative AI might have been there.
 But definitely the language part now seems to be everywhere in and that's where
 this has changed.
 
-[0:17:33 Researcher]
+[0:17:33 Researcher 1]
 For the predictive AI, just as out of curiosity, to predict if AI is using
 shadow machine learning like decision trees, or are you also shifting over more
 to deep learning and applying deep learning models?
@@ -254,7 +254,7 @@ security events. It was network traffic, it was [inaudible] data, so
 [inaudible] traces. Neural networks were used and [inaudible] have been used for
 quite some time.
 
-[0:18:34 Researcher]
+[0:18:34 Researcher 1]
 [Question 9]
 Which role does the security of your machine learning models play in the overall
 security of your systems?
@@ -273,7 +273,7 @@ looking more into what kind of attacks can be done out there. And then if there
 is anything that we need to, as I said, we need to add on top of our standard
 security process.
 
-[0:20:11 Researcher]
+[0:20:11 Researcher 1]
 [Question 10]
 Thank you. And for the next question, I'll give you some context. We're looking
 at two scenarios. So, in one scenario where you have SIPS, a software system
@@ -308,7 +308,7 @@ to, basically, relax a lot of assumptions and then rethink about all the
 security that you did before adding this ML/AI component. So, long story short,
 I think it's more complicated if you have the second situation.
 
-[0:23:37 Researcher]
+[0:23:37 Researcher 1]
 Thank you very much.
 [Question 11]
 Next part. So how do you conduct risk assessment of machine learning intensive
@@ -339,7 +339,7 @@ do I need to know about the ML/AI system at this point? And I would say is, you
 need to know the basics, but probably a little bit more than the basics to
 really grasp what kind of attacks are there. So on the long run, but I don't
 know if this is interesting for you, I mean it it always goes in a direction in
-which everything becomes a little bit more standardised and in any case we're
+which everything becomes a little bit more standardized and in any case we're
 doing this not alone, you are doing this with a group of colleagues, so it's
 there's gonna always be somebody that does more insight into that part and can
 so help the other in understanding if something is feasible, not feasible and so
@@ -355,11 +355,11 @@ need to know at least the basics on how it's working and then you're going to
 have an expert helping you, maybe defining the feasibility of attacks and that
 and whatnot.
 
-[0:27:29 Researcher]
+[0:27:29 Researcher 1]
 Thank you very much. In general, everything is interesting what you tell me.
-So, no worry about that. So, to summarise the knowledge about machine learning
+So, no worry about that. So, to summarize the knowledge about machine learning
 security is so far optional because so far this expertise is rare. Can we
-summarise it like this?
+summarize it like this?
 
 [0:28:10 I03]
 It's optional in the sense that you're gonna have colleague that needs to know
@@ -368,7 +368,7 @@ anything about an AI component. So, I would say the basics need to be there. It
 is optional because you might want to do this together with another person that
 knows the AI component.
 
-[0:28:30 Researcher]
+[0:28:30 Researcher 1]
 [Question 11ai]
 Alright, so maybe brief briefly, which roles were involved in that risk
 assessment of, for example, in your last project, when you assessed the risk of
@@ -382,7 +382,7 @@ security responsible, the product owner. Then you have the security expert who
 is the one providing insight some the possible attacks and mitigation and then
 we have the AI expert.
 
-[0:29:37 Researcher]
+[0:29:37 Researcher 1]
 Alright. And how do they ...?
 
 [0:29:37 I03]
@@ -390,7 +390,7 @@ So this four figures multiplied by more than one person per figure, so more than
 one security expert actually, more than one AI expert. But I mean, that's just
 an example.
 
-[0:29:45 Researcher]
+[0:29:45 Researcher 1]
 [Question 11aii]
 And how do they interact? Are they all in one meeting or do they have separate
 meetings or?
@@ -404,7 +404,7 @@ more the person that decides if to accept the risk or not. So it's more like all
 the other are providing the final document and then the [security role] needs to
 accept this or not depending on what's in it.
 
-[0:30:46 Researcher]
+[0:30:46 Researcher 1]
 Could you repeat what's [security role] stands for, please?
 
 [0:30:50 I03]
@@ -413,7 +413,7 @@ security of a given product. I don't know if you can consider this like a CISO.
 It's that person responsible for security in that specific family of products
 and so on.
 
-[0:31:10 Researcher]
+[0:31:10 Researcher 1]
 But that is probably a company specific role. Or is that?
 
 [0:31:15 I03]
@@ -427,7 +427,7 @@ maturity. I don't think you have that person in a SME if you would, but in
 [company] and in other big companies, you must have those figures, whatever they
 are called.
 
-[0:31:57 Researcher]
+[0:31:57 Researcher 1]
 [Question 11b]
 Yep, thank you. How did you document the risk assessment results?
 
@@ -437,7 +437,7 @@ you have to fulfill all the sections going from the architecture, to the
 assumptions, to the security goals, to the attack scenarios, to the mitigations,
 to the risk metrics.
 
-[0:32:41 Researcher]
+[0:32:41 Researcher 1]
 So, is it a specific programme or is it a Excel sheet?
 
 [0:32:48 I03]
@@ -447,7 +447,7 @@ everything and now we are trying to move towards software solution that is
 basically embedding everything into software and just showing you the things you
 need to see.
 
-[0:33:16 Researcher]
+[0:33:16 Researcher 1]
 [Question 12]
 So next question, how do you generally conduct risk assessment?
 [Question 12a]
@@ -458,7 +458,7 @@ system?
 [0:33:41 I03]
 Yeah, but what do you mean about modelling types? Is like UML, or?
 
-[0:33:45 Researcher]
+[0:33:45 Researcher 1]
 Right. Is it, yes, exactly. So are you using data flow diagrams or or system
 component diagrams?
 
@@ -470,7 +470,7 @@ architectural perspective and then the connections definitely, and then you have
 some functionalities being shown. But again I don't know if I would call it a
 functional diagram. So formally defined.
 
-[0:34:32 Researcher]
+[0:34:32 Researcher 1]
 So what ...? If you have to compare it to UML diagram type, which one would you
 choose?
 
@@ -478,7 +478,7 @@ choose?
 So that entails I'm remembering all the UML diagrams that are there, which I
 don't [laughs].
 
-[0:34:50 Researcher]
+[0:34:50 Researcher 1]
 OK, I see. OK, alright then.
 [Question 12b]
 The the risk assessment/threat modelling part. Which perspective do you usually
@@ -498,7 +498,7 @@ to in any case discuss those attacks most probably, and then you think about the
 attacks and then you start seeing where those attacks can hit your system. But I
 would say system-centric.
 
-[0:36:09 Researcher]
+[0:36:09 Researcher 1]
 System-centric, and this is also what you consider this as the right perspective
 for machine learning intensive systems?
 
@@ -517,7 +517,7 @@ blocks with the functions. So, that was to me more insightful to understand
 where the attacker can do what, rather than thinking in terms of software
 components and output components and that's all.
 
-[0:37:53 Researcher]
+[0:37:53 Researcher 1]
 So, just a a follow up question. So you start regardless if it is machine
 learning a system with a machine learning component always with the system
 system perspective and then and then you look probably at the attacker
@@ -542,11 +542,11 @@ system-centric. But then what I'm claiming here is that when I see an AI/ML in a
 component, then I'm going to dig into that component, maybe using a functional
 diagram. Yeah, that is the specification I wanted to make.
 
-[0:39:54 Researcher]
+[0:39:54 Researcher 1]
 Right, right. OK, so when when we just dig, as you would say for a AI/ML
 component, dig deeper into that perspective thing. So looking at the perspective
 at the AI components, you are first thinking about and this is probably
-subjective for you, but since you are specialising in ML risk assessment. You
+subjective for you, but since you are specializing in ML risk assessment. You
 would probably start first thinking what an attacker can do to that machine
 learning component, right?
 
@@ -556,12 +556,12 @@ scenarios and then if I go and do a new risk assessment, I already know what I
 would like to discuss. That doesn't say that I'm looking, as I said, looking at
 the functional diagram will give me some more insights. Say, hey, I find this
 specific thing happening here problematic because of this and that reason. But
-of course, I have some background that I'm carrying with me and then I will have 
+of course, I have some background that I'm carrying with me and then I will have
 that kind of perspective already in mind. It also comes with the experience, to
 be honest, because we haven't done so many of these threats and risk analyses
 yet to say this is the process. It's more of a learning phase.
 
-[0:41:30 Researcher]
+[0:41:30 Researcher 1]
 No, no, it's OK because we just want to know what is the state-of-practice so
 far, right. So what our what our company's doing so it's more the system- or
 attacker-centric perspective, OK, because ... all right, no perfect.
@@ -576,7 +576,7 @@ into something more specific, that is, I think, custom-made for [company] and
 for this [process]. But, I'm not, to be honest, I'm not sure if this is coming,
 so how much you can map to STRIDE at the moment.
 
-[0:42:31 Researcher]
+[0:42:31 Researcher 1]
 And why do you think you're not just plainly using STRIDE, but you made some
 adjustments to the methodology?
 
@@ -592,7 +592,7 @@ cannot take this out of the box, but we need a custom version just to make sure
 that we are doing things aligned with the rest of the things we are doing. But,
 that's a guess. That's a guess.
 
-[0:43:59 Researcher]
+[0:43:59 Researcher 1]
 No, no worries. If you could start from scratch, which threat assessment
 methodology would you say would be good for assessing a machine learning system?
 
@@ -606,14 +606,14 @@ like that. Google has something there. So the point would be here to say, OK,
 maybe Google is a company, I'm not sure if I want to take exactly that, but
 NIST, okay, NIST is an organisation. I will claim, OK, the best thing to do
 would be to take that. Make it clear that we are starting from that point and
-then emphasise the differences because there are going to always be differences
+then emphasize the differences because there are going to always be differences
 and and things that we have to do that are specific to [company]. But it would
 be better to say we don't have a custom process. We have NIST AI risk management
 framework or I don't remember how if it is called that way specifically. But it
 would be better to say, hey, we start from there and then we have some specific
 things.
 
-[0:45:47 Researcher]
+[0:45:47 Researcher 1]
 [Question 12d]
 Alright, OK, thank you. But during the threat modelling or risk assessment for a
 machine learning system, did you apply any curated attack repository such as
@@ -627,7 +627,7 @@ team for this security framework, but for me specifically MITRE ATLAS seem to be
 a safe choice. Very clear. I mean, we have been using [MITRE] ATT&CK for long.
 So that was a natural choice in my opinion.
 
-[0:46:45 Researcher]
+[0:46:45 Researcher 1]
 A follow up question. When you were using it, was it helpful or did you have
 wishes or challenges when you applied ATLAS MITRE?
 
@@ -644,7 +644,7 @@ are the most used threat techniques in the wild, so some more dynamic
 information on how things are evolving there. That I would find very, very
 convenient for threat and risk analysis. So yeah.
 
-[0:48:24 Researcher]
+[0:48:24 Researcher 1]
 [Question 12e]
 For the process, OK. Then how often do you see the need to conduct threat
 modelling or risk assessment for a machine learning system and why? Is it rather
@@ -667,7 +667,7 @@ see how this is evolving over time so. Like you are redoing the whole thing, you
 are really updating the TRA. But I don't know if there is any rule for that. I
 would say there is more driven by the changes.
 
-[0:50:17 Researcher]
+[0:50:17 Researcher 1]
 So, I refer here to the idea that, for example, large language model researchers
 come up with new and new threats quite frequently, and if you say that since
 that is the point that we need there is the need of a more continuous threats
@@ -686,7 +686,7 @@ and risk analysis is more like, let's take a step back and rethink about
 everything. Whereas if a new vulnerability is out there, you just handle the
 vulnerability and do the patch management and that's it.
 
-[0:51:26 Researcher]
+[0:51:26 Researcher 1]
 [Question 12f]
 Which challenges occur during threat modelling or risk assessment for machine
 learning systems, and how are these challenges different from non-machine
@@ -699,9 +699,9 @@ And this is that something that will come with doing more and more of these
 things and collecting more and more information. So the challenge is really the
 lack of experience, in properly judging and assessing given situations.
 
-[0:52:35 Researcher]
+[0:52:35 Researcher 1]
 [Question 13]
-How do you select the appropriate defence mechanisms to protect machine learning
+How do you select the appropriate defense mechanisms to protect machine learning
 intensive systems based on your threats modelling or risk assessment?
 
 [0:52:48 I03]
@@ -714,7 +714,7 @@ like, is there anything that you don't have to push into the model because you
 know this can break the model, or not? This is what we are thinking and we are
 trying to understand at the moment.
 
-[0:53:40 Researcher]
+[0:53:40 Researcher 1]
 [Question 14]
 And in general, how do you apply the results of the threats modelling or risk
 assessment in subsequent machine learning software development stages? So do you
@@ -723,7 +723,7 @@ assessment in subsequent machine learning software development stages? So do you
 [0:53:54 I03]
 But this is where your feedback, the results or the not so much about the
 results, but really the lesson learned, your feedback to the [process] as a
-whole, saying for example, hey, we were doing this TRA and then we realised that
+whole, saying for example, hey, we were doing this TRA and then we realized that
 we were missing a protection role, for example, that was very important and then
 now that you know that you will start from that procession. Not starting
 necessarily, but you will include that protection goal in the next TRA since the
@@ -734,7 +734,7 @@ ML/AI, maybe we didn't have that right away and we had to figure out at a later
 point in time. And that would delay it, let's say, the results or the overall
 accomplishment of the TRA.
 
-[0:55:07 Researcher]
+[0:55:07 Researcher 1]
 We are almost at the end.
 [Question 15]
 Which additional procedures had to be implemented after the initial security
@@ -757,7 +757,7 @@ something different, but then the product owner together with, as I said, the
 not up to us to decide and that can vary because can be like "I don't care" till
 "I'll redo the whole system". So it's a very large span of possibilities.
 
-[0:56:55 Researcher]
+[0:56:55 Researcher 1]
 OK, but do you know any specific procedure that you maybe suggested that needs
 to be implemented before a machine learning component was integrated into a
 system and went to production? So, for example, if you have a software system
@@ -768,7 +768,7 @@ classification or ...
 [0:57:35 I03]
 [Interviewee interrupts interview]
 
-[0:58:30 Researcher]
+[0:58:30 Researcher 1]
 Okay, so, no suggested procedures were then forced to be introduced in order to
 monitor the inputs to a machine learning model?
 
@@ -779,7 +779,7 @@ suggestion and what we suggested is to usually introduce some protection
 mechanisms in terms of filtering inputs, filtering outputs, so this was the
 thing from the top of my head, let's say.
 
-[0:59:16 Researcher]
+[0:59:16 Researcher 1]
 Alright, so the final three statements that you need to fulfil: This instruction
 is, 1 stands for "insufficiently covered in my company", and 10 stands for
 "very well covered in my company". So the first sentence is:
@@ -790,7 +790,7 @@ SIPS is ...?
 [0:59:45 I03]
 Sufficient. 6.
 
-[0:59:48 Researcher]
+[0:59:48 Researcher 1]
 [Question 17]
 The ability to evaluate security concerns machine learning components to include
 in your SIPS is ...?
@@ -799,7 +799,7 @@ in your SIPS is ...?
 As well, 6, I would say so. We have the expertise and we are working towards
 improving.
 
-[1:00:00 Researcher]
+[1:00:00 Researcher 1]
 [Question 18]
 The ability to maintain the Machine Learning component in our systems is ...?
 
@@ -808,7 +808,7 @@ That I wouldn't know how to answer to be honest, because I'm not maintaining any
 product. So, I guess we have the process in place to do that. So I would say,
 safe an 8, because this must be following standard procedures.
 
-[1:00:18 Researcher]
+[1:00:18 Researcher 1]
 [Question 19]
 Last point is would you have added something? What should have been mentioned in
 the interview?
@@ -816,7 +816,7 @@ the interview?
 [1:00:40 I03]
 No, not from the top of my head, at least.
 
-[1:00:43 Researcher]
+[1:00:43 Researcher 1]
 Perfect. That's it. I'm sorry that it took a little bit longer, otherwise I
 would have discussed with with you some some other things, but there is no time
 left. But the interview is done. Thank you for your time and I guess you need to

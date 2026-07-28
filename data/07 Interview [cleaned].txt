@@ -444,10 +444,10 @@ OK, you don't? OK, no worries at all, OK.
 And uh, OK, so we can skip this question because you're probably not. Since
 you're doing the risk or the threat modeling per se on your own, there is no
 other person you probably involved into the process which you did like with the
-threat modeling, or did you ask somebody else, like, do you have experience? 
+threat modeling, or did you ask somebody else, like, do you have experience?
 
 [00:25:08 I07 ]
-No. 
+No.
 
 [00:25:09 Researcher 1]
 OK, no other roles involved.
@@ -474,7 +474,7 @@ OK. And yeah. I'll adjust the questions. So, since you were, you said you were
 doing some sort of threat modeling yourself based on your gut feeling, you also
 mentioned that you saw some sort of methodologies online, what they tried out
 and everything. And do you remember like the what kind of websites you tried or
-what kind of method you used? 
+what kind of method you used?
 
 [00:26:37 I07]
 I think there's no specific, like, a source of information. It's different,
@@ -666,7 +666,7 @@ MITRE?
 [00:36:12 Researcher 1]
 No? OK, no then no. That's a prominent attack repository, also for large
 language models. Like for example OWASP Top-, no, that's something different.
-But yeah, ALTAS MITRE.
+But yeah, ATLAS MITRE.
 [Question 12e]
 OK. And so. OK, how often do you see the need to conduct threat modeling for a
 large language model application?
@@ -825,7 +825,7 @@ analyze the logs.
 
 [00:44:55 Researcher 1]
 OK. So, it's so basically, you're saying also your self-driven threat modeling
-approach hads consequences based on the results you received in that self-driven
+approach had consequences based on the results you received in that self-driven
 approach, right?
 
 [00:45:09 I07]
