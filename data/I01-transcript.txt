@@ -404,12 +404,11 @@ to use, because it's quite straightforward on how to do that. But there are many
 approaches on how to document these things in place and also used.
 
 [0:29:13 Researcher 1]
-Mm hmm. Perfect. Thank you.
 [Question 12a]
-So the next block goes a little bit deeper into into the risk assessments and I
-think you're the perfect candidate to talk about it. So: Which system modelling
-types are applied to conduct risk assessment of machine-learning-based
-industrial systems?
+Mm hmm. Perfect. Thank you. So, the next block goes a little bit deeper into the
+risk assessments and I think you're the perfect candidate to talk about it. So:
+Which system modelling types are applied to conduct risk assessment of
+machine-learning-based industrial systems?
 
 [0:29:43 I01]
 Could you give an example? What do you mean by that?
@@ -423,7 +422,7 @@ Typically, what is done is a separation of the entire system into assets, so all
 data, all core functionalities of the system. And those are collected usage of,
 discussion about the subsequent environment where the product will be used. So
 a potential environmental threats that can occur. A separation between data flow
-diagrams. Also in general network diagrams, so, network overview, system
+diagrams, also in general network diagrams, so, network overview, system
 overviews, all of that, are used. And also component diagrams. And strategy-wise
 the main focus are component diagrams, because this is structural-wise, you
 would look at components and think about how this particular component could
