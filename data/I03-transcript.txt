@@ -113,6 +113,7 @@ put all of this into practice and to make sure that the whole [company] is
 behind and then really complying with those.
 
 [0:07:44 Researcher 1]
+[Question 7]
 Now, a short explanation. So we're looking at software intensive products and
 services, also called SIPS as an abbreviation, and those software systems fulfil
 certain requirements. So they're large and complex, usually also subject to
@@ -120,12 +121,10 @@ numerous engineering practices, and there are parts of a dynamic environment.
 So an example for SIPS would be the Spotify app, right, you have a lot of users.
 It's under the subject of many regulations and restrictions. And what's not a
 SIPS is a toy example that was implemented for specific scientific experiments
-and which we also call a toy example.
-
-[Question 7]
-So question #7 with this context, why do you consider security aspects of
-machine learning components in your SIPS in your software systems that are used
-within [company]? For example, during your last project?
+and which we also call a toy example. So question #7 with this context: Why do
+you consider security aspects of machine learning components in your SIPS in
+your software systems that are used within [company]? For example, during your
+last project?
 
 [0:08:57 I03]
 We need to focus on ML/AI compared to other part of the SIPS, as you call it.

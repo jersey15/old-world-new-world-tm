@@ -250,18 +250,17 @@ phase. But the new, so, the new data points for the given features, or signals,
 or, yeah, they stay the same.
 
 [0:13:06 Researcher 1]
+[Question 10]
 All right. Thank you. So, for the next question, we distinguish between two
 scenarios. The first one is, and it goes more into the threat modelling
 direction now, where we're looking into scenario 1 where machine learning
 component is already integrated into a system. And scenario 2 is that,
 basically, a machine learning model or component is planned to be integrated
-into a production system.
-[Question 10]
-So, this is probably a difficult question for you, but I'll maybe, maybe we will
-scratch some experience you had, maybe not directly, but indirectly. What is the
-difference in security aspect assessment of already implemented machine learning
-system and the planned approach to integrate the machine learning component into
-system production.
+into a production system. So, this is probably a difficult question for you, but
+I'll maybe, maybe we will scratch some experience you had, maybe not directly,
+but indirectly. What is the difference in security aspect assessment of already
+implemented machine learning system and the planned approach to integrate the
+machine learning component into system production?
 
 [0:14:11 I04]
 So, I understand the question. I guess it you're also interesting to hear if I

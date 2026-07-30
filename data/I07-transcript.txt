@@ -272,7 +272,7 @@ language model, like the RAG solution.
 
 [0:14:08 Researcher 1]
 Right and you already touched the topic a little bit. With the shallow machine
-learning models, there is no huge security concern.
+learning models, there is no huge security concern?
 
 [0:14:22 I07]
 Yeah.
