@@ -561,18 +561,18 @@ problems and sometimes redo the development.
 
 [00:22:05 Researcher 1]
 OK. So, you're saying that basically security should have been involved and
-considered way earlier
+considered way earlier ...
 
 [00:22:14 I05]
 Yes.
 
 [00:22:14 Researcher 1]
-In the development than it is currently. But you also observed the shift after
-the introduction of GDPR, right? OK, that's also good and there is also changes
-how data is handled, right? And that's also important. Do you know about any
-assessment of data sources, maybe, that are used? Or do you usually receive data
-from the client and then you basically do the anonymization, and that's it, you
-don't have to assess the origin of the data?
+... in the development than it is currently. But you also observed the shift
+after the introduction of GDPR, right? OK, that's also good and there is also
+changes how data is handled, right? And that's also important. Do you know about
+any assessment of data sources, maybe, that are used? Or do you usually receive
+data from the client and then you basically do the anonymization, and that's it,
+you don't have to assess the origin of the data?
 
 [00:22:54 I05]
 Not really, because usually in my case it comes from different teams. So each

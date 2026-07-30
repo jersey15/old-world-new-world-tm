@@ -674,10 +674,9 @@ large language model application?
 [00:36:40 I07]
 Yeah, I think whenever you've done, like, big change to your, like, application
 code around the model. Or the model have the new version to use, then you should
-do this process.
-Like, because then you should have, like, this, how to say, evaluation in, how
-to say, efficient process in place, then you can do every time when certain big
-changes happen to the system.
+do this process. Like, because then you should have, like, this, how to say,
+evaluation in, how to say, efficient process in place, then you can do every
+time when certain big changes happen to the system.
 
 [00:37:18 Researcher 1]
 Because otherwise it's too time-consuming and if you have to freestyle it?

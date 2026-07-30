@@ -268,9 +268,9 @@ that you don't know anything about it. And this adds complexity from a security
 perspective. So needs to be added on top. It is still a niche inside to some
 extent, because we're, as I said, we are still trying to understand how much we
 have to deepen that part to make an assessment on how secure a SIPS is. But this
-is still treated as just any other component, only that some of us are are
-looking more into what kind of attacks can be done out there. And then if there
-is anything that we need to, as I said, we need to add on top of our standard
+is still treated as just any other component, only that some of us are looking
+more into what kind of attacks can be done out there. And then if there is
+anything that we need to, as I said, we need to add on top of our standard
 security process.
 
 [0:20:11 Researcher 1]
@@ -281,7 +281,7 @@ where there is a machine learning component already integrated. And then there
 is the second scenario where we're looking at SIPS, a software system where it
 is planned to include a machine learning component, right? So we have those two
 scenarios. So the question is, what is the difference in security aspects
-assessment of already implemented machine learning SIPS and a plant machine
+assessment of already implemented machine learning SIPS and a planned machine
 learning integration into sips.
 
 [0:21:01 I03]

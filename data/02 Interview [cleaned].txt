@@ -173,7 +173,7 @@ big. So, we have self-developed stuff. We have, you know, open-licensed models.
 So, that there's kind of a plethora of things we're using there. For instance,
 that's one of the known things, if you think about it overall [company], yes, we
 do also make use of the cognitive services at Microsoft and also the ones at
-.Azure.
+Azure.
 
 [0:12:54 Researcher 1]
 Maybe ... Thank you for the answer, but can you, maybe, say what kind of models
@@ -819,9 +819,9 @@ basically similar. I mean Bayesian filters is not, you can categorize it, if you
 want so, as machine learning, but basically, you know, we have that already in
 place so that there's nothing new to it. Yes, it gets difficult with the new
 models or when we have multimodal things. Which we currently, I mean, if you
-talk about talk about GenAI and self-adapting [AI], that's simply a new
-environment, which, usually, people ask, how should I do that? And currently, my
-answer is, honestly speaking, I don't have a clue yet. [laughs]
+talk about GenAI and self-adapting [AI], that's simply a new environment, which,
+usually, people ask, how should I do that? And currently, my answer is, honestly
+speaking, I don't have a clue yet. [laughs]
 
 [0:57:02 I02]
 I mean, I guess you follow, you know, also the academia and also the attacks on
