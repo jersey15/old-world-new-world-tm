@@ -721,7 +721,7 @@ it's easier to explain, OK? It depends a little bit where we are, but if you
 think of web application, firewall is a solution or a solution concept you have
 there. You can go there and buy something and put it in there. You don't need to
 reinvent the wheel. Someone thought about that part, and it's a well-known
-concept how to restrict, let' say, attacks to it, on API level, or sometimes
+concept how to restrict, let's say, attacks to it, on API level, or sometimes
 even on, you know, application layer, OK? It is as simple as that. It's not
 perfect. You still have, you know, some ways to bypass it, but it is a way to
 secure it. That means, you know, well-known concepts and apply to that thing and
@@ -733,7 +733,7 @@ Sometimes, getting back to a prompt injection, are there any known ways to do
 it? Currently, not really. So, they are coming up, you know, providers and
 solutions to do that. You see some scientifical papers which propose some
 different things, but in the end, there's no solution or no concept yet known
-how to prevent it. That ends up with, OK, we just need to way to solve that
+how to prevent it. That ends up with, OK, we just need a way to solve that
 problem somehow. And even if the mitigation means, OK, give it just to only
 people you know and monitor, you know, the behavior of that thing, search for,
 you know, omit or add the rules or change rules, you know, and the prompts to at
