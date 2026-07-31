@@ -113,39 +113,39 @@ the access to data, or access to the machine learning model per se and what are
 the access protocols, for example? So, how important was that?
 
 [0:05:28 I04]
-This is also, I guess, a bit hard to answer because I haven't really delivered a
-sort of machine learning solution in production. We have mostly, in my previous
-company, delivered proof of concepts where, of course, you have, you think of
-the security aspect as that you need to make sure that it's delivered and
-fulfilled in the production solution.
+This is also, I guess, a bit hard to answer, because I haven't really delivered
+a sort of machine learning solution in production. We have mostly, in my
+previous company, delivered proof-of-concepts, where, of course, you have, you
+think of the security aspect as that you need to make sure that it's delivered
+and fulfilled in the production solution.
 
 [0:06:00 Researcher 2]
-So basically, just to clarify, I think my understanding is that: Security is not
-really important when you're doing the proof of concept? Is that what you are
-saying?
+So, basically, just to clarify, I think my understanding is that: Security is
+not really important when you're doing the proof-of-concept? Is that what you
+are saying?
 
 [0:06:10 I04]
 I would say it's not as high priority as if you deliver a solution in
-production. You still need to address some and this I guess this is also my
+production. You still need to address some, and this, I guess, this is also my
 question: Do we want to consider the aspect of making sure that the solution is
 not biassed, is that part of security in your idea? Or is it just? Or is it not?
 
 [0:06:35 Researcher 1]
-No, it's also part of it. So basically, biassing a machine learning model in
-that example has something to do with the training data that is available,
+No, it's also part of it. So, basically, biassing a machine learning model, in
+that example, has something to do with the training data that is available,
 right?
 
 [0:06:47 I04]
 Yeah, exactly.
 
-[0:06:48 I04]
+[0:06:48 Researcher 1]
 So, it's just a shard I would say. So, we can either bias the data which can be
 used for malicious purposes as well or any other, like, variation of that point.
 So yes, data quality or the cleanness of data and we would be also interesting.
 
 [0:07:04 I04]
 Yeah, yeah. Because I guess because, yeah, for one of my previous projects where
-we did time series analysis, we went, [a] large aspect of the project was to go
+we did time series analysis, we went, a large aspect of the project was to go
 through various data sources that we would leverage then and try and see what
 could be part of the model. So, for those we, so, we didn't follow sort of a
 security protocol, but we really, we wanted to deliver a really robust model.
@@ -489,7 +489,7 @@ actually building the PoC. That could be relevant, right?
 [0:26:30 I04]
 Yeah, I mean, depends on, yeah, I mean, I can totally see the need or the use of
 having a risk assessment earlier. If, I mean, if you delivered the PoC you
-realism you would have needed to do this to, I mean, if you think of that for
+realize you would have needed to do this to, I mean, if you think of that, for
 you build the PoC and then you redo it, and you build the production solution
 with all the necessary risk assessments, you might see that you would have done
 things differently if you knew that already when you did the PoC. Then of course
@@ -501,16 +501,15 @@ I mean you; you answered it partially as well. So, if the person building the
 PoC already knows where it is placed and the risk assessment was already done
 around the component where it should be and the surrounding, then you can also
 act accordingly on those security assessment results within the PoC. But if
-there is none, then obviously cannot be done right. But PoC as a quick and dirty
-solution. Yeah. No. Perfect. Thank you.
-
+there is none, then obviously cannot be done, right. But PoC as a quick and
+dirty solution. Yeah. No. Perfect. Thank you.
+[Question 16]
 Right. So, the last part of the interview is "future needs and wishes", and the
 instructions are easy. So, you just give a you just give a number. So, 1 stands
 for "insufficiently covered in my company". Based on your early entrance to the
 company, we can just use your previous employer. I think that's fine too, unless
 you know it for your current employer. And 10 means "very well covered in my
 company". But you can choose a range in between 1 and 10, right.
-[Question 16]
 So, the ability to select fit-for-purpose, machine learning components or models
 to include in machine learning system and production is ...?
 

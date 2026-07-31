@@ -258,8 +258,8 @@ NLP models, transformers, hugging faces. Yeah, and a lot around that
 [0:14:08 Researcher 1]
 Alright, a large variety.
 [Question 9]
-OK. And so, since you already did not experience any
-security, let's say, focus in your clients, we can skip this question.
+OK. And so, since you already did not experience any security, let's say, focus
+in your clients, we can skip this question.
 [Question 10]
 And uhm, well, uh yeah, context wise, now we have 2 scenarios. So, scenario 1 is
 looking into machine learning integration, right? And the other one is that a
@@ -578,14 +578,13 @@ company or the client.
 Absolutely.
 
 [0:29:28 Researcher 1]
-Alright, OK. OK, interesting.
-Right, then we can go over to the last segment of the interview,
-which is "future needs and wishes", and the instructions are simple.
-So, I'll read a statement and then you'll say a number between 1 and 10.
+[Question 16]
+Alright, OK. OK, interesting. Right, then we can go over to the last segment of
+the interview, which is "future needs and wishes", and the instructions are
+simple. So, I'll read a statement and then you'll say a number between 1 and 10.
 And then 1 means "it's insufficiently covered in my company" and 10 means
 "it's very well covered in my company" and we're referring here to abilities,
 right? So, the first statement will be:
-[Question 16]
 The ability to select fit-for-purpose machine learning components to include
 in machine learning systems in production is ...?
 
@@ -671,7 +670,7 @@ So, it's really interesting. It makes me really humble to hear those questions
 about a lot of things [laughs] I don't know about it. But yeah, I mean a little
 bit of context about, this is what we do, and this is what we. Like, maybe, I
 will have a bit more of like respondent and like ideas about what we could be
-talking in terms of questions, because, yeah. From my perspective security is
+talking in terms of questions, because, yeah. From my perspective, security is
 really important, but we don't, I don't tackle it consciously. It's more like
 from behavior from my ethics and moral not using any kind of, trying to not use
 bias in my models, based on where the data are coming, but also where the data

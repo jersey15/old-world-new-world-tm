@@ -67,8 +67,8 @@ Okay! [inaudible]
 
 [0:03:06 Researcher 1]
 [Question 3]
-Did you have any experience, training or education and machine learning security
-or adversarial machine learning?
+Did you have any experience, training, or education and machine learning
+security or adversarial machine learning?
 
 [0:03:13 I07]
 Not specifically machine and security. I, like in education-wise, I like,
@@ -446,7 +446,7 @@ you're doing the risk or the threat modeling per se on your own, there is no
 other person you probably involved into the process which you did like with the
 threat modeling, or did you ask somebody else, like, do you have experience?
 
-[0:25:08 I07 ]
+[0:25:08 I07]
 No.
 
 [0:25:09 Researcher 1]
@@ -483,7 +483,7 @@ academia background. So, they have different blog posts, like, this is some
 examples that you can trying to break through the security gate of the model.
 
 [0:27:07 Researcher 1]
-OK, interesting. And so based on your experiences with the blogs and
+OK, interesting. And so based on your experiences with the blogs and ...?
 
 [0:27:17 I07]
 Also, some documents, like the technical documents of the service, they also
@@ -560,9 +560,9 @@ were not so impressive?
 No. [affirmative]
 
 [0:30:41 Researcher 1]
-OK. But it was it was a mix, OK. But the graphical presentation was and the
-graphical representation of what kind of level was it? Was it a component
-diagram? Was it the data flow diagram? Or ...
+OK. But it was a mix, OK. But the graphical presentation was and the graphical
+representation of what kind of level was it? Was it a component diagram? Was it
+the data flow diagram? Or ...
 
 [0:30:54 I07]
 I think it's, flow. The data flow, yeah.

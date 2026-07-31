@@ -33,7 +33,7 @@ software like [software], for example. And then I moved to [company].
 [0:01:05 Researcher 1]
 Right. Thank you.
 [Question 3]
-Then did you have any experience, training or education in machine learning
+Then did you have any experience, training, or education in machine learning
 security or adversarial machine learning?
 
 [0:01:15 I05]
@@ -329,9 +329,9 @@ I have no idea in that sense.
 OK. So you haven't experienced it?
 
 [0:12:20 I05]
-No, I haven't experienced with that. I, let's say that my scope ends in providing
-the data to the business users. Let's say that I provide the data to the data
-scientist, and they implement their own models.
+No, I haven't experienced with that. I, let's say that my scope ends in
+providing the data to the business users. Let's say that I provide the data to
+the data scientist, and they implement their own models.
 
 [0:12:31 Researcher 1]
 OK. All right, so you don't know to which models the data is fueled?
@@ -407,7 +407,7 @@ preparation, for example?
 
 [0:16:03 I05]
 Hmm. I mean, you always have to adapt things when the security became to be a
-hot topic within the area. Of course you have to make changes in the flow. You
+hot topic within the area. Of course you have to do changes in the flow. You
 have to adapt. Companies aren’t updated with that, are not up-to-date, so they
 have to introduce that kind of logic and that the whole teams and the whole
 development, the whole ...
@@ -601,10 +601,10 @@ OK. OK. So alright then. Then I think that's it.
 Maybe just some complimentary questions from my side, based on, of course, what
 we had discussed with [an other interviewee]. We discussed a little bit on these
 proof of concepts, the PoCs that we are doing and usually we don't consider
-security for the proof of concept because it's something that is, OK, it's
-probably a proof of concept you just want to make sure that it works. Just stick
+security for the proof-of-concept because it's something that is, OK, it's
+probably a proof-of-concept you just want to make sure that it works. Just stick
 something together and then let's see how it goes. And there are sometimes cases
-that that proof of concept it ends up being the product. And then you will have
+that that proof-of-concept it ends up being the product. And then you will have
 all of a sudden problems of security or any other problems because you didn't
 think that, or at least you thought maybe we will have the chance to improve it,
 but not. So, in this context, I think security is really, like, missing.
