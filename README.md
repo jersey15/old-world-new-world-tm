@@ -1,8 +1,11 @@
 # old-world-new-world-tm
+
 This repository represents the replication package for the study called ``From the Old World to the New World: An Explanatory Model of Threat Modeling Challenges in LLM-Integrated Industrial Software Systems'', authored by Felix Viktor Jedrzejewski, Franz Zieris, Tony Gorschek, Daniel Mendez, and Ehsan Zabardast. The purpose of this repository is to increase the transparency and replicability of our findings. 
 
 The following content is covered by this repository:
-* The `data` folder contains the anonymised interview transcripts
+
+* The `data/` folder contains the anonymised interview transcripts
+* `codings-codebook.xlsx` contains the _codings_ (coded excerpts from the interview transscripts) and the _codebook_ (overview of developed codes)
 * `Interview Template.pdf` shows the questions which were asked during each interview
 
 ## License
