@@ -16,4 +16,4 @@ This repository is licensed under the Creative Commons Attribution 4.0 Internati
 
 If you use this replication package, please cite the associated publication and/or this repository using the citation information provided in `CITATION.cff`.
 
-<!-- [![DOI](https://zenodo.org/badge/DOI/XXX)](https://doi.org/XXX) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22678613.svg)](https://doi.org/10.5281/zenodo.22678613)
