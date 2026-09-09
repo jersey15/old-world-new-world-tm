@@ -330,7 +330,7 @@ and contributing to a risk assessment, and therefore you also, typically, have
 experts in the technology there.
 
 [0:23:12 I01]
-However, I would say that at a certain level of of knowledge about a technology
+However, I would say that at a certain level of knowledge about a technology
 highly benefits the assessment process because you get a feeling about typical
 problems, typical issues that can be encountered and know where the weak spots
 of such a system is. So my answer to that question would be: I see a certain

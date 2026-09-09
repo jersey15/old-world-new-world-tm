@@ -768,19 +768,19 @@ introduced to the certain life cycle of the software system?
 
 [0:52:36 I02]
 Basically, and that's maybe one of the things which is very special, we try to
-integrate that into into the overall processes. So, the idea if you build up,
-you know, a solution somehow, that solution needs to follow already, you know,
-the existing processes we have there, which are not clarifying only machine
-learning stuff, but there is legal, there is cyber-security, there are a lot of
-things, you know, they just need to follow. Those processes are somehow
-streamlined to support our, you know, business owners but also the developers of
-any solution, guide them through as best as possible, you know, through the
-different requirements. That means we don't add additional things in terms of
-additional steps to it, but yes, there are additional, let's see, machine
-learning specifics in there. For instance, when we look at the GenAI, this is
-exactly what we're working on, to increase the processes with additional risk
-model threats, you know, and also questions to guide them already in that
-process through the things. Does that make sense to you?
+integrate that into the overall processes. So, the idea if you build up, you
+know, a solution somehow, that solution needs to follow already, you know, the
+existing processes we have there, which are not clarifying only machine learning
+stuff, but there is legal, there is cyber-security, there are a lot of things,
+you know, they just need to follow. Those processes are somehow streamlined to
+support our, you know, business owners but also the developers of any solution,
+guide them through as best as possible, you know, through the different
+requirements. That means we don't add additional things in terms of additional
+steps to it, but yes, there are additional, let's see, machine learning
+specifics in there. For instance, when we look at the GenAI, this is exactly
+what we're working on, to increase the processes with additional risk model
+threats, you know, and also questions to guide them already in that process
+through the things. Does that make sense to you?
 
 [0:53:44 Researcher 1]
 It makes sense. However, since machine learning and machine learning security
